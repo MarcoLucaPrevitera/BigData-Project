@@ -1,0 +1,10 @@
+- cut the 3.5 GB of data into 30MB, more or less 30.000 nodes
+- making the .xml working adding the closure xml statements
+- escaped html characters with unicode representation
+- analisys of final xml data
+
+
+IN PROGRESS:
+- capire quanti tag utilizzare per conversione in csv
+- generazione relationships in maniera random
+- importazione dati in db
