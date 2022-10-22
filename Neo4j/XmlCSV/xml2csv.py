@@ -7,17 +7,23 @@ root = tree.getroot()
 out_csv = open('output.csv', 'w')
 
 
-elemList = []
+typeList = []
 
-for elem in tree.iter():
-    elemList.append(elem.tag)
+for child in root:
+    typeList.append(child.tag)
 
-# now I remove duplicities - by convertion to set and back to list
-elemList = list(set(elemList))
+typeList = list(set(typeList))
+print(typeList)
 
-# Just printing out the result
-print(elemList)
-
+for pub_type in typeList:
+    tmpList = []
+    print("Elaborating ", pub_type, ":")
+    for elem in root.findall(pub_type):
+        for inner in elem.iter():
+            tmpList.append(inner.tag)
+    tmpList = list(set(tmpList))
+    print(tmpList)
+    print("")
 
  
 # csvwriter = csv.writer(out_csv)
