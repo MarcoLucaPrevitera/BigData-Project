@@ -17,7 +17,7 @@ print(typeList)
 
 for pub_type in typeList:
     tmpList = []
-    print("Elaborating ", pub_type, ":")
+    print("Elaborating ", pub_type, ", size:", len(root.findall(pub_type)))
     for elem in root.findall(pub_type):
         for inner in elem.iter():
             tmpList.append(inner.tag)
