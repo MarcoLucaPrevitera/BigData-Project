@@ -1,11 +1,11 @@
-- cut the 3.5 GB of data into 30MB, more or less 30.000 nodes
+- cut the 3.5 GB of data into 30MB, more or less 60.000 nodes
 - making the .xml working adding the closure xml statements
-- escaped html characters with unicode representation
+- escaped html characters with unicode representation + cleaning the xml non standard code
 - analisys of final xml data
-- converter py from xml to csv
+- converter py from xml to csv (for example book/author0 is the attribute first author of the book... because we have different type of publics)
 - removed strange accents from csv using py
 
 
 IN PROGRESS:
 - generazione relationships in maniera random
-- importazione dati in db
+- importazione dati in db (provato con script da terminale, con comando load csv di cypher direttamente da cartella import di Neo4J oppure con python)
