@@ -6,7 +6,7 @@ outputFile="out30M.xml"
 
 input = open(inputFile,'rb')
 text = input.read(30000000)
-output = open("temp.xml",'wb')
+output = open("temp.xml",'wb',encoding="utf-8")
 output.write(text)
 output.close()
 

@@ -6,7 +6,7 @@ import copy
  
 tree = ET.parse("out30M.xml")
 root = tree.getroot()
-out_csv = open('output.csv','w', newline='', encoding='utf-8')
+out_csv = open('output.csv','w', newline='', encoding='UTF-8')
 csvwriter = csv.writer(out_csv)
 
 currIndex = 1
@@ -52,8 +52,9 @@ for pub_type in csvIndex.keys():
 
 
 
-csvwriter.writerow(csvHeader)
+csvwriter.writerow(csvHeader) #write the header row
 
+#loads the data in the csv
 for pub_type in csvIndex.keys():
     for elem in root.findall(pub_type):
         row = [""] * currIndex #array initialization
