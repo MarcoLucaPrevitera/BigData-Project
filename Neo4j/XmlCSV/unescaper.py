@@ -6,11 +6,11 @@ outputFile="out30M.xml"
 
 input = open(inputFile,'rb')
 text = input.read(30000000)
-output = open("temp.xml",'wb',encoding="utf-8")
+output = open("temp.xml",'wb')
 output.write(text)
 output.close()
 
-output = open(outputFile, 'a', encoding="utf-8")
+output = open(outputFile, 'a', encoding="UTF-8")
 output.truncate(0)
 count = 0
 
