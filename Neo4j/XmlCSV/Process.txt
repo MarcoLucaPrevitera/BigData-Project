@@ -3,9 +3,9 @@
 - escaped html characters with unicode representation
 - analisys of final xml data
 - converter py from xml to csv
+- removed strange accents from csv using py
 
 
 IN PROGRESS:
-- rimuovere accenti strani attraverso python
 - generazione relationships in maniera random
 - importazione dati in db
