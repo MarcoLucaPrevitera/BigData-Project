@@ -1,0 +1,45 @@
+-----------------------LOAD AUTHORS OF ARTICLES-----------------------------
+
+LOAD CSV WITH HEADERS FROM 'file:///out1.csv' AS row
+UNWIND range(0,54) AS i
+WITH i, row WHERE row['article/author'+toString(i)] IS NOT NULL
+MERGE (a:author {name: row['article/author'+toString(i)]})
+
+
+---------------------LOAD JOURNALS OF ARTICLES-------------------------------
+
+LOAD CSV WITH HEADERS FROM 'file:///out1.csv' AS row
+WITH row WHERE row['article/journal0'] IS NOT NULL
+MERGE (j:journal {name: row['article/journal0']})
+
+-------------------------LOAD ARTICLES--------------------------------------
+
+LOAD CSV WITH HEADERS FROM 'file:///out1.csv' AS row
+WITH row
+MERGE (a:article {id: row.key})
+ON CREATE SET a.title = row['article/title0'] 
+ON CREATE SET a.year = row['article/year0'] 
+ON CREATE SET a.volume = row['article/volume0'] 
+ON CREATE SET a.month = row['article/month0']
+
+---------------------LOAD RELATIONS----------------------------------------
+LOAD CSV WITH HEADERS FROM 'file:///out1.csv' AS row
+UNWIND range(0,54) AS i
+WITH i, row WHERE row['article/author'+toString(i)] IS NOT NULL
+MATCH (a:author {name: row['article/author'+toString(i)]})
+MATCH (ar:article {id: row.key})
+MERGE (ar)-[:WRITTEN_BY]->(a)
+
+--------------------FIND ALL-------------------------------------------
+match(n:article)-[r]-(m:author), (s)
+return n,r,m,s
+
+--------------------FIND ARTICLE-------------------------------------------
+match(n:article)-[r]-(m:author)
+where n.title = 'Spectre Attacks: Exploiting Speculative Execution.'
+return n,r,m
+
+--------------------FIND AUTHOR-----------------------------------------
+match(n:article)-[r]-(m:author)
+where m.name = 'Frank Manola'
+return n,r,m
