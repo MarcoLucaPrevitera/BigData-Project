@@ -4,7 +4,7 @@ import math
 import random
 import copy
  
-input_file = "out30M.xml"
+input_file = "out100M.xml"
 num_limit = 2000
  
 tree = ET.parse(input_file)
@@ -24,6 +24,7 @@ for child in root:
 for pub_type in csvIndex.keys():
     maxDict = {} #object to store the maximum number of attributes for each pubblication type
     currIndex = 2
+    counter = 0
     
     for elem in root.findall(pub_type):
         thisDict = {}
@@ -42,6 +43,10 @@ for pub_type in csvIndex.keys():
                     maxDict[innerTag.tag] = thisDict[innerTag.tag]
             else:
                 maxDict[innerTag.tag]=1 #we create the tag in the dictionary
+                
+        counter += 1
+        if counter>=num_limit:
+            break
     
     #load the found number of attributes for that pubblication type in the global model of indexes
     for key in maxDict.keys():
