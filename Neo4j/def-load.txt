@@ -1,0 +1,26 @@
+
+-----------------------------------------ARTICLES----------------------------------------
+
+#LOAD ARTICLES
+LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
+WITH row
+MERGE (art:Article {id: row.key})
+ON CREATE SET a.date = row['date']
+ON CREATE SET a.title = row['title0']
+ON CREATE SET a.ee = row['ee0']
+ON CREATE SET a.note = row['note0'] 
+ON CREATE SET a.publisher = row['publisher0']
+
+#LOAD AUTHORS
+LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
+UNWIND range(0,21) AS i
+WITH i, row WHERE row['author'+toString(i)] IS NOT NULL
+MERGE (aut:Author {name: row['author'+toString(i)]})
+
+#LOAD WRITTEN_BY RELATIONS
+LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
+UNWIND range(0,21) AS i
+WITH i, row WHERE row['author'+toString(i)] IS NOT NULL
+MATCH (aut:Author {name: row['author'+toString(i)]})
+MATCH (art:Article {id: row.key})
+MERGE (art)-[:WRITE]-(aut)
