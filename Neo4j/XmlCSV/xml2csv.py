@@ -12,7 +12,8 @@ root = tree.getroot()
 
 csvIndex = {}
 csvHeaders = {}
-keyList = []
+keyListProceedings = []
+keyListBooks = []
 
 #find all types of pubblications and loads to a dictionary
 for child in root:
@@ -28,7 +29,12 @@ for pub_type in csvIndex.keys():
     
     for elem in root.findall(pub_type):
         thisDict = {}
-        keyList.append(elem.attrib["key"])#save the key of that article in a list for randomic assigment
+        
+        if pub_type == "proceedings":
+            keyListProceedings.append(elem.attrib["key"])#save the key of that article in a list for randomic assigment
+            
+        if pub_type == "book":
+            keyListBooks.append(elem.attrib["key"])#save the key of that article in a list for randomic assigment
         
         for innerTag in elem:
             #counts the number of each tags for an element
@@ -80,7 +86,13 @@ for pub_type in csvIndex.keys():
         #load dynamic values of tags
         for innerTag in elem:
             row_pos = tmpIndex[pub_type][innerTag.tag] #get the write column position
-            row[row_pos] = innerTag.text #write the corrisponding value
+            if innerTag.tag == "crossref" and pub_type == "incollection":
+                row[row_pos] = random.choice(keyListBooks)
+            elif innerTag.tag == "crossref" and pub_type == "inproceedings":
+                row[row_pos] = random.choice(keyListProceedings)
+            else:
+                row[row_pos] = innerTag.text #write the corrisponding value
+                
             tmpIndex[pub_type][innerTag.tag]+=1 #increment the writing position
             
         csvwriter.writerow(row)
