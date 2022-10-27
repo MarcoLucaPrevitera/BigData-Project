@@ -1,0 +1,3 @@
+date,key,author0,title0,booktitle0,year0,url0,crossref0,ee0,month0,pages0,note0,cdrom0
+2019-07-30,www/org/mitre/future,Arnon Rosenthal,The Future of Classic Data Administration: Objects + Databases + CASE,SWEE,1998,db/conf/swee/swee1998.html,conf/swee/1998,http://www.mitre.org/support/swee/rosenthal.html,,,,
+2019-08-02,persons/Codd74,E. F. Codd,Seven Steps to Rendezvous with the Casual User.,IFIP Working Conference Data Base Management,1974,db/conf/ds/dbm74.html#Codd74,conf/ds/1974,,January,179-200,"IBM Research Report RJ 1333, San Jose, California",DS/DS1974/P179.pdf

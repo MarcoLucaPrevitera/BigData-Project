@@ -4,24 +4,26 @@ import math
 import random
 import copy
  
-tree = ET.parse("out30M.xml")
+input_file = "out30M.xml"
+num_limit = 2000
+ 
+tree = ET.parse(input_file)
 root = tree.getroot()
-out_csv = open('output.csv','w', newline='', encoding='UTF-8')
-csvwriter = csv.writer(out_csv)
 
-currIndex = 4
 csvIndex = {}
+csvHeaders = {}
 keyList = []
-csvHeader = ["type","date","key","pubtype"]
 
 #find all types of pubblications and loads to a dictionary
 for child in root:
     if child.tag not in csvIndex:
         csvIndex[child.tag]={}
+        csvHeaders[child.tag]=[]
 
 #scan all pub types
 for pub_type in csvIndex.keys():
     maxDict = {} #object to store the maximum number of attributes for each pubblication type
+    currIndex = 2
     
     for elem in root.findall(pub_type):
         thisDict = {}
@@ -45,27 +47,30 @@ for pub_type in csvIndex.keys():
     for key in maxDict.keys():
         csvIndex[pub_type][key] = currIndex
         currIndex = currIndex+maxDict[key]
+
+        csvHeaders[pub_type] = ["date","key"]
+        for key in maxDict.keys():
+            #creates the header for the csv
+            for n in range(maxDict[key]):
+                csvHeaders[pub_type].append(key+str(n))
         
-        #creates the header for the csv
-        for n in range(maxDict[key]):
-            csvHeader.append(pub_type+"/"+key+str(n))
 
-
-
-csvwriter.writerow(csvHeader) #write the header row
 
 #loads the data in the csv one type at time
 for pub_type in csvIndex.keys():
+    counter = 0
+    out_csv = open(pub_type+'.csv','w', newline='', encoding='UTF-8')
+    csvwriter = csv.writer(out_csv)
+           
+    csvwriter.writerow(csvHeaders[pub_type]) #write the header row
+
     for elem in root.findall(pub_type):
-        row = [""] * currIndex #array initialization
+        row = [""] * len(csvHeaders[pub_type]) #array initialization
         tmpIndex = copy.deepcopy(csvIndex) #duplicate the index model for writing
         
         #load fixed attributes of pubblications
-        row[0] = pub_type
-        row[1] = elem.attrib["mdate"]
-        row[2] = elem.attrib["key"]
-        if "publtype" in elem.attrib:
-            row[3] = elem.attrib["publtype"]
+        row[0] = elem.attrib["mdate"]
+        row[1] = elem.attrib["key"]
         
         #load dynamic values of tags
         for innerTag in elem:
@@ -74,5 +79,8 @@ for pub_type in csvIndex.keys():
             tmpIndex[pub_type][innerTag.tag]+=1 #increment the writing position
             
         csvwriter.writerow(row)
+        counter += 1
+        if counter>=num_limit:
+            break
         
-out_csv.close()
+    out_csv.close()    

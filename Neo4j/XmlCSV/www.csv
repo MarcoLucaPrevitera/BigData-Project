@@ -1,0 +1,17 @@
+date,key,title0,ee0,year0,author0,author1,author2,author3,author4,editor0,editor1,editor2,editor3,editor4,editor5
+2019-07-10,www/org/w3/style-xsl,W3C: Extensible Stylesheet Language (XSL),http://www.w3.org/Style/XSL/,2001,,,,,,,,,,,
+2019-07-10,www/org/w3/http1-1,Internet Draft: Hypertext Transfer Protocol - HTTP/1.1,http://www.w3.org/Protocols/HTTP/1.1/spec.html,1999,Roy T. Fielding,Henrik Frystyk Nielsen,Tim Berners-Lee,,,,,,,,
+2019-07-10,www/org/w3/dom,W3C: Document Oject Model (DOM),http://www.w3.org/DOM/,1997,,,,,,,,,,,
+2019-05-27,www/org/w3/TR/query-datamodel,XML Query Data Model,http://www.w3.org/TR/query-datamodel,2001,,,,,,Mary F. Fernandez,Jonathan Robie,,,,
+2019-05-27,www/org/w3/TR/REC-xml,W3C: Extensible Markup Language (XML) 1.0 - first edition.,https://www.w3.org/TR/xml/,1998,,,,,,,,,,,
+2019-05-27,www/org/w3/TR/xquery,XQuery: A Query Language for XML,http://www.w3.org/TR/xquery,2001,,,,,,Donald D. Chamberlin,Daniela Florescu,Jonathan Robie,Jérôme Siméon,Mugur Stefanescu,
+2019-05-27,www/org/w3/TR/xmlquery-use-cases,XML Query Use Cases,http://www.w3.org/TR/xmlquery-use-cases,2001,,,,,,Donald D. Chamberlin,Peter Fankhauser,Massimo Marchiori,Jonathan Robie,,
+2019-05-27,www/org/w3/TR/NOTE-xml-ql,XML-QL: A Query Language for XML,http://www.w3.org/TR/NOTE-xml-ql/,1998,Alin Deutsch,Mary F. Fernandez,Daniela Florescu,Alon Y. Levy,Dan Suciu,,,,,,
+2019-05-27,www/org/w3/TR/xmlquery-req,XML Query Requirements,http://www.w3.org/TR/xmlquery-req,2001,,,,,,Donald D. Chamberlin,Peter Fankhauser,Massimo Marchiori,Jonathan Robie,,
+2019-05-27,www/org/w3/TR/query-algebra,The XML Query Algebra,http://www.w3.org/TR/2000/WD-query-algebra-20001204/,2001,,,,,,Peter Fankhauser,Mary F. Fernández,Ashok Malhotra,Michael Rys,Jérôme Siméon,Philip Wadler
+2019-07-10,www/org/w3/ql98,"W3C: The w3c Query Language Workshop, December 1998, Boston, MA, USA",http://www.w3.org/TandS/QL/QL98/,1998,,,,,,,,,,,
+2019-07-10,www/org/aiim-wfmc,"WfMC Standards: The Workflow Reference Model, Version 1.1.",http://www.aiim.org/wfmc/mainframe.htm,1995,,,,,,,,,,,
+2019-07-10,www/org/oasis-open-cover-xml,The SGML/XML Web Page,http://xml.coverpages.org/sgml-xml.html,2006,Robin Cover,,,,,,,,,,
+2016-10-21,www/de/kts,"Klaus Tschira Stiftung gemeinnützige GmbH, KTS",http://www.klaus-tschira-stiftung.de/,2012,,,,,,Klaus Tschira,,,,,
+2018-10-18,persons/Ley2003,ACM SIGMOD Contribution Award 2003 Acceptance Speech,http://www.informatik.uni-trier.de/~ley/db/about/contributionaward03.html,2003,Michael Ley,,,,,,,,,,
+2018-07-05,persons/Ley93,DBLP.uni-trier.de: Computer Science Bibliography,http://dblp.uni-trier.de/,1993,Michael Ley,,,,,,,,,,
