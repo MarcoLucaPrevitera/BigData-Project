@@ -64,7 +64,7 @@ for pub_type in csvIndex.keys():
 #loads the data in the csv one type at time
 for pub_type in csvIndex.keys():
     counter = 0
-    out_csv = open(pub_type+'.csv','w', newline='', encoding='UTF-8')
+    out_csv = open("./csv/"+pub_type+'.csv','w', newline='', encoding='UTF-8')
     csvwriter = csv.writer(out_csv)
            
     csvwriter.writerow(csvHeaders[pub_type]) #write the header row
