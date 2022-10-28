@@ -31,8 +31,8 @@ MATCH (ar:article {id: row.key})
 MERGE (ar)-[:WRITTEN_BY]->(a)
 
 --------------------FIND ALL-------------------------------------------
-match(n:article)-[r]-(m:author), (s)
-return n,r,m,s
+match(n)-[r]-(m)
+return n,r,m
 
 --------------------FIND ARTICLE-------------------------------------------
 match(n:article)-[r]-(m:author)
