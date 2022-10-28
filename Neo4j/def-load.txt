@@ -4,56 +4,32 @@
 #LOAD ARTICLES
 LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
 WITH row
-MERGE (art:Article {id: row.key})
+MERGE (art:Article:Pubblication {id: row.key})
 ON CREATE SET art.date = row['date'], art.title = row['title0'], art.ee = row['ee0'], art.note = row['note0'], art.publisher = row['publisher0']
 
 #LOAD AUTHORS
 LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
+WITH row
+MATCH (article:Article {id: row.key})
 UNWIND range(0,21) AS i
-WITH i, row WHERE row['author'+toString(i)] IS NOT NULL
+WITH i, article, row WHERE row['author'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['author'+toString(i)]})
+MERGE (aut)-[:WRITE]-(article)
 
-#LOAD WRITTEN_BY RELATIONS
-LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
-UNWIND range(0,21) AS i
-WITH i, row WHERE row['author'+toString(i)] IS NOT NULL
-MATCH (aut:Author {name: row['author'+toString(i)]})
-MATCH (art:Article {id: row.key})
-MERGE (art)-[:WRITE]-(aut)
-
-#LOAD JOURNALS AND RELATIONS
-LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
-WITH row WHERE row['journal0'] IS NOT NULL
-MERGE (j:Journal {name: row['journal0']})
-WITH j, row
-MATCH (art:Article {id: row.key})
-MERGE (art)-[rel:PUBLICATE]-(j)
-ON CREATE SET rel.year = row.year0, rel.month = row.month0, rel.volume = row.volume0, rel.pages = row.pages0, rel.number = row.number0
-
-#--------------------------------ALL IN ONE ARTICLE------------------------------------------------------
+#LOAD JOURNALS
 LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
 WITH row
-MERGE (art:Article {id: row.key})
-ON CREATE SET art.date = row['date'], art.title = row['title0'], art.ee = row['ee0'], art.note = row['note0'], art.publisher = row['publisher0']
-WITH row
-UNWIND range(0,21) AS i
-WITH i, row WHERE row['author'+toString(i)] IS NOT NULL
-MERGE (aut:Author {name: row['author'+toString(i)]})
-WITH i, row
 MATCH (art:Article {id: row.key})
-MERGE (art)-[:WRITE]-(aut)
 WITH row WHERE row['journal0'] IS NOT NULL
 MERGE (j:Journal {name: row['journal0']})
-WITH j, row
-MATCH (art:Article {id: row.key})
-MERGE (art)-[rel:PUBLICATE]-(j)
+MERGE (j)-[rel:PUBLICATE]-(art)
 ON CREATE SET rel.year = row.year0, rel.month = row.month0, rel.volume = row.volume0, rel.pages = row.pages0, rel.number = row.number0
 
 #---------------------------------MASTERTHESIS--------------------------------------------------
 #LOAD MASTERTHESIS
 LOAD CSV WITH HEADERS FROM 'file:///mastersthesis.csv' AS row
 WITH row
-MERGE (mast:Mastersthesis {id: row.key})
+MERGE (mast:Mastersthesis:Pubblication {id: row.key})
 ON CREATE SET mast.date = row['date'], mast.title = row['title0'], mast.ee = row['ee0'], mast.note = row['note0'], mast.school = row['school0'], mast.year = row['year0']
 
 #LOAD AUTHORS
@@ -62,4 +38,109 @@ WITH row WHERE row['author0'] IS NOT NULL
 MERGE (aut:Author {name: row['author0']})
 WITH row, aut
 MATCH (mast:Mastersthesis {id: row.key})
-MERGE (mast)-[:WRITE]-(aut)
+MERGE (aut)-[:WRITE]-(mast)
+
+#---------------------------WWW--------------------------------------------------------
+#LOAD WWW
+LOAD CSV WITH HEADERS FROM 'file:///www.csv' AS row
+WITH row
+MERGE (www:Www:Pubblication {id: row.key})
+ON CREATE SET www.date = row['date'], www.title = row['title0'], www.ee = row['ee0'], www.year = row['year0']
+
+#LOAD AUTHORS
+LOAD CSV WITH HEADERS FROM 'file:///www.csv' AS row
+WITH row
+MATCH (www:Www {id: row.key})
+UNWIND range(0,4) AS i
+WITH i, www, row WHERE row['author'+toString(i)] IS NOT NULL
+MERGE (aut:Author {name: row['author'+toString(i)]})
+MERGE (aut)-[:WRITE]-(www)
+
+#LOAD EDITORS AS AUTHORS
+LOAD CSV WITH HEADERS FROM 'file:///www.csv' AS row
+WITH row
+MATCH (www:Www {id: row.key})
+UNWIND range(0,5) AS i
+WITH i, www, row WHERE row['editor'+toString(i)] IS NOT NULL
+MERGE (aut:Author {name: row['editor'+toString(i)]})
+MERGE (aut)-[:WRITE]-(www)
+
+#---------------------------PROCEEDINGS---------------------------------------------
+#LOAD Proceedings
+LOAD CSV WITH HEADERS FROM 'file:///proceedings.csv' AS row
+WITH row
+MERGE (proc:Proceedings:Pubblication {id: row.key})
+ON CREATE SET proc.date = row['date'], proc.title = row['title0'], proc.booktitle = row['booktitle0'], proc.publisher = row['publisher'], proc.isbn =row['isbn0'], proc.ee = row['ee0'], proc.year = row['year0']
+
+
+#LOAD EDITORS AS AUTHORS
+LOAD CSV WITH HEADERS FROM 'file:///proceedings.csv' AS row
+WITH row
+MATCH (proc:Proceedings {id: row.key})
+UNWIND range(0,5) AS i
+WITH i, proc, row WHERE row['editor'+toString(i)] IS NOT NULL
+MERGE (aut:Author {name: row['editor'+toString(i)]})
+MERGE (aut)-[:WRITE]-(proc)
+
+#-------------------------INPROCEEDINGS----------------------------------------------
+#LOAD Inproceedings
+LOAD CSV WITH HEADERS FROM 'file:///inproceedings.csv' AS row
+WITH row
+MERGE (inproc:Inproceedings:Pubblication {id: row.key})
+ON CREATE SET inproc.date = row['date'], inproc.title = row['title0'], inproc.note = row['note0'], inproc.month = row['month0'], inproc.year = row['year0'], inproc.pages =row['pages0'], inproc.ee = row['ee0']
+
+#LOAD AUTHORS
+LOAD CSV WITH HEADERS FROM 'file:///inproceedings.csv' AS row
+WITH row
+MATCH (inproc:Inproceedings {id: row.key})
+UNWIND range(0,5) AS i
+WITH i, inproc, row WHERE row['author'+toString(i)] IS NOT NULL
+MERGE (aut:Author {name: row['author'+toString(i)]})
+MERGE (aut)-[:WRITE]-(inproc)
+
+#LOAD REFERENCES
+LOAD CSV WITH HEADERS FROM 'file:///inproceedings.csv' AS row
+WITH row
+MATCH (inproc:Inproceedings {id: row.key})
+MATCH (proc:Proceedings {id: row.crossref0})
+MERGE (proc)-[rel:CONTAIN]-(inproc)
+
+#--------------------------BOOK------------------------------------------------------
+#LOAD Books
+LOAD CSV WITH HEADERS FROM 'file:///book.csv' AS row
+WITH row
+MERGE (book:Book:Pubblication {id: row.key})
+ON CREATE SET book.date = row['date'], book.title = row['title0'], book.publisher = row['publisher'], book.year = row['year0'],  book.ee = row['ee0'], book.isbn =row['isbn0'], book.series =row['series0']
+
+
+#LOAD EDITORS AS AUTHORS
+LOAD CSV WITH HEADERS FROM 'file:///book.csv' AS row
+WITH row
+MATCH (book:Book {id: row.key})
+UNWIND range(0,7) AS i
+WITH i, book, row WHERE row['editor'+toString(i)] IS NOT NULL
+MERGE (aut:Author {name: row['editor'+toString(i)]})
+MERGE (aut)-[:WRITE]-(book)
+
+#---------------------------------INCOLLECTION----------------------------------------
+#LOAD Incollection
+LOAD CSV WITH HEADERS FROM 'file:///incollection.csv' AS row
+WITH row
+MERGE (incoll:Incollection:Pubblication {id: row.key})
+ON CREATE SET incoll.date = row['date'], incoll.title = row['title0'], incoll.year = row['year0'], incoll.pages =row['pages0'], incoll.ee = row['ee0']
+
+#LOAD AUTHORS
+LOAD CSV WITH HEADERS FROM 'file:///incollection.csv' AS row
+WITH row
+MATCH (incoll:Incollection {id: row.key})
+UNWIND range(0,28) AS i
+WITH i, incoll, row WHERE row['author'+toString(i)] IS NOT NULL
+MERGE (aut:Author {name: row['author'+toString(i)]})
+MERGE (aut)-[:WRITE]-(incoll)
+
+#LOAD REFERENCES
+LOAD CSV WITH HEADERS FROM 'file:///incollection.csv' AS row
+WITH row
+MATCH (incoll:Incollection {id: row.key})
+MATCH (book:Book {id: row.crossref0})
+MERGE (book)-[rel:CONTAIN]-(incoll)
