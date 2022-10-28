@@ -1,6 +1,4 @@
-
 -----------------------------------------ARTICLES----------------------------------------
-
 #LOAD ARTICLES
 LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
 WITH row
@@ -14,7 +12,7 @@ MATCH (article:Article {id: row.key})
 UNWIND range(0,21) AS i
 WITH i, article, row WHERE row['author'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['author'+toString(i)]})
-MERGE (aut)-[:WRITE]-(article)
+MERGE (article)-[:WRITTEN_BY]->(aut)
 
 #LOAD JOURNALS
 LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
@@ -22,7 +20,7 @@ WITH row
 MATCH (art:Article {id: row.key})
 WITH row WHERE row['journal0'] IS NOT NULL
 MERGE (j:Journal {name: row['journal0']})
-MERGE (j)-[rel:PUBLICATE]-(art)
+MERGE (art)-[rel:PUBLICATED_BY]->(j)
 ON CREATE SET rel.year = row.year0, rel.month = row.month0, rel.volume = row.volume0, rel.pages = row.pages0, rel.number = row.number0
 
 #---------------------------------MASTERTHESIS--------------------------------------------------
@@ -38,7 +36,7 @@ WITH row WHERE row['author0'] IS NOT NULL
 MERGE (aut:Author {name: row['author0']})
 WITH row, aut
 MATCH (mast:Mastersthesis {id: row.key})
-MERGE (aut)-[:WRITE]-(mast)
+MERGE (mast)-[:WRITTEN_BY]->(aut)
 
 #---------------------------WWW--------------------------------------------------------
 #LOAD WWW
@@ -54,7 +52,7 @@ MATCH (www:Www {id: row.key})
 UNWIND range(0,4) AS i
 WITH i, www, row WHERE row['author'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['author'+toString(i)]})
-MERGE (aut)-[:WRITE]-(www)
+MERGE (www)-[:WRITTEN_BY]->(aut)
 
 #LOAD EDITORS AS AUTHORS
 LOAD CSV WITH HEADERS FROM 'file:///www.csv' AS row
@@ -63,7 +61,7 @@ MATCH (www:Www {id: row.key})
 UNWIND range(0,5) AS i
 WITH i, www, row WHERE row['editor'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['editor'+toString(i)]})
-MERGE (aut)-[:WRITE]-(www)
+MERGE (www)-[:WRITTEN_BY]->(aut)
 
 #---------------------------PROCEEDINGS---------------------------------------------
 #LOAD Proceedings
@@ -80,7 +78,7 @@ MATCH (proc:Proceedings {id: row.key})
 UNWIND range(0,5) AS i
 WITH i, proc, row WHERE row['editor'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['editor'+toString(i)]})
-MERGE (aut)-[:WRITE]-(proc)
+MERGE (proc)-[:WRITTEN_BY]->(aut)
 
 #-------------------------INPROCEEDINGS----------------------------------------------
 #LOAD Inproceedings
@@ -96,14 +94,14 @@ MATCH (inproc:Inproceedings {id: row.key})
 UNWIND range(0,5) AS i
 WITH i, inproc, row WHERE row['author'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['author'+toString(i)]})
-MERGE (aut)-[:WRITE]-(inproc)
+MERGE (inproc)-[:WRITTEN_BY]->(aut)
 
 #LOAD REFERENCES
 LOAD CSV WITH HEADERS FROM 'file:///inproceedings.csv' AS row
 WITH row
 MATCH (inproc:Inproceedings {id: row.key})
 MATCH (proc:Proceedings {id: row.crossref0})
-MERGE (proc)-[rel:CONTAIN]-(inproc)
+MERGE (proc)-[rel:CONTAIN]->(inproc)
 
 #--------------------------BOOK------------------------------------------------------
 #LOAD Books
@@ -120,7 +118,7 @@ MATCH (book:Book {id: row.key})
 UNWIND range(0,7) AS i
 WITH i, book, row WHERE row['editor'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['editor'+toString(i)]})
-MERGE (aut)-[:WRITE]-(book)
+MERGE (book)-[:WRITTEN_BY]->(aut)
 
 #---------------------------------INCOLLECTION----------------------------------------
 #LOAD Incollection
@@ -136,11 +134,11 @@ MATCH (incoll:Incollection {id: row.key})
 UNWIND range(0,28) AS i
 WITH i, incoll, row WHERE row['author'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['author'+toString(i)]})
-MERGE (aut)-[:WRITE]-(incoll)
+MERGE (incoll)-[:WRITTEN_BY]->(aut)
 
 #LOAD REFERENCES
 LOAD CSV WITH HEADERS FROM 'file:///incollection.csv' AS row
 WITH row
 MATCH (incoll:Incollection {id: row.key})
 MATCH (book:Book {id: row.crossref0})
-MERGE (book)-[rel:CONTAIN]-(incoll)
+MERGE (book)-[rel:CONTAIN]->(incoll)
