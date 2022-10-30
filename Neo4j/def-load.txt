@@ -18,7 +18,7 @@ MERGE (article)-[:WRITTEN_BY]->(aut)
 LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
 WITH row
 MATCH (art:Article {id: row.key})
-WITH row WHERE row['journal0'] IS NOT NULL
+WITH art, row WHERE row['journal0'] IS NOT NULL
 MERGE (j:Journal {name: row['journal0']})
 MERGE (art)-[rel:PUBLICATED_BY]->(j)
 ON CREATE SET rel.year = row.year0, rel.month = row.month0, rel.volume = row.volume0, rel.pages = row.pages0, rel.number = row.number0
