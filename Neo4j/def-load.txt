@@ -2,7 +2,7 @@
 #LOAD ARTICLES
 LOAD CSV WITH HEADERS FROM 'file:///article.csv' AS row
 WITH row
-MERGE (art:Article:Pubblication {id: row.key})
+MERGE (art:Article:Publication {id: row.key})
 ON CREATE SET art.date = row['date'], art.title = row['title0'], art.ee = row['ee0'], art.note = row['note0'], art.publisher = row['publisher0']
 
 #LOAD AUTHORS
@@ -27,7 +27,7 @@ ON CREATE SET rel.year = row.year0, rel.month = row.month0, rel.volume = row.vol
 #LOAD MASTERTHESIS
 LOAD CSV WITH HEADERS FROM 'file:///mastersthesis.csv' AS row
 WITH row
-MERGE (mast:Mastersthesis:Pubblication {id: row.key})
+MERGE (mast:Mastersthesis:Publication {id: row.key})
 ON CREATE SET mast.date = row['date'], mast.title = row['title0'], mast.ee = row['ee0'], mast.note = row['note0'], mast.school = row['school0'], mast.year = row['year0']
 
 #LOAD AUTHORS
@@ -42,7 +42,7 @@ MERGE (mast)-[:WRITTEN_BY]->(aut)
 #LOAD WWW
 LOAD CSV WITH HEADERS FROM 'file:///www.csv' AS row
 WITH row
-MERGE (www:Www:Pubblication {id: row.key})
+MERGE (www:Www:Publication {id: row.key})
 ON CREATE SET www.date = row['date'], www.title = row['title0'], www.ee = row['ee0'], www.year = row['year0']
 
 #LOAD AUTHORS
@@ -67,7 +67,7 @@ MERGE (www)-[:WRITTEN_BY]->(aut)
 #LOAD Proceedings
 LOAD CSV WITH HEADERS FROM 'file:///proceedings.csv' AS row
 WITH row
-MERGE (proc:Proceedings:Pubblication {id: row.key})
+MERGE (proc:Proceedings:Publication {id: row.key})
 ON CREATE SET proc.date = row['date'], proc.title = row['title0'], proc.booktitle = row['booktitle0'], proc.publisher = row['publisher'], proc.isbn =row['isbn0'], proc.ee = row['ee0'], proc.year = row['year0']
 
 
@@ -84,7 +84,7 @@ MERGE (proc)-[:WRITTEN_BY]->(aut)
 #LOAD Inproceedings
 LOAD CSV WITH HEADERS FROM 'file:///inproceedings.csv' AS row
 WITH row
-MERGE (inproc:Inproceedings:Pubblication {id: row.key})
+MERGE (inproc:Inproceedings:Publication {id: row.key})
 ON CREATE SET inproc.date = row['date'], inproc.title = row['title0'], inproc.note = row['note0'], inproc.month = row['month0'], inproc.year = row['year0'], inproc.pages =row['pages0'], inproc.ee = row['ee0']
 
 #LOAD AUTHORS
@@ -107,7 +107,7 @@ MERGE (proc)-[rel:CONTAIN]->(inproc)
 #LOAD Books
 LOAD CSV WITH HEADERS FROM 'file:///book.csv' AS row
 WITH row
-MERGE (book:Book:Pubblication {id: row.key})
+MERGE (book:Book:Publication {id: row.key})
 ON CREATE SET book.date = row['date'], book.title = row['title0'], book.publisher = row['publisher'], book.year = row['year0'],  book.ee = row['ee0'], book.isbn =row['isbn0'], book.series =row['series0']
 
 
@@ -124,7 +124,7 @@ MERGE (book)-[:WRITTEN_BY]->(aut)
 #LOAD Incollection
 LOAD CSV WITH HEADERS FROM 'file:///incollection.csv' AS row
 WITH row
-MERGE (incoll:Incollection:Pubblication {id: row.key})
+MERGE (incoll:Incollection:Publication {id: row.key})
 ON CREATE SET incoll.date = row['date'], incoll.title = row['title0'], incoll.year = row['year0'], incoll.pages =row['pages0'], incoll.ee = row['ee0']
 
 #LOAD AUTHORS
