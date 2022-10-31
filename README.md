@@ -13,4 +13,5 @@
   - Picture of the Diagram with a Description
   - Queries (Cypher)
     - For each query, report a readable picture/table with (a part) of the result, and a description of how the query works
+- Conclusion
 - Deliver will be on 2nd of November 2022
