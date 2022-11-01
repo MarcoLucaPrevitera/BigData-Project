@@ -26,7 +26,7 @@
 	numero di journal divesi che hanno pubblicato le loro pubblications, 
 	considerando solo le pubblicazioni dopo il 2000
 				->		3 nod + cond + aggr + lim
-11 -	Classifica delle università per numero di citazioni negli. ultimi 5 anni 
+11 -	Classifica delle università per numero di citazioni nel 2019
 				->		3 nod + cond + aggr + lim
 12 -
 13 -
