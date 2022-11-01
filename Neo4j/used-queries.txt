@@ -28,14 +28,14 @@
 				->		3 nod + cond + aggr + lim
 11 -	Classifica delle università per numero di citazioni negli. ultimi 5 anni 
 				->		3 nod + cond + aggr + lim
-12 -	Delete di una pubblicazione con tutte le relazioni annesse {proceding
+12 -
+13 -
+14 -	Delete di una pubblicazione con tutte le relazioni annesse {proceding
 	e inproceeding}[eliminazione delle proceedings di un certo autore] 
 				->		5+ nod + cond + aggr + etc
-13 -	Create di un articolo pubblicato in un journal e che cita altri 
+15 -	Create di un articolo pubblicato in un journal e che cita altri 
 	pubblications, di un certo autore
 				->		5+ nod + cond + aggr + etc
-14 -
-15 -
 
 
 extra1 - queries di import (3)
