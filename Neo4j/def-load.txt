@@ -79,7 +79,6 @@ UNWIND range(0,5) AS i
 WITH i, proc, row WHERE row['editor'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['editor'+toString(i)]})
 MERGE (proc)-[:WRITTEN_BY]->(aut)
-yea
 #-------------------------INPROCEEDINGS----------------------------------------------
 #LOAD Inproceedings
 LOAD CSV WITH HEADERS FROM 'file:///inproceedings.csv' AS row
