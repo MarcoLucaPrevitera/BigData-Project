@@ -28,7 +28,7 @@ ON CREATE SET rel.year = row.year0, rel.month = row.month0, rel.volume = row.vol
 LOAD CSV WITH HEADERS FROM 'file:///mastersthesis.csv' AS row
 WITH row
 MERGE (mast:Mastersthesis:Publication {id: row.key})
-ON CREATE SET mast.date = row['date'], mast.title = row['title0'], mast.ee = row['ee0'], mast.note = row['note0'], mast.school = row['school0'], mast.year = row['year0']
+ON CREATE SET mast.date = row['date'], mast.title = row['title0'], mast.ee = row['ee0'], mast.note = row['note0'], mast.year = row['year0']
 
 #LOAD AUTHORS
 LOAD CSV WITH HEADERS FROM 'file:///mastersthesis.csv' AS row
