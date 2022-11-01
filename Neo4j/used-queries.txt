@@ -28,8 +28,11 @@
 				->		3 nod + cond + aggr + lim
 11 -	Classifica delle università per numero di citazioni nel 2019
 				->		3 nod + cond + aggr + lim
-12 -
-13 -
+12 -	Classifica delle università (best 5) che hanno contribuito a formare
+	gli autori che vi partecipano e ordinata per il numero di essi
+				->		3 nod + cond + aggr + lim
+13 -	Classifica delle raccolte in base al numero di citazioni ad una pubblicazione
+				->		3 nod + cond + agg
 14 -	Delete di una pubblicazione con tutte le relazioni annesse {proceding
 	e inproceeding}[eliminazione delle proceedings di un certo autore] 
 				->		5+ nod + cond + aggr + etc
