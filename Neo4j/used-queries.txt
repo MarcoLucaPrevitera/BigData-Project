@@ -1,36 +1,37 @@
-1 - 	query unica per score
-				-> function
-2 -	Utilizzo di una formula creata appositamente per rankizzare gli 
-	autori di un certo giornale in modo equilibrato (né troppo 
-	né troppo poco)		->		3 nod + cond + aggr + lim
-3 -	Journal X -> autori e quanti articoli hanno fatto per il journal
+
+1 -	Journal X -> autori e quanti articoli hanno fatto per il journal
 				->		3 nod + cond + aggr + lim
-4 - 	Rapporto tra il numero di incollection [di una CollectionA ] 
+2 - 	Rapporto tra il numero di incollection [di una CollectionA ] 
 	che ha come autore X e il numero totale di incollection relative 
 	a CollectionA(book)	->		3 nod + cond + aggr
-5 -	Articoli con autori relativi contenuti in journals (in generale) 
+3 -	Articoli con autori relativi contenuti in journals (in generale) 
 	pubblicati in un intervallo di tempo, ordinati per data di pubblicazione 
 	decrescente  		->		3 nod + cond + aggr
-6 -	Il titolo di Tutte le pubblicazioni dell’ultimo anno di un Journal
+4 -	Il titolo di Tutte le pubblicazioni dell’ultimo anno di un Journal
 	raggruppate per autore	->		3 nod + cond + aggr
-7 -	Minimum path function tra autori (connessioni tramite relazioni di 
+5 -	Utilizzo di una formula creata appositamente per rankizzare gli 
+	autori di un certo giornale in modo equilibrato (né troppo 
+	né troppo poco)		->		3 nod + cond + aggr + lim
+6 -	Minimum path function tra autori (connessioni tramite relazioni di 
 	coauthor, cite, published_by)	
 				->	function
-8 -	Delete di una pubblicazione con tutte le relazioni annesse {proceding
-	e inproceeding}[eliminazione delle proceedings di un certo autore] 
-				->		5+ nod + cond + aggr + etc
-9 -	Create di un articolo pubblicato in un journal e che cita altri 
-	pubblications, di un certo autore
-				->		5+ nod + cond + aggr + etc
-10 -	classifica delle università per il maggiore numero di studenti che 
+7 - 	query unica per score
+				-> function
+8 -	classifica delle università per il maggiore numero di studenti che 
 	hanno conseguito una tesi presso di essa
 				->		3 nod + cond + aggr + lim
-11 - 	Dell’Università “MIT” voglio considerare I primi 10 studenti per il 
+9 - 	Dell’Università “MIT” voglio considerare I primi 10 studenti per il 
 	numero di journal divesi che hanno pubblicato le loro pubblications, 
 	considerando solo le pubblicazioni dopo il 2000
 				->		3 nod + cond + aggr + lim
-12 -	Classifica delle università per numero di citazioni negli. ultimi 5 anni 
+10 -	Classifica delle università per numero di citazioni negli. ultimi 5 anni 
 				->		3 nod + cond + aggr + lim
+11 -	Delete di una pubblicazione con tutte le relazioni annesse {proceding
+	e inproceeding}[eliminazione delle proceedings di un certo autore] 
+				->		5+ nod + cond + aggr + etc
+12 -	Create di un articolo pubblicato in un journal e che cita altri 
+	pubblications, di un certo autore
+				->		5+ nod + cond + aggr + etc
 13 -
 14 -
 15 -
