@@ -15,26 +15,28 @@
 6 -	Minimum path function tra autori (connessioni tramite relazioni di 
 	coauthor, cite, published_by)	
 				->	function
-7 - 	query unica per score
-				-> function
-8 -	classifica delle università per il maggiore numero di studenti che 
+7 - 	query unica per score riferendosi a publication
+				-> 	function
+8 -	query per score riferendosi ad author
+				-> 	function
+9 -	classifica delle università per il maggiore numero di studenti che 
 	hanno conseguito una tesi presso di essa
 				->		3 nod + cond + aggr + lim
-9 - 	Dell’Università “MIT” voglio considerare I primi 10 studenti per il 
+10 - 	Dell’Università “MIT” voglio considerare I primi 10 studenti per il 
 	numero di journal divesi che hanno pubblicato le loro pubblications, 
 	considerando solo le pubblicazioni dopo il 2000
 				->		3 nod + cond + aggr + lim
-10 -	Classifica delle università per numero di citazioni negli. ultimi 5 anni 
+11 -	Classifica delle università per numero di citazioni negli. ultimi 5 anni 
 				->		3 nod + cond + aggr + lim
-11 -	Delete di una pubblicazione con tutte le relazioni annesse {proceding
+12 -	Delete di una pubblicazione con tutte le relazioni annesse {proceding
 	e inproceeding}[eliminazione delle proceedings di un certo autore] 
 				->		5+ nod + cond + aggr + etc
-12 -	Create di un articolo pubblicato in un journal e che cita altri 
+13 -	Create di un articolo pubblicato in un journal e che cita altri 
 	pubblications, di un certo autore
 				->		5+ nod + cond + aggr + etc
-13 -
 14 -
 15 -
+
 
 extra1 - queries di import (3)
 extra2 - relazione coauthor
