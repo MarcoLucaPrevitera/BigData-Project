@@ -21,7 +21,7 @@ MATCH (art:Article {id: row.key})
 WITH art, row WHERE row['journal0'] IS NOT NULL
 MERGE (j:Journal {name: row['journal0']})
 MERGE (art)-[rel:PUBLICATED_BY]->(j)
-ON CREATE SET rel.year = row.year0, rel.month = row.month0, rel.volume = row.volume0, rel.pages = row.pages0, rel.number = row.number0
+ON CREATE SET rel.year = row['year0'], rel.month = row['month0'], rel.volume = row['volume0'], rel.pages = row['pages0'], rel.number = row['number0']
 
 #---------------------------------MASTERTHESIS--------------------------------------------------
 #LOAD MASTERTHESIS
@@ -68,7 +68,7 @@ MERGE (www)-[:WRITTEN_BY]->(aut)
 LOAD CSV WITH HEADERS FROM 'file:///proceedings.csv' AS row
 WITH row
 MERGE (proc:Proceedings:Publication {id: row.key})
-ON CREATE SET proc.date = row['date'], proc.title = row['title0'], proc.booktitle = row['booktitle0'], proc.publisher = row['publisher'], proc.isbn =row['isbn0'], proc.ee = row['ee0'], proc.year = row['year0']
+ON CREATE SET proc.date = row['date'], proc.title = row['title0'], proc.booktitle = row['booktitle0'], proc.publisher = row['publisher0'], proc.isbn =row['isbn0'], proc.ee = row['ee0'], proc.year = row['year0']
 
 
 #LOAD EDITORS AS AUTHORS
@@ -79,7 +79,7 @@ UNWIND range(0,5) AS i
 WITH i, proc, row WHERE row['editor'+toString(i)] IS NOT NULL
 MERGE (aut:Author {name: row['editor'+toString(i)]})
 MERGE (proc)-[:WRITTEN_BY]->(aut)
-
+yea
 #-------------------------INPROCEEDINGS----------------------------------------------
 #LOAD Inproceedings
 LOAD CSV WITH HEADERS FROM 'file:///inproceedings.csv' AS row
@@ -108,7 +108,7 @@ MERGE (proc)-[rel:CONTAIN]->(inproc)
 LOAD CSV WITH HEADERS FROM 'file:///book.csv' AS row
 WITH row
 MERGE (book:Book:Publication {id: row.key})
-ON CREATE SET book.date = row['date'], book.title = row['title0'], book.publisher = row['publisher'], book.year = row['year0'],  book.ee = row['ee0'], book.isbn =row['isbn0'], book.series =row['series0']
+ON CREATE SET book.date = row['date'], book.title = row['title0'], book.publisher = row['publisher0'], book.year = row['year0'],  book.ee = row['ee0'], book.isbn =row['isbn0'], book.series =row['series0']
 
 
 #LOAD EDITORS AS AUTHORS
