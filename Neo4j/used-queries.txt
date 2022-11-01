@@ -40,6 +40,10 @@
 15 -	Create di un articolo pubblicato in un journal e che cita altri 
 	pubblications, di un certo autore
 				->		5+ nod + cond + aggr + etc
+16 -	Ranking dei migliori autori in base al numero di coautori che hanno. Ritorna nome dell’autore con
+	numero di coautori
+				-> function
+
 
 
 extra1 - queries di import (3)
