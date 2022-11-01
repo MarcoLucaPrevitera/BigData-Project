@@ -17,8 +17,9 @@
 				->	function
 7 - 	query unica per score riferendosi a publication
 				-> 	function
-8 -	query per score riferendosi ad author
-				-> 	function
+8 -	Query per classificare gli autori che hanno scritto articoli pubblicati in un giornale secondo il citationScore con formula creata ad-hoc nel 1997. Il return
+	mostra totalScore, numero di pubblicazioni nei giornali, meanScore e finalScore. Quest ultimo viene utilizzato per la classificazione.
+				-> 	3 nod + cond + aggr + lim
 9 -	classifica delle università per il maggiore numero di studenti che 
 	hanno conseguito una tesi presso di essa
 				->		3 nod + cond + aggr + lim
