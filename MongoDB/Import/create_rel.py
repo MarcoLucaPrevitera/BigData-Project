@@ -38,7 +38,7 @@ for author in author_data:
     if name in authors_pub:
         author["documents"] = authors_pub[name]
 
-aut_output = json.dumps(author_data, indent=1)
+aut_output = json.dumps(author_data, indent=1, ensure_ascii=False)
 
 with open("final_aut.json","w", encoding="UTF-8") as aut_file: #write the output file
     aut_file.write(aut_output)
@@ -57,7 +57,7 @@ for article in main_data:
     if num_citation != 0:
         article["bibliography"] = bib_list
 
-main_output = json.dumps(main_data, indent=1)
+main_output = json.dumps(main_data, indent=1, ensure_ascii=False)
 
 with open("final_main.json","w", encoding="UTF-8") as main_file: #write the output file
     main_file.write(main_output)
