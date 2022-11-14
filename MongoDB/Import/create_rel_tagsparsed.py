@@ -13,7 +13,8 @@ doc_preview = {}
 
 def sostisuisci_tags(articolo):
     lista_tags = [t['tag'] for t in articolo['tags']]
-    articolo['tags'] = lista_tags
+    res = [*set(lista_tags)]
+    articolo['tags'] = res
 
 
 #find all publications for each author
@@ -70,5 +71,5 @@ for article in main_data:
 main_output = json.dumps(main_data, indent=1, ensure_ascii=False)
 
 
-with open("final_main_tagparsed.json","w", encoding="UTF-8") as main_file: #write the output file
+with open("final_main.json","w", encoding="UTF-8") as main_file: #write the output file
     main_file.write(main_output)
