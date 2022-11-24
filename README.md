@@ -17,6 +17,8 @@
 - Conclusion
 - Deliver will be on 2nd of November 2022 (Delivered)
 
+
+
 ## Delivery 2 - MongoDB
 - MongoDB implementation of the collection
 - Data upload (importing)
@@ -41,4 +43,8 @@
   - Potential pre-processing, upload process, etc
   - Queries
 
-- Deliver will be on 23rd of November 2022
+- Deliver will be on 23rd of November 2022 (Delivered)
+
+## Delivery 3 - 
+
+##Presentation on 13th of December 2022
