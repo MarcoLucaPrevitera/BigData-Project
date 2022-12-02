@@ -1,0 +1,2154 @@
+﻿[
+  {
+    "i": {
+"identity": 5067,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"ee": "https://doi.org/10.1145/2534860",
+"date": "2021-07-31",
+"year": "2013",
+"isbn": "978-1-4503-2309-3",
+"citationScore": 0.9511217140270567,
+"publisher": "ACM Press and IEEE Computer Society Press",
+"id": "tr/acm/CS2013",
+"title": "Computer Science Curricula 2013"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5068,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-12-30",
+"ee": "http://www.lemis.com/grog/Documentation/Lions/index.html",
+"year": "1996",
+"series": "Computer classics revisited",
+"isbn": "1-57398-013-7",
+"citationScore": 0.8450343208315748,
+"publisher": "Peer-to-Peer Communications",
+"id": "persons/Lions1996",
+"title": "Lions' Commentary on UNIX 6th Edition, with Source Code"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5069,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-06-27",
+"ee": "https://doi.org/10.1007/0-387-23483-7",
+"year": "2005",
+"isbn": "978-0-387-23473-1",
+"citationScore": 1.0216210576167615,
+"publisher": "Springer",
+"id": "reference/crypt/2005",
+"title": "Encyclopedia of Cryptography and Security"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5070,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-1-4419-5906-5",
+"year": "2011",
+"isbn": "978-1-4419-5905-8",
+"citationScore": 1.1415380729854399,
+"publisher": "Springer",
+"id": "reference/crypt/2011",
+"title": "Encyclopedia of Cryptography and Security, 2nd Ed."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5071,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2012-03-28",
+"ee": "http://www.booksonline.iospress.nl/Content/View.aspx?piid=26497",
+"year": "2012",
+"series": "Ambient Intelligence and Smart Environments",
+"isbn": "978-1-60750-836-6",
+"citationScore": 1.1228479728864567,
+"publisher": "IOS Press",
+"id": "reference/assisted/2012",
+"title": "Handbook of Ambient Assisted Living - Technology for Healthcare, Rehabilitation and Well-being"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5072,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-06-26",
+"ee": "https://doi.org/10.1007/978-1-4419-7142-5",
+"year": "2010",
+"isbn": "978-1-4419-7141-8",
+"citationScore": 1.079876914952715,
+"publisher": "Springer",
+"id": "reference/social/2010",
+"title": "Handbook of Social Network Technologies and Applications"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5073,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-06-09",
+"ee": "https://doi.org/10.4018/978-1-59904-832-1",
+"year": "2008",
+"isbn": "9781599048321",
+"citationScore": 1.193493978443349,
+"publisher": "IGI Global",
+"id": "reference/ubiqhandbook/2008",
+"title": "Handbook of Research on Ubiquitous Computing Technology for Real Time Enterprises"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5074,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420049671",
+"year": "1999",
+"isbn": "978-0-8493-8593-3",
+"citationScore": 0.8978404846682335,
+"publisher": "CRC Press",
+"id": "reference/vlsi/1999",
+"title": "The VLSI Handbook."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5075,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-06-09",
+"ee": "https://doi.org/10.4018/978-1-59904-863-5",
+"year": "2008",
+"isbn": "9781599048635",
+"citationScore": 0.9371976079134363,
+"publisher": "IGI Global",
+"id": "reference/mediated/2008",
+"title": "Handbook of Research on Computer Mediated Communication (2 Volumes)"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5076,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-11-12",
+"ee": "https://doi.org/10.1007/978-3-540-78831-7",
+"year": "2009",
+"series": "Springer Handbooks",
+"isbn": "978-3-540-78830-0",
+"citationScore": 0.8172615173012079,
+"publisher": "Springer",
+"id": "reference/auto/2009",
+"title": "Springer Handbook of Automation"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5077,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2022-05-04",
+"ee": "https://doi.org/10.1007/978-3-319-08234-9",
+"year": "2019",
+"citationScore": 0.891996605762787,
+"publisher": "Springer",
+"id": "reference/ecgg/2019",
+"title": "Encyclopedia of Computer Graphics and Games."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5078,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-03-13",
+"ee": "https://doi.org/10.1002/9780470050118",
+"year": "2008",
+"citationScore": 1.0458481968155575,
+"publisher": "John Wiley  and  Sons, Inc.",
+"id": "reference/wiley/2008",
+"title": "Wiley Encyclopedia of Computer Science and Engineering"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5079,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-1-4614-7320-6",
+"year": "2014",
+"isbn": "978-1-4614-7320-6",
+"citationScore": 1.2625238505283392,
+"publisher": "Springer",
+"id": "reference/cn/2014",
+"title": "Encyclopedia of Computational Neuroscience"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5080,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2011-11-25",
+"year": "2010",
+"isbn": "978-1-4200-5977-9",
+"citationScore": 0.6792411763550987,
+"publisher": "Taylor  and  Francis",
+"id": "reference/se/2010",
+"title": "Encyclopedia of Software Engineering"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5081,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-07-13",
+"year": "2008",
+"isbn": "1-4200-4326-9",
+"citationScore": 0.9437757664437192,
+"publisher": "Taylor  and  Francis",
+"id": "reference/tf/2008ewmc",
+"title": "Encyclopedia of Wireless and Mobile Communications"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5082,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-07",
+"ee": "https://doi.org/10.1081/E-EIA",
+"year": "2011",
+"isbn": "1-4200-6620-X",
+"citationScore": 0.9963731184087361,
+"publisher": "Taylor  and  Francis",
+"id": "reference/tf/2011eia",
+"title": "Encyclopedia of Information Assurance"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5083,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.4018/978-1-60566-836-9",
+"year": "2010",
+"isbn": "9781605668369",
+"citationScore": 0.7505732992137248,
+"publisher": "IGI Global",
+"id": "reference/forensics/2010",
+"title": "Handbook of Research on Computational Forensics, Digital Crime, and Investigation: Methods and Solutions"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5084,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.4018/978-1-59140-987-8",
+"year": "2007",
+"isbn": "9781591409885",
+"citationScore": 0.9209369384690296,
+"publisher": "IGI Global",
+"id": "reference/ethics/2007",
+"title": "Encyclopedia of Information Ethics and Security"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5085,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2014-06-10",
+"year": "2007",
+"isbn": "978-1-4020-5586-7",
+"citationScore": 0.7236374883642188,
+"publisher": "Springer",
+"id": "reference/spatial/2007",
+"title": "Handbook of Spatial Logics"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5086,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-10-26",
+"ee": "https://doi.org/10.4018/978-1-59904-879-6",
+"year": "2009",
+"isbn": "9781599048796",
+"citationScore": 0.7168121264462807,
+"publisher": "IGI Global",
+"id": "reference/dlhandbook/2009",
+"title": "Handbook of Research on Digital Libraries: Design, Development, and Impact"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5087,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2022-01-03",
+"ee": "https://doi.org/10.1007/978-3-319-10575-8",
+"year": "2018",
+"isbn": "978-3-319-10574-1",
+"citationScore": 0.9530010861441349,
+"publisher": "Springer",
+"id": "reference/mc/2018",
+"title": "Handbook of Model Checking."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5088,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420035315",
+"year": "2004",
+"isbn": "978-1-58488-301-2",
+"citationScore": 0.75569708825685,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/cg/2004",
+"title": "Handbook of Discrete and Computational Geometry, Second Edition."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5089,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.4018/978-1-59904-931-1",
+"year": "2011",
+"isbn": "9781599049311",
+"citationScore": 0.9333344893507965,
+"publisher": "IGI Global",
+"id": "reference/knowledge/2011",
+"title": "Encyclopedia of Knowledge Management, Second Edition"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5090,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2018-11-14",
+"ee": "https://doi.org/10.1007/978-3-642-04898-2",
+"year": "2011",
+"isbn": "978-3-642-04897-5",
+"citationScore": 0.8614384748354479,
+"publisher": "Springer",
+"id": "reference/stat/2011",
+"title": "International Encyclopedia of Statistical Science"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5091,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-02-25",
+"ee": "http://www.springerlink.com/content/978-0-387-09822-7",
+"year": "2010",
+"isbn": "978-0-387-09822-7",
+"citationScore": 1.0155639598850976,
+"publisher": "Springer",
+"id": "reference/dmkdh/2010",
+"title": "Data Mining and Knowledge Discovery Handbook, 2nd ed."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5092,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-07-25",
+"ee": "https://doi.org/10.4018/978-1-59904-849-9",
+"year": "2009",
+"isbn": "9781599048499",
+"citationScore": 0.9681708550249146,
+"publisher": "IGI Global",
+"id": "reference/ai/2009",
+"title": "Encyclopedia of Artificial Intelligence (3 Volumes)"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5093,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2016-01-17",
+"ee": "https://www.crcpress.com/Handbook-of-Graph-Drawing-and-Visualization/Tamassia/9781584884125",
+"year": "2013",
+"isbn": "978-1-5848-8412-5",
+"citationScore": 1.058116158579839,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2013gd",
+"title": "Handbook on Graph Drawing and Visualization."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5094,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-07-05",
+"ee": "https://doi.org/10.1201/9781420011746",
+"year": "2007",
+"isbn": "978-1-58488-678-5",
+"citationScore": 0.925965794057827,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2007rtes",
+"title": "Handbook of Real-Time and Embedded Systems."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5095,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-06-14",
+"ee": "https://doi.org/10.1201/9781420013153",
+"year": "2006",
+"isbn": "978-0-8493-3833-5",
+"citationScore": 0.8928074314545278,
+"publisher": "Auerbach Publications/CRC",
+"id": "reference/crc/2006momi",
+"title": "The Handbook of Mobile Middleware."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5096,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2015-06-05",
+"ee": "http://www.crcnetbase.com/isbn/978-1-4665-0116-4",
+"year": "2012",
+"isbn": "978-1-4665-0116-4",
+"citationScore": 0.9200136433012911,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2012green",
+"title": "Handbook of Energy-Aware and Green Computing - Two Volume Set."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5097,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2015-06-05",
+"ee": "http://www.crcnetbase.com/isbn/978-1-4665-0408-0",
+"year": "2014",
+"isbn": "978-1-4665-0408-0",
+"citationScore": 1.0884892379726512,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2014mmm",
+"title": "Handbook of Mixed Membership Models and Their Applications."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5098,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9780203504086",
+"year": "2004",
+"isbn": "978-0-8493-1971-6",
+"citationScore": 0.8227162341221016,
+"publisher": "CRC Press",
+"id": "reference/crc/2004mc",
+"title": "Mobile Computing Handbook."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5099,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420010749",
+"year": "2007",
+"isbn": "978-1-58488-550-4",
+"citationScore": 0.8287781646236072,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2007aam",
+"title": "Handbook of Approximation Algorithms and Metaheuristics."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5100,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"ee": "https://doi.org/10.1201/b13055",
+"date": "2017-05-16",
+"year": "2012",
+"isbn": "978-1-4398-4618-6",
+"citationScore": 1.0252237538097475,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2012fsbma",
+"title": "Handbook of Finite State Based Models and Applications."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5101,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"ee": "https://doi.org/10.1201/b17360",
+"date": "2017-05-16",
+"year": "2014",
+"isbn": "978-1-4665-1184-2",
+"citationScore": 0.8255082075934043,
+"publisher": "CRC Press",
+"id": "reference/crc/2014vr",
+"title": "Handbook of Virtual Environments - Design, Implementation, and Applications, Second Edition."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5102,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-10-26",
+"ee": "https://doi.org/10.1201/9781420013481",
+"year": "2008",
+"isbn": "978-0-8493-7242-1",
+"citationScore": 0.8098300907203836,
+"publisher": "Auerbach Publications",
+"id": "reference/crc/2008apda",
+"title": "Handbook of Algorithms for Physical Design Automation."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5103,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781439833032",
+"year": "2007",
+"isbn": "978-0-8493-7495-1",
+"citationScore": 0.9386781641529623,
+"publisher": "Auerbach Publ./CRC Press",
+"id": "reference/crc/2007ismh",
+"title": "Information security management handbook, Sixth Edition."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5104,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-10-26",
+"ee": "https://doi.org/10.1201/9781420035179",
+"year": "2004",
+"isbn": "978-1-58488-435-4",
+"citationScore": 1.0224212521061027,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2004dsa",
+"title": "Handbook of Data Structures and Applications."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5105,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2015-06-03",
+"ee": "http://www.crcnetbase.com/isbn/978-1-58488-397-5",
+"year": "2004",
+"isbn": "978-1-58488-397-5",
+"citationScore": 0.8559073908170365,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2004sch",
+"title": "Handbook of Scheduling - Algorithms, Models, and Performance Analysis."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5106,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420059823",
+"year": "2010",
+"isbn": "978-1-4200-5981-6",
+"citationScore": 1.0451524940179697,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2010fcs",
+"title": "Handbook of Financial Cryptography and Security."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5107,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420011296",
+"year": "2007",
+"isbn": "978-1-58488-623-5",
+"citationScore": 1.024574179958997,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2007pc",
+"title": "Handbook of Parallel Computing - Models, Algorithms and Applications."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5108,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420010855",
+"year": "2007",
+"isbn": "978-1-58488-565-8",
+"citationScore": 1.030410586328914,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2007dsm",
+"title": "Handbook of Dynamic System Modeling."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5109,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"ee": "https://doi.org/10.1201/b11631",
+"date": "2019-06-18",
+"year": "2012",
+"isbn": "978-1-4398-5684-0",
+"citationScore": 0.9515008940889025,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2012vs",
+"title": "Handbook on Soft Computing for Video Surveillance."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5110,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420035094",
+"year": "2005",
+"isbn": "978-1-58488-465-1",
+"citationScore": 0.9060066150046365,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2005awnmc",
+"title": "Handbook of Algorithms for Wireless Networking and Mobile Computing."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5111,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9780203507223",
+"year": "2004",
+"isbn": "978-1-58488-381-4",
+"citationScore": 1.072615851890823,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2004ic",
+"title": "The Practical Handbook of Internet Computing."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5112,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-09-25",
+"ee": "https://doi.org/10.1201/9781420034981",
+"year": "2005",
+"isbn": "978-1-58488-518-4",
+"citationScore": 0.7733221972601086,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2005ehcc",
+"title": "Handbook of Elliptic and Hyperelliptic Curve Cryptography."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5113,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2018-11-14",
+"ee": "https://doi.org/10.1201/9781420064995",
+"year": "2009",
+"isbn": "978-0-8058-6280-5",
+"citationScore": 0.9943188017058082,
+"publisher": "CRC Press",
+"id": "reference/crc/2009ua",
+"title": "The Universal Access Handbook."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5114,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781439832905",
+"year": "1999",
+"isbn": "978-0-8493-0149-0",
+"citationScore": 1.0759650024997907,
+"publisher": "CRC Press",
+"id": "reference/crc/1999drm",
+"title": "Handbook of Discrete and Combinatorial Mathematics."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5115,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420035063",
+"year": "2005",
+"isbn": "978-1-58488-475-0",
+"citationScore": 1.0238197131890587,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/crc/2005bioi",
+"title": "Handbook of Bioinspired Algorithms and Applications."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5116,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1201/9781420038163",
+"year": "2005",
+"isbn": "978-0-8493-2824-4",
+"citationScore": 0.9344816714333933,
+"publisher": "CRC Press",
+"id": "reference/crc/2005es",
+"title": "Embedded Systems Handbook."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5117,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-0-387-78414-4",
+"year": "2008",
+"isbn": "978-0-387-74724-8",
+"citationScore": 1.1659199968417169,
+"publisher": "Springer",
+"id": "reference/mm/2008",
+"title": "Encyclopedia of Multimedia, 2nd Ed."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5118,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-06-26",
+"ee": "https://doi.org/10.1007/0-387-30038-4",
+"year": "2006",
+"isbn": "978-0-387-24395-5",
+"citationScore": 1.1205188827007848,
+"publisher": "Springer",
+"id": "reference/mm/2006",
+"title": "Encyclopedia of Multimedia"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5119,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-06-14",
+"ee": "https://doi.org/10.1007/978-1-4614-6859-2",
+"year": "2013",
+"isbn": "978-1-4614-6858-5",
+"citationScore": 1.0067245271550465,
+"publisher": "Springer",
+"id": "reference/sps/2013",
+"title": "Handbook of Signal Processing Systems"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5120,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-02-14",
+"ee": "https://doi.org/10.1007/978-3-319-63962-8",
+"year": "2019",
+"isbn": "978-3-319-63962-8",
+"citationScore": 1.052272148155699,
+"publisher": "Springer",
+"id": "reference/bdt/2019",
+"title": "Encyclopedia of Big Data Technologies."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5121,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-08-06",
+"ee": "https://doi.org/10.1007/978-0-85729-859-1",
+"year": "2014",
+"isbn": "978-0-85729-858-4",
+"citationScore": 1.099177771116856,
+"publisher": "Springer",
+"id": "reference/docip/2014",
+"title": "Handbook of Document Image Processing and Recognition"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5122,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-1-4899-7687-1",
+"year": "2017",
+"isbn": "978-1-4899-7685-7",
+"citationScore": 1.2017634744269083,
+"publisher": "Springer",
+"id": "reference/ml/2017",
+"title": "Encyclopedia of Machine Learning and Data Mining"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5123,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2018-11-14",
+"ee": "https://doi.org/10.1007/978-0-387-30164-8",
+"year": "2010",
+"isbn": "978-0-387-30768-8",
+"citationScore": 0.8450444814086183,
+"publisher": "Springer",
+"id": "reference/ml/2010",
+"title": "Encyclopedia of Machine Learning"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5124,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-04-03",
+"ee": "https://doi.org/10.1007/978-3-319-17885-1",
+"year": "2017",
+"isbn": "978-3-319-17884-4",
+"citationScore": 0.7932094638557774,
+"publisher": "Springer",
+"id": "reference/gis/2017",
+"title": "Encyclopedia of GIS."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5125,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-04-03",
+"ee": "https://doi.org/10.1007/978-0-387-35973-1",
+"year": "2008",
+"isbn": "978-0-387-30858-6",
+"citationScore": 1.112941136566537,
+"publisher": "Springer",
+"id": "reference/gis/2008",
+"title": "Encyclopedia of GIS."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5126,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-0-387-36699-9",
+"year": "2014",
+"isbn": "978-0-387-36698-2",
+"citationScore": 0.9759024540948522,
+"publisher": "Springer",
+"id": "reference/gis/2014",
+"title": "Encyclopedia of Remote Sensing"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5127,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-3-319-07052-0",
+"year": "2016",
+"isbn": "978-3-319-07051-3",
+"citationScore": 0.8808984747430576,
+"publisher": "Springer",
+"id": "reference/convergence/2016",
+"title": "Handbook of Science and Technology Convergence"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5128,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-10-19",
+"ee": "https://doi.org/10.1007/978-3-540-79567-4",
+"year": "2012",
+"isbn": "978-3-540-79566-7",
+"citationScore": 0.8280610317620377,
+"publisher": "Springer",
+"id": "reference/vdt/2012",
+"title": "Handbook of Visual Display Technology"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5129,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-12-07",
+"ee": "https://doi.org/10.1007/978-0-387-48533-1",
+"year": "2008",
+"isbn": "978-0-387-48532-4",
+"citationScore": 0.8695451998680312,
+"publisher": "Springer",
+"id": "reference/dbsec/2008",
+"title": "Handbook of Database Security - Applications and Trends"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5130,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2015-03-13",
+"ee": "http://www.crcnetbase.com/isbn/9781466571464",
+"year": "2014",
+"isbn": "978-1-4665-7145-7",
+"citationScore": 1.1540015122070792,
+"publisher": "CRC Press",
+"id": "reference/mosi/2014",
+"title": "Modeling and Simulation-Based Systems Engineering Handbook."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5131,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-08-17",
+"ee": "https://doi.org/10.1007/978-3-319-60013-0",
+"year": "2020",
+"isbn": "978-3-319-60013-0",
+"citationScore": 1.3522672866317667,
+"publisher": "Springer International Publishing",
+"id": "reference/edu/2020",
+"title": "Encyclopedia of Education and Information Technologies"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5132,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-09-16",
+"ee": "https://doi.org/10.1007/978-0-387-85820-3",
+"year": "2011",
+"isbn": "978-0-387-85819-7",
+"citationScore": 0.9310352915074497,
+"publisher": "Springer",
+"id": "reference/rsh/2011",
+"title": "Recommender Systems Handbook"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5133,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-0-387-31439-6",
+"year": "2014",
+"isbn": "978-0-387-30771-8",
+"citationScore": 0.9461534433953781,
+"publisher": "Springer",
+"id": "reference/vision/2014",
+"title": "Computer Vision, A Reference Guide"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5134,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.4018/978-1-59140-989-2",
+"year": "2007",
+"isbn": "9781591409892",
+"citationScore": 0.8928192224329355,
+"publisher": "IGI Global",
+"id": "reference/portal/2007",
+"title": "Encyclopedia of Portal Technologies and Applications (2 Volumes)"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5135,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-07-31",
+"ee": "https://www.sciencedirect.com/science/bookseries/15746526/2",
+"year": "2006",
+"series": "Foundations of Artificial Intelligence",
+"isbn": "978-0-444-52726-4",
+"citationScore": 1.000292865725054,
+"publisher": "Elsevier",
+"id": "reference/fai/2",
+"title": "Handbook of Constraint Programming"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5136,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-07-31",
+"ee": "http://cgi.csc.liv.ac.uk/~michael/handbook.html",
+"year": "2005",
+"series": "Foundations of Artificial Intelligence",
+"isbn": "978-0-444-51493-6",
+"citationScore": 0.9120993434718307,
+"publisher": "Elsevier",
+"id": "reference/fai/1",
+"title": "Handbook of Temporal Reasoning in Artificial Intelligence"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5137,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-07-31",
+"ee": "https://www.sciencedirect.com/science/bookseries/15746526/3",
+"year": "2008",
+"series": "Foundations of Artificial Intelligence",
+"isbn": "978-0-444-52211-5",
+"citationScore": 1.738104119858451,
+"publisher": "Elsevier",
+"id": "reference/fai/3",
+"title": "Handbook of Knowledge Representation"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5138,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-08-06",
+"ee": "https://doi.org/10.1007/978-94-017-7267-9",
+"year": "2017",
+"isbn": "978-94-017-7266-2",
+"citationScore": 0.9177935145544648,
+"publisher": "Springer",
+"id": "reference/hwswco/2017",
+"title": "Handbook of Hardware/Software Codesign."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5139,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-07-29",
+"ee": "https://doi.org/10.1007/978-3-540-30301-5",
+"year": "2008",
+"isbn": "978-3-540-23957-4",
+"citationScore": 0.8670920090603802,
+"publisher": "Springer",
+"id": "reference/robo/2008",
+"title": "Springer Handbook of Robotics"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5140,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-07-25",
+"ee": "https://doi.org/10.1007/978-3-319-32552-1",
+"year": "2016",
+"series": "Springer Handbooks",
+"isbn": "978-3-319-32550-7",
+"citationScore": 0.8590470777197392,
+"publisher": "Springer",
+"id": "reference/robo/2016",
+"title": "Springer Handbook of Robotics"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5141,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2011-11-25",
+"year": "2009",
+"isbn": "978-0-387-74758-3",
+"citationScore": 1.166219158116577,
+"publisher": "Springer",
+"id": "reference/opt/2009",
+"title": "Encyclopedia of Optimization, Second Edition"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5142,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.4018/978-1-60566-010-3",
+"year": "2009",
+"isbn": "9781605660103",
+"citationScore": 1.0182345837511684,
+"publisher": "IGI Global",
+"id": "reference/dataware/2009",
+"title": "Encyclopedia of Data Warehousing and Mining, Second Edition (4 Volumes)"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5143,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-05-14",
+"ee": "https://doi.org/10.1007/978-3-642-02742-0",
+"year": "2011",
+"series": "Lecture Notes in Computer Science",
+"isbn": "978-3-642-02741-3",
+"citationScore": 0.9297234182943254,
+"publisher": "Springer",
+"id": "reference/npe/2011",
+"title": "Network Performance Engineering - A Handbook on Convergent Multi-Service Networks and Next Generation Internet"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5144,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-10-27",
+"ee": "https://doi.org/10.1007/978-0-387-73003-5",
+"year": "2009",
+"isbn": "978-0-387-73002-8",
+"citationScore": 0.7427687696523111,
+"publisher": "Springer US",
+"id": "reference/bio/2009",
+"title": "Encyclopedia of Biometrics"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5145,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-10-27",
+"ee": "https://doi.org/10.1007/978-1-4899-7488-4",
+"year": "2015",
+"isbn": "978-1-4899-7487-7",
+"citationScore": 0.9357944745391045,
+"publisher": "Springer US",
+"id": "reference/bio/2015",
+"title": "Encyclopedia of Biometrics, Second Edition"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5146,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1017/CBO9781107446984",
+"year": "2016",
+"isbn": "9781107446984",
+"citationScore": 0.7514565801721912,
+"publisher": "Cambridge University Press",
+"id": "reference/choice/2016",
+"title": "Handbook of Computational Social Choice"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5147,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-11-04",
+"ee": "https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology#book-description",
+"year": "2019",
+"isbn": "978-0-12-811432-2",
+"citationScore": 0.7706271210388559,
+"publisher": "Elsevier",
+"id": "reference/bioinf/2019-1",
+"title": "Encyclopedia of Bioinformatics and Computational Biology - Volume 1"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5148,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-11-04",
+"ee": "https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology#book-description",
+"year": "2019",
+"isbn": "978-0-12-811432-2",
+"citationScore": 0.9403117537281791,
+"publisher": "Elsevier",
+"id": "reference/bioinf/2019-2",
+"title": "Encyclopedia of Bioinformatics and Computational Biology - Volume 2"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5149,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-11-04",
+"ee": "https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology#book-description",
+"year": "2019",
+"isbn": "978-0-12-811432-2",
+"citationScore": 0.9562945468801355,
+"publisher": "Elsevier",
+"id": "reference/bioinf/2019-3",
+"title": "Encyclopedia of Bioinformatics and Computational Biology - Volume 3"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5150,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2018-11-05",
+"ee": "https://doi.org/10.1007/978-3-319-07124-4",
+"year": "2018",
+"isbn": "978-3-319-07123-7",
+"citationScore": 0.6301486282295378,
+"publisher": "Springer",
+"id": "reference/sp/2018heuristics",
+"title": "Handbook of Heuristics."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5151,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-09-16",
+"ee": "https://doi.org/10.1007/978-1-4939-2092-1",
+"year": "2015",
+"isbn": "978-1-4939-2091-4",
+"citationScore": 0.9046873007757817,
+"publisher": "Springer",
+"id": "reference/sp/2015dc",
+"title": "Handbook on Data Centers"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5152,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-1-4939-0790-8",
+"year": "2015",
+"isbn": "978-1-4939-0789-2",
+"citationScore": 1.1286088763170221,
+"publisher": "Springer",
+"id": "reference/sp/2015mmi",
+"title": "Handbook of Mathematical Methods in Imaging"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5153,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-12-27",
+"ee": "https://doi.org/10.1007/978-3-662-43505-2",
+"year": "2015",
+"series": "Springer Handbooks",
+"isbn": "978-3-662-43504-5",
+"citationScore": 1.0010624062007418,
+"publisher": "Springer",
+"id": "reference/sp/2015ci",
+"title": "Springer Handbook of Computational Intelligence"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5154,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-12-29",
+"ee": "https://doi.org/10.1007/978-3-319-95504-9",
+"year": "2018",
+"isbn": "978-3-319-95503-2",
+"citationScore": 0.9482679360698564,
+"publisher": "Springer",
+"id": "reference/sp/2018dddas",
+"title": "Handbook of Dynamic Data Driven Applications Systems."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5155,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-06-15",
+"ee": "https://doi.org/10.1007/978-1-4899-7637-6",
+"year": "2015",
+"isbn": "978-1-4899-7636-9",
+"citationScore": 0.9863908192380058,
+"publisher": "Springer",
+"id": "reference/sp/2015rsh",
+"title": "Recommender Systems Handbook"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5156,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2018-11-14",
+"ee": "https://doi.org/10.1007/978-3-540-92913-0",
+"year": "2011",
+"isbn": "978-3-540-92912-3",
+"citationScore": 0.9732333712197555,
+"publisher": "Springer",
+"id": "reference/sp/2011semweb",
+"title": "Handbook of Semantic Web Technologies"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5157,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-06-01",
+"ee": "https://doi.org/10.1007/978-1-4614-8806-4",
+"year": "2013",
+"isbn": "978-1-4614-8805-7",
+"citationScore": 0.6895694059299132,
+"publisher": "Springer",
+"id": "reference/sp/2013hc",
+"title": "Handbook of Human Computation"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5158,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2018-11-05",
+"ee": "https://doi.org/10.1007/978-3-319-98161-1",
+"year": "2018",
+"isbn": "978-3-319-98160-4",
+"citationScore": 0.9330790618524981,
+"publisher": "Springer",
+"id": "reference/sp/2018mdp",
+"title": "Handbook of Mobile Data Privacy."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5159,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2022-03-16",
+"ee": "https://doi.org/10.1007/978-3-662-45279-0",
+"year": "2017",
+"series": "Springer Reference Technik",
+"isbn": "978-3-662-45278-3",
+"citationScore": 1.068000558962473,
+"publisher": "Springer",
+"id": "reference/industrie/2017-1",
+"title": "Handbuch Industrie 4.0 Bd.1, Produktion."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5160,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2022-03-16",
+"ee": "https://doi.org/10.1007/978-3-662-53254-6",
+"year": "2017",
+"series": "Springer Reference Technik",
+"isbn": "978-3-662-53253-9",
+"citationScore": 0.8470282969569594,
+"publisher": "Springer",
+"id": "reference/industrie/2017-4",
+"title": "Handbuch Industrie 4.0 Bd.4, Allgemeine Grundlagen."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5161,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2022-03-16",
+"ee": "https://doi.org/10.1007/978-3-662-53251-5",
+"year": "2017",
+"series": "Springer Reference Technik",
+"isbn": "978-3-662-53250-8",
+"citationScore": 0.6581896149328964,
+"publisher": "Springer",
+"id": "reference/industrie/2017-3",
+"title": "Handbuch Industrie 4.0 Bd.3, Logistik."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5162,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2022-03-16",
+"ee": "https://doi.org/10.1007/978-3-662-53248-5",
+"year": "2017",
+"series": "Springer Reference Technik",
+"isbn": "978-3-662-53247-8",
+"citationScore": 1.121372191872781,
+"publisher": "Springer",
+"id": "reference/industrie/2017-2",
+"title": "Handbuch Industrie 4.0 Bd.2, Automatisierung."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5163,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-1-4471-5102-9",
+"year": "2015",
+"isbn": "978-1-4471-5102-9",
+"citationScore": 0.8679281051212961,
+"publisher": "Springer",
+"id": "reference/sc/2015",
+"title": "Encyclopedia of Systems and Control"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5164,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-04-17",
+"ee": "https://www.sciencedirect.com/referencework/9780122272400/encyclopedia-of-information-systems",
+"year": "2002",
+"isbn": "978-0-12-227240-0",
+"citationScore": 1.151215272379846,
+"publisher": "Academic Press",
+"id": "reference/ap/2002is",
+"title": "Encyclopedia of Information Systems"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5165,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2011-11-25",
+"year": "2008",
+"series": "eXamen.press",
+"isbn": "978-3-540-76393-2",
+"citationScore": 0.9296697496555565,
+"publisher": "Springer",
+"id": "reference/algo/2008t",
+"title": "Taschenbuch der Algorithmen"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5166,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-06-27",
+"ee": "https://doi.org/10.1007/978-0-387-30162-4",
+"year": "2008",
+"isbn": "978-0-387-30770-1",
+"citationScore": 0.8709479875612881,
+"publisher": "Springer",
+"id": "reference/algo/2008",
+"title": "Encyclopedia of Algorithms - 2008 Edition"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5167,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-06-27",
+"ee": "https://doi.org/10.1007/978-1-4939-2864-4",
+"year": "2016",
+"isbn": "978-1-4939-2863-7",
+"citationScore": 1.2096438477402094,
+"publisher": "Springer",
+"id": "reference/algo/2016",
+"title": "Encyclopedia of Algorithms - 2016 Edition"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5168,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-04-09",
+"ee": "https://doi.org/10.1007/978-3-540-92910-9",
+"year": "2012",
+"isbn": "978-3-540-92909-3",
+"citationScore": 0.813887866069797,
+"publisher": "Springer",
+"id": "reference/nc/2012",
+"title": "Handbook of Natural Computing"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5169,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2015-02-09",
+"ee": "http://www.crcnetbase.com/isbn/9781420085938",
+"year": "2010",
+"isbn": "978-1-4200-8592-1",
+"citationScore": 0.9111163321647888,
+"publisher": "Chapman and Hall/CRC",
+"id": "reference/nlp/2010",
+"title": "Handbook of Natural Language Processing, Second Edition."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5170,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2021-10-14",
+"ee": "https://doi.org/10.1007/978-3-642-04117-4",
+"year": "2010",
+"isbn": "978-3-642-04116-7",
+"citationScore": 0.8690283520744174,
+"publisher": "Springer",
+"id": "reference/icsec/2010",
+"title": "Handbook of Information and Communication Security"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5171,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2011-11-25",
+"year": "2009",
+"isbn": "978-0-387-75888-6",
+"citationScore": 1.0866189408100468,
+"publisher": "Springer",
+"id": "reference/complexity/2009",
+"title": "Encyclopedia of Complexity and Systems Science"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5172,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-1-4614-6170-8",
+"year": "2014",
+"isbn": "978-1-4614-6169-2",
+"citationScore": 1.1439524515209658,
+"publisher": "Springer",
+"id": "reference/snam/2014",
+"title": "Encyclopedia of Social Network Analysis and Mining"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5173,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2022-05-04",
+"ee": "https://www.springer.com/de/book/9781493971305",
+"year": "2018",
+"citationScore": 0.9762691655037967,
+"publisher": "Springer",
+"id": "reference/snam/2018",
+"title": "Encyclopedia of Social Network Analysis and Mining, 2nd Edition"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5174,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-06-02",
+"ee": "https://doi.org/10.1007/978-0-387-39940-9",
+"year": "2009",
+"isbn": "978-0-387-35544-3",
+"citationScore": 0.8938368294594643,
+"publisher": "Springer US",
+"id": "reference/db/2009",
+"title": "Encyclopedia of Database Systems"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5175,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2019-02-14",
+"ee": "https://doi.org/10.1007/978-1-4614-8265-9",
+"year": "2018",
+"isbn": "978-1-4614-8266-6",
+"citationScore": 1.024777698536842,
+"publisher": "Springer",
+"id": "reference/db/2018",
+"title": "Encyclopedia of Database Systems, Second Edition"
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5176,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2018-11-25",
+"ee": "https://doi.org/10.1007/978-3-642-59126-6",
+"year": "1997",
+"isbn": "978-3-642-63859-6",
+"citationScore": 1.0178346757982728,
+"publisher": "Springer",
+"id": "reference/hfl/1997-3",
+"title": "Handbook of Formal Languages, Volume 3: Beyond Words."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5177,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2018-11-25",
+"ee": "https://doi.org/10.1007/978-3-662-07675-0",
+"year": "1997",
+"isbn": "978-3-642-08230-6",
+"citationScore": 0.8813321134678188,
+"publisher": "Springer",
+"id": "reference/hfl/1997-2",
+"title": "Handbook of Formal Languages, Volume 2. Linear Modeling: Background and Application."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5178,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2020-05-30",
+"ee": "https://doi.org/10.1007/978-3-642-59136-5",
+"year": "1997",
+"isbn": "978-3-642-63863-3",
+"citationScore": 1.109058939770019,
+"publisher": "Springer",
+"id": "reference/hfl/1997-1",
+"title": "Handbook of Formal Languages, Volume 1: Word, Language, Grammar."
+      }
+    }
+  },
+  {
+    "i": {
+"identity": 5179,
+"labels": [
+        "Publication",
+        "Book"
+      ],
+"properties": {
+"date": "2017-05-16",
+"ee": "https://doi.org/10.1007/978-0-387-09766-4",
+"year": "2011",
+"isbn": "978-0-387-09765-7",
+"citationScore": 0.9287508966145249,
+"publisher": "Springer",
+"id": "reference/parallel/2011",
+"title": "Encyclopedia of Parallel Computing"
+      }
+    }
+  }
+]
