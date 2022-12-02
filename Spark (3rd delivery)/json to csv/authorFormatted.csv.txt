@@ -1,0 +1,4155 @@
+id,name,citationScore
+2000,Paul Kocher,0.977108004
+2001,Daniel Genkin,0.977108004
+2002,Daniel Gruss,0.977108004
+2003,Werner Haas 0004,0.977108004
+2004,Mike Hamburg,0.977108004
+2005,Moritz Lipp,0.977108004
+2006,Stefan Mangard,0.977108004
+2007,Thomas Prescher 0002,0.977108004
+2008,Michael Schwarz 0001,0.977108004
+2009,Yuval Yarom,0.977108004
+2010,Frank Manola,1.718443311
+2011,Michael L. Brodie,0.752966652
+2012,Michael Stonebraker,1.041182117
+2013,Mark F. Hornick,1.289774981
+2014,Joe D. Morrison,0.987894981
+2015,Farshad Nayeri,1.172357516
+2016,Alejandro P. Buchmann,1.276615479
+2017,M. Tamer Özsu,1.153033257
+2018,Dimitrios Georgakopoulos,0.963968614
+2019,Sandra Heiler,1.031913241
+2020,Benjamin Hurwitz,1.143664139
+2021,David Beech,1.203185242
+2022,Cetin Ozbutun,0.773513254
+2023,Krishna G. Kulkarni,1.082094932
+2024,Jim Melton,1.082094932
+2025,Jonathan Bauer,1.082094932
+2026,Mike Kelley,0.981886972
+2027,Phil Shaw,0.922502464
+2028,Rolf Sander,0.956062711
+2029,Thomas Ludwig 0001,1.933990392
+2030,Werner Emde,1.059972529
+2031,Claus-Rainer Rollinger,1.624731637
+2032,Christoph Beierle,2.639203967
+2033,Udo Pletat,2.332265946
+2034,Hans Uszkoreit,0.950602231
+2035,Ulrike Rackow,0.963508814
+2036,Ido Dagan,0.835517965
+2037,Ulrike Schwall,1.319628952
+2038,Brigitte Bartsch-Spörl,1.179828583
+2039,Erich Gehlen,1.468254294
+2040,Burkhard Kehrbusch,0.892431605
+2041,Markus Höhfeld,1.093000492
+2042,Gert Smolka,1.671226296
+2043,Birgit Wesche,1.531460844
+2044,Christopher Habel,1.302452669
+2045,Bernd Walter,1.42120308
+2046,Michael Ley,1.921634506
+2047,Albert Maier,1.353363814
+2048,Stefan Benzschawel,1.090287874
+2049,Egon Börger,1.629300625
+2050,Roland Seiffert,1.76518776
+2051,Gisela Schöpke,0.938154563
+2052,Stefan Böttcher,1.750575479
+2053,Rudi Studer,1.477914077
+2054,Toni Bollinger,1.435882831
+2055,Carola Eschenbach,0.837226135
+2056,Manfred Schmidt-Schauß,1.059816915
+2057,Hans-Joachim Goltz,0.958869614
+2058,Otthein Herzog,1.237348682
+2059,Bernhard Beckert,1.21469741
+2060,Stefan J. Schierholz,1.231140909
+2061,Birgit Wendholt,1.095124768
+2062,Gudrun Klose,1.19646856
+2063,Michael Herweg,1.000769429
+2064,Mohammed Nadjib Khenkhar,1.180646889
+2065,Simone Pribbenow,1.429043331
+2066,Klaus Rehkämper,1.007583119
+2067,Anja Theuner,1.209594297
+2068,Peter H. Schmitt,1.815864942
+2069,Claudia Maienborn,1.134222559
+2070,Brigitte Bläser,1.207654659
+2071,Angelika Storrer,1.336188749
+2072,Esther König,1.181596253
+2073,Claudia Mrotzek,1.245836062
+2074,Stefan Börner,0.975606072
+2075,Lutz Voelkel,0.762071983
+2076,Kai-Uwe Carstensen,1.186031696
+2077,Ulrike Weiland,1.092579261
+2078,Martin Hübner,0.958818631
+2079,Michael Czymmeck,0.852468504
+2080,Michael Tarnowski,1.101316587
+2081,Helmar Gust,1.238050172
+2082,Petra Ludewig,1.273300274
+2083,Mechthild Rickheit,1.319781009
+2084,Kai von Luck,1.269606311
+2085,Elisabeth Neugebauer,1.079372847
+2086,Sitaram Lanka,1.230184033
+2087,Eric Mays,1.230184033
+2088,Petra Maier,1.049858793
+2089,Michel E. Adiba,0.950381892
+2090,Bruce G. Lindsay 0001,0.971356647
+2091,Ewald Lang,1.196560925
+2092,Thomas Pirlein,1.094498011
+2093,Gerd Kortüm,0.800896976
+2094,Ipke Wachsmuth,1.237744996
+2095,Ingrid Renz,0.979800545
+2096,Noam Paz,0.695617528
+2097,Kurt Eberle,1.443533865
+2098,Gregor Erbach,1.215403006
+2099,Christos Garidis,0.943356117
+2100,Jennifer A. Brundage,1.247274787
+2101,Maren Kresse,1.247274787
+2102,Eric Windisch,0.968669667
+2103,Peter Gerstl,1.224333366
+2104,Dines Bjørner,0.950146987
+2105,E. F. Codd,1.794878206
+2106,Kenneth L. Deckert,0.950146987
+2107,Irving L. Traiger,1.149599053
+2108,Sonja Müller,0.92353432
+2109,Rolf Mayer,1.052981673
+2110,Rüdiger Wirth,1.00052314
+2111,Holger M. Wittmann,1.063486151
+2112,Jan Wilms,1.307402369
+2113,Kai Lebeth,1.009275358
+2114,Bernd Abb,1.009275358
+2115,Jörg Heinrich,1.028736139
+2116,Andreas Eisele 0001,0.824864789
+2117,Jochen Dörre,1.768535009
+2118,Rainer Bäuerle,0.782971243
+2119,Sven Lorenz,1.354222201
+2120,Michael Klein,1.076858144
+2121,Robert S. Arnold,0.92330303
+2122,Jean-Marc Cadiou,0.92330303
+2123,Chin-Liang Chang,0.92330303
+2124,Nick Roussopoulos,0.92330303
+2125,Tibor Kiss,1.275879837
+2126,Wolfgang Wernecke,1.070167392
+2127,Ulrich Hedtstück,1.359811936
+2128,Petra Steffens,1.25121304
+2129,Manfred Grothaus,1.175991722
+2130,Karin Klabunde,1.01772517
+2131,Karl Dotzek,1.015441903
+2132,Sai Choi Kwan,0.847020976
+2133,H. Raymond Strong,1.075332785
+2134,Nikolaus Ott,0.754093925
+2135,F. Günthner,0.909972211
+2136,Siegfried Kanngießer,0.996275394
+2137,Christian Rohrer,0.909972211
+2138,Elisabeth Breidt,0.982828927
+2139,Oliver Wauschkuhn,0.694809796
+2140,Angi Voß,0.97259237
+2141,Ingo Raasch,1.329727074
+2142,Bernd I. Dahn,0.852796789
+2143,Theodor Lettmann,0.852796789
+2144,Wolfgang Schönfeld,0.852796789
+2145,Jim Gray 0001,1.011746238
+2146,Cesare A. Galtieri,0.815721102
+2147,Christoph Lingenfelder,1.065373864
+2148,Astrid Schmücker-Schend,1.065373864
+2149,Joachim Maier,1.103555978
+2150,Hinrich Schütze,1.380505772
+2151,Jörg H. Siekmann,0.971056581
+2152,Herbert J. Leass,1.048871043
+2153,Walter G. Olthoff,0.7417126
+2154,Reiner Hähnle,1.020418126
+2155,Stefan Gerberding,0.992937268
+2156,Werner Kernig,0.992937268
+2157,Gregor Meyer,1.011759671
+2158,Andreas Arning,0.948091264
+2159,Raymond A. Lorie,1.112119299
+2160,Bernhard Nebel,1.258059795
+2161,Petra Schulz,0.946616737
+2162,Sebastian Millies,1.107935481
+2163,Heiner Semle,0.867104511
+2164,Anne Schiller,1.112605971
+2165,M. Wermke,1.01357644
+2166,Karl-Hans Bläsius,1.124009717
+2167,Elke Busch,0.806429595
+2168,Jürgen Pietsch,0.988141552
+2169,R. Zieschank,0.988141552
+2170,D. Marx,0.988141552
+2171,P. Klug-Lier,0.988141552
+2172,Bernd Page,0.988141552
+2173,D. Eberle,0.988141552
+2174,Volker Jantzen,0.866059235
+2175,Ralph Scheubrein,1.095782319
+2176,William C. Rounds,0.810593654
+2177,Kurt Rothermel,0.776174801
+2178,Bart Geurts,0.948001917
+2179,Josef Gemander,0.622521417
+2180,Wilfried Hötker,0.916652416
+2181,Karel Oliva,1.020706188
+2182,Uwe Reyle,1.121250487
+2183,Jutta Kreiß,1.125075393
+2184,Jürgen Manowsky,0.93472292
+2185,Karl Schlechta,0.994955475
+2186,Geoffrey Simmons,0.943622175
+2187,Arne Pott,0.733366412
+2188,Rob A. van der Sandt,0.889201945
+2189,Vera Watson,1.023817513
+2190,Adrian Müller,0.826984915
+2191,Robert Dionne,1.109672439
+2192,Robert A. Weida,1.109672439
+2193,Peter Bosch,1.135902369
+2194,George Markowsky,1.108129543
+2195,Stefan Bayerl,1.013207839
+2196,Günther Görz,0.998329787
+2197,Kjell Johan Sæbø,1.290962644
+2198,Jean-Yves Lerner,0.772735779
+2199,Ulrich Schatz,0.772735779
+2200,Gosse Bouma,1.159164939
+2201,Raymond F. Boyce,0.813887186
+2202,Donald D. Chamberlin,1.303562424
+2203,Bradford W. Wade,0.974089764
+2204,Karin Neuhold,1.071127111
+2205,Richard Rödler,1.660397172
+2206,Gerd Hoff,0.928031096
+2207,Martin Mundhenk,1.375523155
+2208,Manfred Laumen,1.374001973
+2209,Christoph Meinel,6.05131306
+2210,Harald Sack,1.909256858
+2211,Volker Schillings,1.15067647
+2212,Carsten Damm,2.12670228
+2213,Martin Gugat,1.599275809
+2214,Nguyen V. Thoai,1.882646709
+2215,Friedemann Leibfritz,1.699447552
+2216,El-Sayed M. E. Mostafa,1.174267812
+2217,Belinda B. King,1.096622016
+2218,Eyal Arian,0.831484403
+2219,A. Battermann,0.8925796
+2220,Ekkehard W. Sachs,1.686907513
+2221,Peter Gritzmann,2.632088813
+2222,Victor Klee,1.965221917
+2223,John Westwater,1.354953691
+2224,Dieter Baum,2.940617763
+2225,Florian Jarre,1.262815191
+2226,Anna Slobodová,2.090634265
+2227,Rainer Tichatschke,2.168932027
+2228,Alexander Kaplan,1.935065328
+2229,Tim Voetmann,1.058077591
+2230,M. Böhm,1.025646317
+2231,Artur Czumaj,1.148198131
+2232,Przemyslawa Kanarek,1.148198131
+2233,Miroslaw Kutylowski,1.148198131
+2234,Krzysztof Lorys,1.148198131
+2235,Klaus Jansen,2.643368174
+2236,Klaus Lux,1.202288867
+2237,Markus Wiegelmann,1.30067854
+2238,Helmut Seidl,2.424005815
+2239,Christian Fecht,1.18737802
+2240,Jordan Gergov,1.410422598
+2241,Harald Luschgy,1.224304729
+2242,Matthias Heinkenschloss,1.008013345
+2243,Bernd Sturmfels,1.263965702
+2244,Christian Stangier,1.581863241
+2245,Arno Wagner,1.132773442
+2246,Mirjam Dür,0.925663695
+2247,Reiner Horst,1.971945976
+2248,Beniamino Di Martino,0.9036331
+2249,Christoph W. Keßler,1.532457563
+2250,Wei Zhou 0006,0.921602072
+2251,Anna Bernasconi 0001,1.101801276
+2252,Igor E. Shparlinski,1.13820632
+2253,Le Dung Muu,1.178779279
+2254,Kasyap Natarajan,1.205095995
+2255,Hubertus Th. Jongen,1.07542367
+2256,Oliver Stein,1.056239155
+2257,M. Nast,1.119996525
+2258,Lothar Breuer,2.274272867
+2259,Hannes Frey,0.766775119
+2260,Johannes K. Lehnert,0.766775119
+2261,Daniel Görgen,1.219466529
+2262,Peter Sturm 0001,1.219466529
+2263,Patrick Reuther,1.003764627
+2264,E. Levitin,1.452148071
+2265,Jürgen Huschens,1.305613202
+2266,Marco Fahl,0.957109797
+2267,Andreas Neumann 0001,0.961968594
+2268,Randal E. Bryant,0.882187641
+2269,Subhendu Bikash Hazra,1.306331313
+2270,Volker Schulz 0001,1.175947957
+2271,Elena Dubrova,0.910406417
+2272,Horst Schmitt,0.933941472
+2273,Peter Willems,0.808509117
+2274,Igor N. Kovalenko,1.030814859
+2275,R. J. Gardner,0.988007798
+2276,Dieter Prangenberg,0.651953093
+2277,János Sztrik,1.22496363
+2278,Oliver Möller,1.22496363
+2279,Ulrich Hertrampf,1.1515745
+2280,Thomas Burger,1.074126738
+2281,Jochen Bern,1.543791919
+2282,Heidi Jäger,1.212941676
+2283,Thomas Erlebach,1.104906233
+2284,Flemming Nielson,0.717407518
+2285,Gurami Tsitsiashvili,1.032882866
+2286,Patrick Justen,0.990565624
+2287,Klaus Schwettmann,1.03403279
+2288,Ulrich Raber,0.970820965
+2289,Fabio Somenzi,0.932309338
+2290,Thorsten Theobald,1.234580912
+2291,Abdelouahed Hamdi,0.87704793
+2292,Attahiru Sule Alfa,0.981337128
+2293,Siegfried Graf,1.211224199
+2294,Jens Hofmann 0001,1.205826987
+2295,Norbert Th. Müller,1.127785129
+2296,Jan-J. Rückmann,1.002953852
+2297,Volker Klotz,0.894153377
+2298,Dimitri Efrosinin,1.188984933
+2299,Vladimir Rykov,1.188984933
+2300,Hans L. Bodlaender,1.171287513
+2301,Gerhard J. Woeginger,1.353355438
+2302,Michael Ruvimovich Davidson,0.962113184
+2303,Stephan Waack,1.232791701
+2304,Holger Class,0.970050923
+2305,Rainer Helmig,0.970050923
+2306,Katja Lenz,0.823116257
+2307,Alexander Hufnagel,1.024231253
+2308,David G. Larman,0.812652725
+2309,D. Kleis,1.3873569
+2310,Petra Scheffler,1.152980682
+2311,Stasys Jukna,1.592621915
+2312,Mikail Gevantmakher,1.044255679
+2313,Tankred Rautert,0.93412299
+2314,Luciano Lenzini,0.906358371
+2315,S. Rotin,1.208255938
+2316,Dirk Frosch,0.804539542
+2317,Craig Smith,0.868485036
+2318,Vladimir V. Kalashnikov,1.290247452
+2319,N. Lehdili,0.799424099
+2320,C. Ould Ahmed Salem,0.799424099
+2321,Matthias Krause 0001,0.750167105
+2322,Andreas Brieden,1.102128809
+2323,Marco Gilbert,0.773097525
+2324,Lars Abbe,0.976402849
+2325,Sebastian Maneth,1.040750282
+2326,Thomas Perst,1.040750282
+2327,Helmut Finner,0.96347858
+2328,Markus Roters,1.02901
+2329,Jirí Sgall,1.103218197
+2330,M. A. Osipova,0.974935841
+2331,N. V. Koliev,0.974935841
+2332,Oleg V. Khamisov,1.150709583
+2333,Markus Holzer 0001,1.284169491
+2334,Varmo Vene,0.877091233
+2335,Markus Müller-Olm,1.064428009
+2336,Feng Cheng 0002,0.821644457
+2337,Paul Ferring,0.821644457
+2338,Martin Luckow,0.780759274
+2339,Dirk Frosch-Wilke,1.023927933
+2340,Judy Goldsmith,1.009611229
+2341,Christopher Lusena,1.009611229
+2342,Eric Allender,0.837895477
+2343,Rainer Hettich,0.768124347
+2344,Matthias Transier,1.450436753
+2345,Wolfgang Effelsberg,1.450436753
+2346,Aditya V. Nori,1.315823098
+2347,Anthony J. Hayter,0.969155418
+2348,Joachim Reiter,0.869667872
+2349,Rustam Mubarakzjanov,0.961039077
+2350,Ulrich Holtmann,1.121767477
+2351,C. T. Kelley,0.852604072
+2352,Peter Rossmanith,1.040026325
+2353,Michael Schmitt 0002,1.492796778
+2354,Gianpiero Cabodi,0.907910536
+2355,Stefano Quer,0.907910536
+2356,Ditmar Erdmann,1.056566185
+2357,Volker Schmidt,1.031459968
+2358,Peter Dierolf,1.267559048
+2359,Paul B. Hermanns,0.743227903
+2360,Markus R. Schmidt,0.7388237
+2361,Clemens Lautemann,1.217975372
+2362,Thomas Schwentick,1.217975372
+2363,Heribert Vollmer,1.181204817
+2364,Klaus W. Wagner,1.217975372
+2365,B. S. Tam,1.105475467
+2366,Jacques Wainer,0.856547682
+2367,Michael Eckmann,0.856547682
+2368,Siome Goldenstein,0.856547682
+2369,Anderson Rocha 0001,0.994649526
+2370,C. J. Date 0001,1.032222082
+2371,Rita Ley,1.215107712
+2372,Markus Casper,0.888920446
+2373,Hugo Hellebrand,0.81460559
+2374,Ralf Merz,0.81460559
+2375,Patrick A. V. Hall,0.914015637
+2376,Markus Tresch,1.134712174
+2377,Gayane Grigoryan,0.801613401
+2378,Oliver Gronz,0.801613401
+2379,Oliver Gutjahr,0.801613401
+2380,Günther Heinemann,0.801613401
+2381,Andreas Rock,0.801613401
+2382,Sarah R. Davies,0.715716929
+2383,Colleen Murphy,1.540482191
+2384,Paolo Gardoni,1.502883927
+2385,Louise A. Dennis,0.584840725
+2386,Steven R. Smith,1.041180448
+2387,Lishan Lan,0.666443256
+2388,Qin Zhu,1.297787563
+2389,Yongmou Liu,0.666443256
+2390,Indira Nair,0.841563954
+2391,William M. Bulleit,0.841563954
+2392,Jaime A. Teixeira da Silva,2.176098527
+2393,Vito L. Punzi,1.103041979
+2394,David Koepsell,0.830805307
+2395,William J. Frey,0.94090223
+2396,Neelam Dehal,1.276420749
+2397,Kewal Krishan,1.997003009
+2398,Tanuj Kanchan,2.075662222
+2399,Amarjeet Singh 0004,1.276420749
+2400,Dimitrios Adamis,0.720814941
+2401,Adrian Treloar,0.720814941
+2402,Finbarr C. Martin,0.720814941
+2403,Alastair J. D. Macdonald,0.720814941
+2404,Jinnie M. Garrett,0.98084609
+2405,Stephanie J. Bird,2.391276002
+2406,Diana Adela Martin,1.013331202
+2407,Eddie Conlon,1.059859183
+2408,Brian Bowe,0.68290296
+2409,Petr Houdek,0.983932385
+2410,Oronzo Parlangeli,1.150985003
+2411,Paola Palmitesta,1.00200723
+2412,Margherita Bracci,1.150985003
+2413,Enrica Marchigiani,1.150985003
+2414,Ileana Di Pomponio,1.00200723
+2415,Stefano Guidi,1.150985003
+2416,Laura Yenisa Cabrera Trujillo,1.195042555
+2417,Sabrina Engel-Glatter,1.195042555
+2418,Peter M. Attia,0.921050765
+2419,M. Reza Hosseini,1.106468662
+2420,Igor Martek,1.106468662
+2421,Saeed Banihashemi,0.938307851
+2422,Albert P. C. Chan,1.36170471
+2423,Amos Darko,0.938307851
+2424,Mahdi Tahmasebi,0.938307851
+2425,Matthew Grellette,1.042383415
+2426,Karsten Klint Jensen,0.901096044
+2427,Ellen-Marie Forsberg,1.339532834
+2428,Christian Gamborg,0.901096044
+2429,Kate Millar,0.961442879
+2430,Peter Sandøe,1.067577068
+2431,Miri Barak,1.292141929
+2432,Gizell Green,1.292141929
+2433,Rafi Rashid,1.13973146
+2434,Raymond E. Spier,1.825663563
+2435,Maria Pina Dore,0.947781405
+2436,Giovanni M. Pes,0.947781405
+2437,Fabrizia Faustinella,0.947781405
+2438,Lynne E. Olson,0.960904937
+2439,Michael W. Kalichman,1.726201436
+2440,Dena Plemmons,1.677113687
+2441,Willem-Paul Brinkman,0.644844678
+2442,Sylvia C. Pont,0.644844678
+2443,Nikolas Stroth,0.873984855
+2444,Jana Kliestikova,1.134261089
+2445,Tomas Kliestik,1.061222677
+2446,Maria Misankova,1.061222677
+2447,Tatiana Corejova,1.134261089
+2448,Anna Krizanova,1.134261089
+2449,Seumas Miller,1.309614098
+2450,Reena Cheruvalath,0.905113505
+2451,Wha-Chul Son,0.981770663
+2452,Frédéric Gilbert 0003,1.07756492
+2453,Cathal D. O'Connell,1.046162837
+2454,Tajanka Mladenovska,1.046162837
+2455,Susan Dodds,1.029387618
+2456,Thomas C. Erren,0.816305541
+2457,David M. Shaw,1.212287565
+2458,Peter Morfeld,0.816305541
+2459,Guido Nicolosi,1.122501807
+2460,Guido Ruivenkamp,1.122501807
+2461,Per Wikman-Svahn,0.942526271
+2462,Lars Lindblom,0.892955421
+2463,Patrick L. Taylor,1.039650094
+2464,Ioanna Semendeferi,1.074254341
+2465,Panagiotis Tsiamyrtzis,0.942353966
+2466,Malcolm Dcosta,0.942353966
+2467,Ioannis T. Pavlidis,1.074254341
+2468,Steven M. Flipse,1.08226556
+2469,Maarten C. A. van der Sanden,0.962942554
+2470,Patricia Osseweijer,1.335797627
+2471,Vance W. Berger,1.060678861
+2472,Sven Ove Hansson,1.319131586
+2473,Howard J. Curzer,0.922539283
+2474,Gad Perry,0.922539283
+2475,Mark C. Wallace,0.922539283
+2476,Dan Perry,0.922539283
+2477,Jukka Varelius,1.063517571
+2478,Taraswi Banerjee,1.220097431
+2479,Kathy Partin,1.220097431
+2480,David B. Resnik,2.112961899
+2481,Andrea Owe,0.926969613
+2482,Seth D. Baum,1.064561654
+2483,Mark Coeckelbergh,1.611485286
+2484,Thomas Ploug,0.886058802
+2485,Søren Holm,1.113240913
+2486,Mehmet Aközer,0.928662954
+2487,Emel Aközer,0.928662954
+2488,Morten P. Oksvold,1.072806305
+2489,Alexander Hevelke,0.993564284
+2490,Julian Nida-Rümelin,0.993564284
+2491,Martina Horvat,0.897175385
+2492,Ana Mlinaric,0.897175385
+2493,Jelena Omazic,0.897175385
+2494,Vesna Supak-Smolcic,0.897175385
+2495,Fern Wickson,1.050531393
+2496,Elise Smith,1.089594712
+2497,Bryn Williams-Jones,1.089594712
+2498,Zubin Master,1.064843388
+2499,Vincent Larivière,0.95561797
+2500,Cassidy R. Sugimoto,0.95561797
+2501,Adèle Paul-Hus,0.95561797
+2502,Min Shi,0.95561797
+2503,Michael Davis 0002,1.256576809
+2504,David L. Evers,0.979708913
+2505,Carol B. Fowler,0.979708913
+2506,Jeffrey T. Mason,0.979708913
+2507,Rebecca K. Mimnall,0.979708913
+2508,Emmanuel Kingsford Owusu,1.058579382
+2509,Ming Shan,1.275600058
+2510,Erika Pärn,0.993987582
+2511,Robert E. McGinn,0.915602533
+2512,Raphael Cohen-Almagor,0.943810748
+2513,Byron Newberry,0.920389444
+2514,Katherine A. Austin,0.875748785
+2515,William D. Lawson,0.875748785
+2516,Greta Gorsuch,0.875748785
+2517,Thomas Darwin,0.875748785
+2518,Filippo Santoni de Sio,1.514147352
+2519,Cristina Pop 0002,0.999360538
+2520,Ramona Simut,0.999360538
+2521,Andreea Peca,0.999360538
+2522,Sebastian Pintea,0.999360538
+2523,Daniel O. David,0.999360538
+2524,Bram Vanderborght,0.999360538
+2525,Conrad Heilmann,0.932565325
+2526,Keith W. Miller 0001,1.294282913
+2527,Marty J. Wolf,1.052334485
+2528,Frances S. Grodzinsky,1.052334485
+2529,Cary Moskovitz,1.219759539
+2530,A. Lauren Crain,0.928563868
+2531,Brian C. Martinson,1.091947396
+2532,Carol R. Thrush,0.928563868
+2533,Lisa M. Rasmussen,0.957251245
+2534,Courtney E. Williams,0.895078794
+2535,Mary M. Hausfeld,0.895078794
+2536,George C. Banks,0.895078794
+2537,Bailey C. Davis,0.895078794
+2538,René von Schomberg,1.257674166
+2539,Christopher Brandl,1.037162707
+2540,Matthias Wille,1.037162707
+2541,Jochen Nelles,1.037162707
+2542,Peter Rasche,1.037162707
+2543,Katharina Schäfer,1.037162707
+2544,Frank Ole Flemisch,1.037162707
+2545,Martin Frenz,1.037162707
+2546,Verena Nitsch,1.037162707
+2547,Alexander Mertens,1.037162707
+2548,Jessica Li,1.170953192
+2549,Shengli Fu,1.170953192
+2550,Katherine A. McComas,1.129665828
+2551,Ralph J. Greenspan,1.009589442
+2552,Anders Braarud Hanssen,1.167168007
+2553,Hanne Marie Nielsen,1.167168007
+2554,Ingrid Olesen,1.167168007
+2555,Yoann Guntzburger,0.870031785
+2556,Thierry C. Pauchant,0.870031785
+2557,Philippe A. Tanguy,0.870031785
+2558,Gianmarco Baldini,0.982368147
+2559,Maarten Botterman,0.982368147
+2560,Ricardo Neisse,0.982368147
+2561,Mariachiara Tallacchini,1.056803573
+2562,Marcello Ienca,1.169463088
+2563,Tenzin Wangmo,1.167679512
+2564,Fabrice Jotterand,1.264272527
+2565,Reto W. Kressig,1.167679512
+2566,Bernice Elger,1.207503686
+2567,Arif Sari,1.339329593
+2568,Simona Hasková,1.207990315
+2569,Yue Liang Zheng,0.929847251
+2570,Marek Vochozka,1.408444342
+2571,Vojtech Stehel,0.65085473
+2572,Anna Marousková,1.375380659
+2573,Louise Bezuidenhout,1.555151425
+2574,Robert Quick,0.962573363
+2575,Hugh P. Shanahan,0.962573363
+2576,Sven Nyholm,1.536508094
+2577,Johane Patenaude,0.883549682
+2578,Georges-Auguste Legault,0.883549682
+2579,Jacques Beauvais,0.572900124
+2580,Louise Bernier,0.572900124
+2581,Jean-Pierre Béland,0.572900124
+2582,Patrick Boissy,0.572900124
+2583,Vanessa Chenel,0.572900124
+2584,Charles-Étienne Daniel,0.572900124
+2585,Jonathan Genest,0.572900124
+2586,Marie-Sol Poirier,0.572900124
+2587,Danielle Tapin,0.572900124
+2588,Geerten van de Kaa,1.002261503
+2589,Jafar Rezaei 0001,1.002261503
+2590,Behnam Taebi,1.56714452
+2591,Ibo van de Poel,1.561788314
+2592,Abhilash Kizhakenath,1.002261503
+2593,Rosa Lynn Pinkus,1.054278754
+2594,Claire Gloeckner,1.149969036
+2595,Angela Fortunato,1.149969036
+2596,Anton Petrenko,0.725274478
+2597,Dan McArthur,0.816588201
+2598,Jason Borenstein,1.850807623
+2599,Joseph R. Herkert,1.008336868
+2600,George R. Hoffmann,0.68436772
+2601,Khaled Moustafa,1.449023471
+2602,Jameson M. Wetmore,1.181150481
+2603,Shane Epting,1.326007301
+2604,Nicholas G. Evans,0.992608131
+2605,Michael J. Selgelid,1.464661519
+2606,Ayanna M. Howard,1.166609503
+2607,Noor Munirah Isa,1.208769235
+2608,Bert van Wee,1.038255519
+2609,Wessel Reijers,1.119293049
+2610,David Wright 0003,1.119293049
+2611,Philip Brey,1.119293049
+2612,Karsten Weber,1.119293049
+2613,Rowena Rodrigues,1.119293049
+2614,Declan O'Sullivan,1.119293049
+2615,Bert Gordijn,1.698696885
+2616,Alex A. Karner,0.842908514
+2617,Jessica Morley,1.263048081
+2618,Luciano Floridi,2.357624309
+2619,John Harlow,0.990541906
+2620,Nadir Weibel,0.990541906
+2621,Rasheed Al Kotob,0.990541906
+2622,Vincent Chan,0.990541906
+2623,Cinnamon S. Bloss,0.990541906
+2624,Rubi Linares-Orozco,0.990541906
+2625,Michelle Takemoto,0.990541906
+2626,Camille Nebeker,0.990541906
+2627,Mehdi Dadkhah,1.452871136
+2628,Glenn Borchardt,1.452871136
+2629,Mohammad Lagzian,1.199446014
+2630,Alison Kretser,0.987787247
+2631,Delia Murphy,0.987787247
+2632,Stefano Bertuzzi,0.987787247
+2633,Todd Abraham,0.987787247
+2634,David B. Allison,0.987787247
+2635,Kathryn J. Boor,0.987787247
+2636,Johanna Dwyer,0.987787247
+2637,Andrea Grantham,0.987787247
+2638,Linda J. Harris,0.987787247
+2639,Rachelle Hollander,0.985486252
+2640,Chavonda Jacobs-Young,0.987787247
+2641,Sarah M. Rovito,0.987787247
+2642,Dorothea Vafiadis,0.987787247
+2643,Catherine Woteki,0.987787247
+2644,Jessica M. Wyndham,1.132195618
+2645,Rickey Y. Yada,0.987787247
+2646,Maria Bårdsen Hesjedal,0.851765439
+2647,Heidrun Åm,0.851765439
+2648,Knut H. Sørensen,0.851765439
+2649,Roger Strand,1.070498137
+2650,Susan A. Elmore,1.130223803
+2651,Leonidas G. Koniaris,0.888807029
+2652,Mary I. Coombs,0.888807029
+2653,Eric M. Meslin,0.888807029
+2654,Teresa A. Zimmers,0.888807029
+2655,Matthew J. Dennis,1.002464122
+2656,Wei-Tau Lee,0.995000238
+2657,James A. Blumenthal,0.995000238
+2658,Kenneth H. Funk II,0.995000238
+2659,Pablo Rey-Mazón,1.130168901
+2660,Hagit Keysar,1.130168901
+2661,Shannon Dosemagen,1.130168901
+2662,Catherine D'Ignazio,1.130168901
+2663,Don Blair,1.130168901
+2664,Justin L. Hess,0.967838003
+2665,Grant Fore,0.967838003
+2666,Corinne Cath,1.134132214
+2667,Sandra Wachter,0.926834051
+2668,Brent D. Mittelstadt 0002,0.926834051
+2669,Mariarosaria Taddeo,1.80960191
+2670,Hossein Yahaghi,1.125380704
+2671,Shahryar Sorooshian,1.869712236
+2672,Javad Yahaghi,1.42948568
+2673,Gerd Michelsen,0.99312474
+2674,Erik Laes,1.364707289
+2675,Gunter Bombaerts,1.378485233
+2676,Jathan Sadowski,1.062246559
+2677,Thomas P. Seager,1.062246559
+2678,Evan Selinger,1.062246559
+2679,Susan G. Spierre,1.062246559
+2680,Kyle Powys Whyte,1.154710629
+2681,Auke J. K. Pols,1.05197564
+2682,Gary Lee Downey,1.120146029
+2683,Juan C. Lucena,1.120146029
+2684,Carl Mitcham,1.263500678
+2685,Hans Peter Graf,1.036194911
+2686,Sonia Maria Ramos de Vasconcelos,0.839258229
+2687,Miguel Roig,0.839258229
+2688,Jurate Lekstutiene,1.043373915
+2689,Eugenijus Gefenas,1.292431626
+2690,Ivo Maathuis,0.975803984
+2691,Maartje G. H. Niezen,0.975803984
+2692,David Buitenweg,0.975803984
+2693,Ilja L. Bongers,0.975803984
+2694,Chijs van Nieuwenhuizen,0.975803984
+2695,Eran Klein,1.245032724
+2696,Frida Simonstein,0.820353817
+2697,Gary Santillanes,1.562794824
+2698,Ryan Marshall Felder,1.94565483
+2699,Douglas Walton,0.869467235
+2700,Glen Miller,1.158928496
+2701,Ritesh G. Menezes,1.411951958
+2702,Magdy A. Kharoshah,0.916928472
+2703,Mohammed Madadin,1.311435222
+2704,Vijaya Marakala,0.824740898
+2705,Savita Lasrado,0.824740898
+2706,Dalal M. Al Tamimi,0.824740898
+2707,Yiyang Gao,0.908676733
+2708,Jasmin Wilson,0.908676733
+2709,Patricia Ann Mabrouk,1.00602328
+2710,Brian P. Coppola,1.098626514
+2711,India C. Plough,1.098626514
+2712,Huai Sun,1.098626514
+2713,Matthew Benjamin Reisman,0.942465287
+2714,Aceil Al-Khatib,1.546090844
+2715,Mathieu Bouville,1.278717363
+2716,Manjur S. Kolhar,1.330175139
+2717,Alain Braillon,0.970988177
+2718,Jose A. García 0001,1.081205283
+2719,Rosa Rodríguez-Sánchez,1.081205283
+2720,J. Fdez-Valdivia,1.081205283
+2721,Erika Palmer,0.861022176
+2722,Benedicte Wilson,0.861022176
+2723,Barbara K. Redman,1.359333912
+2724,Roel Snieder,0.918506925
+2725,Somsri Wiwanitkit,1.179781553
+2726,Viroj Wiwanitkit,1.63144845
+2727,Torbjørn Gundersen,0.871163792
+2728,Kristine Bærøe,0.871163792
+2729,William E. Kastenberg,1.150872889
+2730,Emily Bell,0.864268475
+2731,Mary E. Sunderland,1.163828151
+2732,Rahul Uday Nayak,1.084864728
+2733,María-del-Val Segarra-Oña,1.020574862
+2734,Angel Peiró-Signes,1.020574862
+2735,Roberto Cervelló-Royo,1.020574862
+2736,Qinghui Suo,1.053908338
+2737,Yang Liu,0.884683912
+2738,Daming Zhang,0.884683912
+2739,Peter Kroes,0.756963327
+2740,Michael Davis,1.70449962
+2741,Kelly Laas,1.084985101
+2742,Elizabeth A. Boyd,1.111101467
+2743,Lisa A. Bero,1.111101467
+2744,Philip J. Langlais,1.075965135
+2745,Aimee van Wynsberghe,1.349121368
+2746,Emma Keuleyan,0.849823844
+2747,Amos K. Laar,0.852926334
+2748,Kyle Ferguson,0.852926334
+2749,Arthur Caplan,0.988742276
+2750,Mohamed Abioui,0.914396321
+2751,Lhassan M'Barki,0.914396321
+2752,Mohammed Benssaou,0.914396321
+2753,Andrea Di Cencio,0.914396321
+2754,Mohamed Dades,0.914396321
+2755,Abhishek Tandon,1.011640359
+2756,Frederick Grinnell,0.962735287
+2757,Barbara E. Ribeiro,0.846981918
+2758,Robert D. J. Smith,0.846981918
+2759,Vincent Richman,1.146073644
+2760,Alex Richman,1.146073644
+2761,Ahmed Fouad Bouras,1.148554205
+2762,Noureddine Bettahar,1.116041703
+2763,Hadjar Toumi,1.116041703
+2764,Nassim Kazitani,1.116041703
+2765,Lamia Kara,1.116041703
+2766,Mustapha Benmansour,1.116041703
+2767,Penelope Engel-Hills,1.033963032
+2768,Christine Winberg,1.033963032
+2769,Arie Rip,1.092027137
+2770,Vanja Pupovac,0.970268403
+2771,Daniele Fanelli,1.028130111
+2772,Doniel Drazin,1.121935713
+2773,Kevin Spitler,1.121935713
+2774,Milos Cekic,1.121935713
+2775,Ashish Patel,1.121935713
+2776,George Hanna,1.121935713
+2777,Ali Shirzadi,1.121935713
+2778,Ray Chu,1.121935713
+2779,Snjezana Prijic-Samarzija,0.820679311
+2780,Mladen Petrovecki,1.062721461
+2781,Kelly Joslin Holloway,1.101985126
+2782,James A. Stieb,1.211543226
+2783,Charles E. Harris,0.81879885
+2784,Jessica Smith Rolston,1.05227897
+2785,William T. Lynch,0.8955087
+2786,Matthew A. Butkus,0.809186946
+2787,Ramón Queraltó,0.902147522
+2788,Steffen Steinert,0.981850652
+2789,Steven Puylaert,0.922691492
+2790,Udo Pesch,1.115077763
+2791,Ben A. Minteer,1.27946143
+2792,James P. Collins,1.27946143
+2793,Charlotte Stix,0.988783018
+2794,Henri-Corto Stoeklé,1.033155575
+2795,Marie-France Mamzer-Bruneel,1.050035653
+2796,Charles-Henry Frouart,1.050035653
+2797,Christophe Le Tourneau,1.050035653
+2798,Pierre Laurent-Puig,1.050035653
+2799,Guillaume Vogt,1.033155575
+2800,Christian Hervé,1.033155575
+2801,Svetlana Zernes,0.813514118
+2802,Eun Ah Lee,1.03636837
+2803,Nicholas R. Gans,1.03636837
+2804,Magdalena Grohman,1.03636837
+2805,Marco Tacca,1.03636837
+2806,Matthew J. Brown,1.03636837
+2807,Tom Williams 0001,1.144429204
+2808,Ryan Blake Jackson,1.144429204
+2809,Ruchen Wen,1.144429204
+2810,Ulrike Felt,1.237985224
+2811,Susanne Öchsner,0.953402147
+2812,Haldun M. Özaktas,0.772867149
+2813,Balamuralithara Balakrishnan,1.230207954
+2814,Fumihiko Tochinai,0.889145558
+2815,Hidekazu Kanemitsu,0.889145558
+2816,Melissa S. Anderson,1.611473729
+2817,Emily A. Ronning,1.041570547
+2818,Raymond De Vries,1.041570547
+2819,Sean T. Powell,1.075623283
+2820,Matthew A. Allison,1.075623283
+2821,Ronnie Hawkins,1.004160937
+2822,Yotam Lurie,0.975573465
+2823,Shlomo Mark,0.975573465
+2824,Philip Robichaud,0.824292529
+2825,T. Prabhakar Clement,1.001324188
+2826,Hugh Desmond,0.83745647
+2827,Andrew P. Rebera,1.019438815
+2828,Matteo E. Bonfanti,0.918408759
+2829,Silvia Venier,0.869947868
+2830,Bruce V. Lewenstein,1.038377169
+2831,Rochelle E. Tractenberg,0.884962401
+2832,Andrew J. Russell,0.884962401
+2833,Gregory J. Morgan,0.988203396
+2834,Kevin T. FitzGerald,0.884962401
+2835,Jeff Collmann,0.884962401
+2836,Lee Vinsel,0.884962401
+2837,Michael Steinmann,0.884962401
+2838,Lisa M. Dolling,0.884962401
+2839,Wolfhart Totschnig,0.994982439
+2840,Alan H. McGowan,1.052772172
+2841,Hui Lu,1.006421767
+2842,Hong Chen,1.006421767
+2843,Wei Du,0.88222555
+2844,Ruyin Long,1.006421767
+2845,Rafal Wodzisz,0.919077316
+2846,Annibale Biggeri,0.770323595
+2847,Debra Parrish,0.871604999
+2848,Bridget M. Noonan,0.871604999
+2849,James A. E. Macpherson,1.045478136
+2850,Raheleh Heidari Feidt,0.965788014
+2851,Bernice Simone Elger,1.086040965
+2852,Marc Folcher,0.965788014
+2853,Paul B. Thompson,0.91716899
+2854,Margaret C. Thompson,0.876370251
+2855,Mikkel Willum Johansen,1.002718639
+2856,Frederik Voetmann Christiansen,1.002718639
+2857,Alejandra Boni,0.881825051
+2858,José Javier Sastre,0.881825051
+2859,Carola Calabuig,0.881825051
+2860,Neelke Doorn,2.136370838
+2861,Scott D. Gelfand,1.195077933
+2862,Jenny Krutzinna,1.039290832
+2863,Robert Frodeman,0.613059013
+2864,John E. Dahlberg,0.832858321
+2865,Nancy M. Davidian,0.832858321
+2866,Ramón A. Feenstra,1.151237666
+2867,Emilio Delgado López-Cózar,1.151237666
+2868,Daniel Pallarés-Domínguez,1.151237666
+2869,Weishu Liu 0001,0.783727245
+2870,Junwen Zhu,0.783727245
+2871,Chao Zuo,0.783727245
+2872,Haiyan Wang,0.783727245
+2873,Neha Baryah,0.930135584
+2874,Richa Mukhra,0.930135584
+2875,Frauke Hoss,0.958128172
+2876,Alex John London,0.958128172
+2877,Iñigo de Miguel Beriain,0.967600295
+2878,Elena Diller,0.89691646
+2879,Katie Caudle,0.89691646
+2880,Mohammadamin Erfanmanesh,0.88261602
+2881,Marzieh Morovati,0.88261602
+2882,Daniela Glavanicová,1.157298561
+2883,Matteo Pascucci,1.157298561
+2884,Heike Felzmann,1.007356797
+2885,Eduard Fosch-Villaronga,1.007356797
+2886,Christoph Lutz,0.797732366
+2887,Aurelia Tamò-Larrieux,0.797732366
+2888,Valérie Racine,0.81369162
+2889,Amin Asadi,1.30335447
+2890,Nader Rahbar,1.052152484
+2891,Meisam Asadi,1.004149721
+2892,Fahime Asadi,1.052152484
+2893,Kokab Khalili Paji,1.004149721
+2894,Mark S. Davis,1.063295748
+2895,Michelle Riske-Morris,1.063295748
+2896,Sebastian R. Diaz,1.063295748
+2897,Gardar Arnason,0.959834845
+2898,Sandra L. Titus,1.369733266
+2899,Janice M. Ballou,1.123931658
+2900,Earl D. McCoy,0.920764474
+2901,Kristin Berry,0.920764474
+2902,Angelina Patrick Olesen,1.221807691
+2903,Siti Nurani Mohd Nor,1.057335013
+2904,Latifah Amin,1.328833297
+2905,Monica Sweet,1.279250616
+2906,Brice Laurent,0.77946489
+2907,Herman Paul,0.907149667
+2908,Michael J. Kuhar,1.052705853
+2909,Dorthie Cross,0.905420797
+2910,Maru Mormina,0.887766113
+2911,Christos Makridis,1.03905847
+2912,Alexandra Kapeller,1.033825447
+2913,Ann-Marie Hughes,1.033825447
+2914,Aamir Raoof Memon,1.777382086
+2915,Martina Mavrinac,1.159331939
+2916,Charles Verharen,1.168657023
+2917,John Tharakan,1.104485474
+2918,Flordeliz Bugarin,0.841310657
+2919,Joseph Fortunak,0.841310657
+2920,Gada F. Kadoda,1.104485474
+2921,George Middendorf,1.104485474
+2922,Michele Farisco,0.785470922
+2923,Kathinka Evers,0.785470922
+2924,Arleen Salles,0.785470922
+2925,Shunhai Qu,1.229552251
+2926,Matthew J. Drake,1.015568301
+2927,Robert Kirkman,1.015568301
+2928,Julie L. Swann,0.96670926
+2929,Pavol Kral,1.139162519
+2930,Erika Spuchlakova,1.139162519
+2931,Bor Luen Tang,1.160909982
+2932,E. Michelle Todd,0.835964959
+2933,Logan L. Watts,1.21622734
+2934,Tyler J. Mulhearn,1.102868763
+2935,Brett S. Torrence,0.835964959
+2936,Megan R. Turner,1.103285567
+2937,Shane Connelly,2.036570534
+2938,Michael D. Mumford,2.501221266
+2939,Georgina Voss,0.701102313
+2940,Jakob Stenseke,0.731228282
+2941,Shan Jing,0.865543101
+2942,Kenneth V. Iserson,1.03743735
+2943,Milenko Rakic,1.092800661
+2944,Isabelle Wienand,1.092800661
+2945,Rebecca Nast,1.092800661
+2946,Bernice S. Elger,1.175225349
+2947,Leen B. Fino,1.022370125
+2948,Iman A. Basheti,1.022370125
+2949,Betty B. Chaar,1.022370125
+2950,Joe Giffels,1.063189593
+2951,Sara H. Vollmer,1.169763749
+2952,Ehsan Roohi,0.808883877
+2953,Omid Mahian,1.360713639
+2954,Ning Wang,1.141507386
+2955,Markus Christen,1.141507386
+2956,Matthew Hunt,1.141507386
+2957,Colin Berry,0.725998121
+2958,Maryam Alsadat Hashemipour,1.017439954
+2959,Sepehr Pourmonajemzadeh,1.017439954
+2960,Shahrzad Zoghitavana,1.017439954
+2961,Nader Navabi,1.017439954
+2962,Justin Donhauser,0.919441524
+2963,Adam Briggle,1.180694783
+2964,Sigrid Sterckx,1.092947263
+2965,Gabrielle Wong-Parodi,0.867230599
+2966,Wandi Bruine de Bruin,0.867230599
+2967,Sheila Slaughter,0.77106178
+2968,Gary Rhoades,0.77106178
+2969,Steven R. Kraaijeveld,0.748593778
+2970,William Bülow,0.902065424
+2971,Aaron Pratt Shepherd,1.020857798
+2972,Alankrita Taneja,1.023230039
+2973,Sharath Burugina Nagaraja,0.909223569
+2974,Jagadish Rao Padubidri,1.012424873
+2975,Anna Julie Rasmussen,0.878417747
+2976,Mette Ebbesen,0.878417747
+2977,Laurens Landeweerd,0.955769668
+2978,Julian Kinderlerer,1.132579506
+2979,Rob Lawlor,1.2533103
+2980,Helen Morley,1.184931974
+2981,Hutan Ashrafian,1.071112987
+2982,Rachel L. Mintz,0.827171149
+2983,John D. Loike,0.827171149
+2984,Ruth L. Fischbach,0.827171149
+2985,María Luisa Martín Ruiz,1.02716628
+2986,Celia Fernández-Aller,1.02716628
+2987,Eloy Portillo,1.02716628
+2988,Javier Malagón,1.02716628
+2989,Cristina del Barrio,1.02716628
+2990,David J. Gunkel,1.478349123
+2991,Katarina Valaskova,1.006365406
+2992,Lucia Svabova,1.006365406
+2993,George Wang,0.864612253
+2994,Russell George Thompson,0.864612253
+2995,Victoria Sutton,0.926216598
+2996,Roberta M. Berry,0.971016855
+2997,Aaron D. Levine,0.87977856
+2998,Laura Palucki Blake,0.87977856
+2999,Priya Satalkar,0.903938249
+3000,Flora Colledge,0.990617869
+3001,Jakob Passweg,0.990617869
+3002,Richard Meissner,0.839194362
+3003,Jack Stilgoe,0.788293379
+3004,Christine Aicardi,1.002549011
+3005,Simisola Akintoye,1.002549011
+3006,B. Tyr Fothergill,1.002549011
+3007,Manuel Guerrero,1.002549011
+3008,Gudrun Klinker,1.002549011
+3009,William Knight 0001,1.002549011
+3010,Lars Klüver,1.002549011
+3011,Yannick Morel,1.002549011
+3012,Fabrice O. Morin,0.990902466
+3013,Bernd Carsten Stahl,1.413160392
+3014,Inga Ulnicane,1.002549011
+3015,Slawomir Letkiewicz,1.216302036
+3016,Andrzej Górski,1.216302036
+3017,Tricia Bertram Gallant,1.057697163
+3018,Michael G. Anderson,0.985844581
+3019,Christine Killoran,0.985844581
+3020,Shannon L. Spruit,1.212181222
+3021,Zoë Robaey,1.265855381
+3022,Jessica M. Smith,0.886896561
+3023,Carrie J. McClelland,0.969690117
+3024,Nicole M. Smith,0.886896561
+3025,Alok Atreya,1.17682973
+3026,Marc Lampe,0.840308406
+3027,Mark J. Cook,0.913046108
+3028,Terence J. O'Brien,0.913046108
+3029,Judy Illes,1.025635878
+3030,Beuy Joob,0.944595012
+3031,Yeslam Al-Saggaf,0.787545927
+3032,Md Zahidul Islam 0001,0.787545927
+3033,Syed Bilal Pasha,0.807145225
+3034,Tooba Fatima Qadir,0.807145225
+3035,Huda Fatima,0.96708695
+3036,Syed Ather Hussain,1.141327337
+3037,Luisa María Gil-Martín,1.123817337
+3038,Enrique Hernández-Montes,1.123817337
+3039,Armando Segura-Naya,1.123817337
+3040,Lambèr M. M. Royakkers,1.091815316
+3041,Berna Arda,0.914650134
+3042,Keiko Sato,0.934480905
+3043,Mika Suzuki,0.934480905
+3044,Mladen Pecujlija,1.04698238
+3045,Ilija Cosic,1.04698238
+3046,Velibor Ivanisevic,0.998250925
+3047,Meghnaa Tallapragada,0.80920602
+3048,Gina M. Eosco,0.80920602
+3049,Bruno Turnheim,0.770959736
+3050,Mehmet Y. Tezcan,0.770959736
+3051,Michelle Leonard,0.756264414
+3052,David Schwieder,0.756264414
+3053,Amy G. Buhler,0.756264414
+3054,Denise Beaubien Bennett,0.756264414
+3055,Melody Royster,0.756264414
+3056,Stefka Schmid,1.163987317
+3057,Thea Riebe,1.163987317
+3058,Christian Reuter 0001,1.163987317
+3059,Céline Kermisch,1.323943565
+3060,Jeffrey Kovac,1.383663453
+3061,Nishakanthi Gopalan,1.014268647
+3062,Mohd Salim Mohamed,1.019827021
+3063,Meg Leta Jones,1.137495391
+3064,Lucas Regner,1.137495391
+3065,Lise Degn,1.013578542
+3066,Thomas R. Scott,1.070265671
+3067,Ryan Hubbard,0.801771379
+3068,Jake Greenblum,0.801771379
+3069,Stephen A. Gallo,1.22312641
+3070,Michael Lemaster,1.287137338
+3071,Scott R. Glisson,1.22312641
+3072,Dennis M. Gorman,1.062048268
+3073,Cynthia Selin,0.947357139
+3074,Li Tang 0005,1.302352914
+3075,Cong Cao,1.246859574
+3076,Donald Lien,0.882116576
+3077,Xiaoou Liu,0.882116576
+3078,Hui Fang 0006,1.308414428
+3079,Libby Kinsey,1.054572168
+3080,Anat Elhalal,1.054572168
+3081,Margaret Satterthwaite,0.904537247
+3082,Angie A. Kehagia,0.951746397
+3083,Kate Tairyan,0.951746397
+3084,Carole Federico,0.951746397
+3085,Gary H. Glover,0.951746397
+3086,Cory Higgs,1.283720396
+3087,Tristan McIntosh,1.283720396
+3088,Ilse Oosterlaken,1.219088602
+3089,Jeffrey M. Warrender,1.12275888
+3090,Elaine E. Englehardt,1.096784633
+3091,Patricia H. Werhane,1.116449105
+3092,Lisa H. Newton,1.052745079
+3093,Lisa A. Thompson,0.973873277
+3094,Karen B. Schmaling,0.973873277
+3095,Abeer M. Rababa'h,0.973415628
+3096,Karem H. Alzoubi,0.973415628
+3097,Mera Ababneh,0.973415628
+3098,Omar F. Khabour,0.973415628
+3099,Tarcisio Abreu Saurin,0.668420238
+3100,Boris Kotchoubey,1.002119513
+3101,Sarah Bütof,1.002119513
+3102,Ranganatha Sitaram,1.002119513
+3103,Mario Malicki,1.01182373
+3104,Vedran Katavic,1.007869223
+3105,Domagoj Markovic,1.01182373
+3106,Matko Marusic,1.346331172
+3107,Ana Marusic,2.037505169
+3108,Justin Smith 0004,1.130143306
+3109,Blake J. Bent,0.898626138
+3110,Timothy N. Atkinson,0.884079851
+3111,Diane S. Gilleland,0.884079851
+3112,Darren Schreiber,1.032097191
+3113,Gert-Jan C. Lokhorst,0.899488358
+3114,Merle Weßel,0.826312344
+3115,Niklas Ellerich-Groppe,0.826312344
+3116,Frauke Koppelin,0.826312344
+3117,Mark Schweda,0.826312344
+3118,Christopher B. Freelance,0.841131942
+3119,Laura Specker Sullivan,0.932528597
+3120,Tim Brown,0.932528597
+3121,Matthew Sample,0.932528597
+3122,Michelle Pham,0.932528597
+3123,Paul Tubig,0.932528597
+3124,Raney Folland,0.932528597
+3125,Anjali Truitt,0.932528597
+3126,Sara Goering,0.932528597
+3127,Silvia Teresa Morales-Gualdrón,1.014762018
+3128,Daniel Andrés La Rotta Forero,1.014762018
+3129,Juliana Andrea Arias Vergara,1.014762018
+3130,Juliana Montoya Ardila,1.014762018
+3131,Carolina Herrera Bañol,1.014762018
+3132,Vykinta Kligyte,1.525348529
+3133,Richard T. Marcy,1.130402791
+3134,Sydney T. Sevier,1.525348529
+3135,Elaine S. Godfrey,1.130402791
+3136,Mohammad Javad Rezvani,0.908854795
+3137,Koos van der Bruggen,1.050008088
+3138,Guangyuan Hu,1.305571139
+3139,Yang Sui,1.384900831
+3140,Yuhan Yang,1.305571139
+3141,Josep M. Basart,0.970971209
+3142,Montse Serra,0.970971209
+3143,Kamil Mamak,0.785065968
+3144,Don Gotterbarn,1.071045095
+3145,Bhaskaran Unnikrishnan,0.877410431
+3146,Divya Trivedi,0.877410431
+3147,Thapar Rekha,0.877410431
+3148,Prasanna Mithra,0.877410431
+3149,Nithin Kumar,0.877410431
+3150,Vaman Kulkarni,0.877410431
+3151,Ramesh Holla,0.877410431
+3152,Mishaal Talish,0.877410431
+3153,Rockwell F. Clancy,0.708878643
+3154,Ineke Malsch,0.922380309
+3155,Jovan Shopovski,0.782225317
+3156,Cezary Bolek,0.782225317
+3157,Monika Bolek,0.782225317
+3158,José G. B. Derraik,1.072483794
+3159,Joseph Lee,0.978676279
+3160,Donna Riley,0.792186149
+3161,Vincent Menuz,0.898702161
+3162,Thierry Hurlimann,0.898702161
+3163,Béatrice Godard,0.898702161
+3164,Saadia Mahmud,1.168148354
+3165,Tracey Bretag,1.168148354
+3166,Sheila Bonde,0.823077815
+3167,Clyde Briant,0.823077815
+3168,Paul Firenze,0.823077815
+3169,Julianne Hanavan,0.823077815
+3170,Amy Huang,0.823077815
+3171,Min Li,0.823077815
+3172,N. C. Narayanan,0.823077815
+3173,D. Parthasarathy,0.823077815
+3174,Hongqin Zhao,0.823077815
+3175,Anton Oleinik,0.845772998
+3176,Denise A. Baker,1.25957112
+3177,Barry D. Solomon,0.7437308
+3178,Karma Lekshe Tsomo,0.847184388
+3179,Mónica Mendes,0.949391084
+3180,Pedro Ângelo,0.949391084
+3181,Nuno Correia 0001,0.949391084
+3182,Valentina Nisi,0.949391084
+3183,Xiaofeng Tang,0.948409474
+3184,Eduardo Mendieta,0.948409474
+3185,Thomas A. Litzinger,0.948409474
+3186,Amitabha Gupta,0.700048718
+3187,Bahadur Singh,1.21683852
+3188,Maja Horst,0.811453289
+3189,Tom Børsen,1.175951136
+3190,Avan N. Antia,0.836537087
+3191,Mirjam Sophia Glessmer,0.836537087
+3192,Petr Suler,1.369372267
+3193,Angela Cirigliano,0.740274294
+3194,Orlando Cenciarelli,0.740274294
+3195,Andrea Malizia,0.740274294
+3196,Carlo Bellecci,0.740274294
+3197,Pasquale Gaudio,0.740274294
+3198,Michele Lioj,0.740274294
+3199,Teresa Rinaldi,0.740274294
+3200,Lucie White,1.008695594
+3201,Philippe van Basshuysen,1.008695594
+3202,Bjørn Hofmann,1.301262586
+3203,Cameron Gordon,0.943044583
+3204,Alan Zimmerman,0.943044583
+3205,Tao Wang,0.989358572
+3206,Qin-Rui Xing,0.989358572
+3207,Hui Wang,0.989358572
+3208,Wei Chen,0.989358572
+3209,Christopher Kampe,1.029351927
+3210,Gwendolynne Reid,1.029351927
+3211,Paul Jones 0001,1.029351927
+3212,Colleen S.,1.029351927
+3213,Sean Streck,1.029351927
+3214,Kathleen M. Vogel,1.029351927
+3215,Beth A. Fischer,0.745426491
+3216,Michael J. Zigmond,0.745426491
+3217,Hossein Esmaeili,1.311552761
+3218,Behzad Ataie-Ashtiani,1.531054906
+3219,Tatjana Crnjanski,1.091298383
+3220,Dusanka Krajnovic,1.197917588
+3221,Ivana Tadic,1.043298123
+3222,Svetlana Stojkov,1.043298123
+3223,Mirko Savic,1.091298383
+3224,David J. Kijowski,0.782956497
+3225,Harry Dankowicz,0.992379313
+3226,Michael C. Loui,1.157644723
+3227,Robert Evans,0.916316808
+3228,Michael McNamee,0.916316808
+3229,Owen Guy,0.916316808
+3230,Troy E. Hall,1.008647963
+3231,Jesse Engebretson,1.008647963
+3232,Michael O'Rourke,1.161796129
+3233,Zach Piso,1.008647963
+3234,Sean Valles,1.008647963
+3235,Reinhard Kreissl,0.972749119
+3236,Freida Ozavize Ayodele,0.95493125
+3237,Liu Yao,1.037560747
+3238,Hasnah Binti Haron,0.95493125
+3239,Hendrik F. Machiel Van der Loos,1.140237909
+3240,Steven Umbrello,0.851796298
+3241,Barry Bozeman,0.856150891
+3242,Jan L. Youtie,0.856150891
+3243,Daan Schuurbiers,1.197000046
+3244,Paul Partlow,1.170008799
+3245,Logan M. Steele,1.349844876
+3246,Alexandra E. MacDougall,1.176248592
+3247,Furio Cerutti,0.866286069
+3248,Ping Yan,0.946027343
+3249,Qian Wang,0.946027343
+3250,Ksenia Gerasimova,0.948688804
+3251,Maria Paola Ferretti,0.75987633
+3252,Dale J. Benos,1.11270966
+3253,Cristian Timmermann,0.913005334
+3254,Bo Brinkman,0.835564953
+3255,Marzieh Maghrouni,1.116229627
+3256,Somchai Wongwises,1.484087811
+3257,Julio R. Tuma,0.973438649
+3258,Jeroen van den Hoven,1.092987044
+3259,Edward J. Calabrese,0.968295897
+3260,Bradley J. Brummel,0.873098968
+3261,C. K. Gunsalus,1.052272916
+3262,Kerri L. Anderson,0.873098968
+3263,Christabel Man-Fong Ho,1.037123848
+3264,Olugbenga Timo Oladinrin,1.037123848
+3265,Chase E. Thiel,1.033995372
+3266,Lauren N. Harkrider,1.033995372
+3267,Lynn D. Devenport,1.066166835
+3268,Zhanna Bagdasarov,1.183134357
+3269,James F. Johnson,1.176610776
+3270,Sophie Poirot-Delpech,1.137974746
+3271,Laurence Raineau,1.137974746
+3272,Seemu Sharma,0.820016062
+3273,Hitashi Lomash,0.820016062
+3274,Seema Bawa,0.820016062
+3275,Ana Tomicic,1.144851433
+3276,Anamaria Malesevic,1.144851433
+3277,Anto Cartolovni,1.144851433
+3278,N. Jordan Jameson,0.761882574
+3279,Xin Song,0.761882574
+3280,Michael G. Pecht,0.761882574
+3281,Elaine Howard Ecklund,0.961565672
+3282,Di Di,0.731278161
+3283,Qing-Jiao Liao,0.855184557
+3284,Yuan-Yuan Zhang,0.855184557
+3285,Yu-Chen Fan,0.855184557
+3286,Ming-Hua Zheng,0.855184557
+3287,Yu Bai,0.855184557
+3288,Guy D. Eslick,0.855184557
+3289,Xing-Xiang He,0.855184557
+3290,Shi-Bing Zhang,0.855184557
+3291,Harry Hua-Xiang Xia,0.855184557
+3292,Hua He,0.855184557
+3293,Brent K. Jesiek,1.000406979
+3294,Scott Robbins,0.922805389
+3295,Anja K. Faulhaber,1.277587132
+3296,Anke Dittmer,1.277587132
+3297,Felix Blind,1.277587132
+3298,Maximilian Alexander Wächter,1.277587132
+3299,Silja Timm,1.277587132
+3300,Leon René Sütfeld,1.277587132
+3301,Achim Stephan,1.277587132
+3302,Gordon Pipa,1.277587132
+3303,Peter König,1.277587132
+3304,Lantz Fleming Miller,0.916771378
+3305,Gary Comstock,1.062762116
+3306,Alan Feinerman,1.137927041
+3307,L. Alexandra Morrison,0.959926758
+3308,Malebogo N. Ngoepe,0.926036334
+3309,Kate le Roux,0.926036334
+3310,Corrinne B. Shaw,0.926036334
+3311,Brandon I. Collier-Reed,0.926036334
+3312,Darko Hren,1.184779387
+3313,Dario Sambunjak,0.996073663
+3314,Matthew W. Keefer,0.973437667
+3315,Gilda A. Barabino,0.940854477
+3316,Monique Frize,0.940854477
+3317,Fatimah Ibrahim,0.940854477
+3318,Eleni Kaldoudi,0.940854477
+3319,Lenka Lhotská,1.021081522
+3320,Loredana G. Marcu,0.940854477
+3321,Magdalena Stoeva,0.940854477
+3322,Virginia Tsapaki,0.940854477
+3323,Eva Bezak,0.940854477
+3324,Emilio Mordini,1.427865816
+3325,James M. DuBois,1.291119389
+3326,A. S. M. Touhidul Islam,0.868315145
+3327,Eric Racine,1.015377115
+3328,Sebastian Sattler,0.968825802
+3329,Wren Boehlen,0.968825802
+3330,Calvin Gerald Mole,0.982886185
+3331,Marise Heyns,0.982886185
+3332,Marcin Waligora,1.243597338
+3333,Sara R. Jordan,1.108061703
+3334,Phillip W. Gray,1.108061703
+3335,Petteri Niemi,0.790104084
+3336,Helen Nissenbaum,0.761687512
+3337,Andrew Askland,0.901663606
+3338,Haico te Kulve,0.951540853
+3339,David H. Guston,1.026540601
+3340,Sadip Pant,0.931548928
+3341,Bhuchitra Singh Bankura,0.931548928
+3342,M. Arun,0.931548928
+3343,Yang Zhang,0.738648397
+3344,Hong Gao,0.892545443
+3345,Mirjam Burget,1.185295298
+3346,Emanuele Bardone,1.185295298
+3347,Margus Pedaste,1.185295298
+3348,Hasrizul Hashim,0.951734292
+3349,Livia Puljak,0.857894971
+3350,Fritz Allhoff,1.15520745
+3351,Alison L. Antes,1.107181889
+3352,Tammy English,1.069759368
+3353,Kari A. Baldwin,1.107181889
+3354,Alex McKeown,0.891125923
+3355,Miranda Mourby,0.891125923
+3356,Paul Harrison,0.891125923
+3357,Sophie Walker,0.891125923
+3358,Mark Sheehan,0.891125923
+3359,Ilina Singh,0.891125923
+3360,Maximilian Schochow,1.626618427
+3361,Dajana Schnell,0.811964542
+3362,Florian Steger,1.626618427
+3363,Nina Klimburg-Witjes,0.984070949
+3364,Frederik C. Huettenrauch,0.984070949
+3365,M. Castro-Sitiriche,1.16684475
+3366,Negin Kamali,1.345327999
+3367,Farid Rahimi,1.345327999
+3368,Amin Talebi Bezmin Abadi,1.345327999
+3369,Saurabh Biswas,1.215599221
+3370,Angel Echevarria,1.215599221
+3371,Nafeesa Irshad,1.215599221
+3372,Yiamar Rivera-Matos,1.215599221
+3373,Jennifer Richter,1.215599221
+3374,Nalini Chhetri,1.215599221
+3375,Mary Jane Parmentier,1.215599221
+3376,Clark A. Miller,1.215599221
+3377,Ksenija Bazdaric,0.822628771
+3378,Lidija Bilic-Zulle,1.009868388
+3379,Gordana Brumini,0.822628771
+3380,Olivia Walling,1.174737528
+3381,Andreas Spahn,1.217568132
+3382,Lex M. Bouter,1.256886309
+3383,Martin Sand,0.947709957
+3384,Krishma Labib,0.970797016
+3385,Rea Roje,0.820734891
+3386,Guy Widdershoven,1.029218582
+3387,Natalie Evans,0.947234746
+3388,Lidwine Mokkink,0.820734891
+3389,Joeri Tijdink,1.113829576
+3390,Moti Mizrahi,1.137085467
+3391,Yongyan Li,1.101215841
+3392,Abdul Kabir Hussain Solihu,0.984947002
+3393,Abdul Rauf Ambali,0.984947002
+3394,Lucy Carter,1.210347327
+3395,Jan Piasecki,1.139917936
+3396,Vilius Dranseika,1.139917936
+3397,Jurate Serepkaite,1.050392171
+3398,Zivile Valuckiene,1.050392171
+3399,Rebecca Davnall,0.926100455
+3400,Jan Peter Bergen,0.834008974
+3401,Kevin M. Passino,0.76846435
+3402,Ayman El-Menyar,1.019424488
+3403,Mohammad Asim,1.019424488
+3404,Rifat Latifi,1.019424488
+3405,Hassan Al-Thani,1.019424488
+3406,Islam H. El-adaway,0.763487749
+3407,Marianne Jennings,0.763487749
+3408,Gordon D. Hoople,0.991080067
+3409,David A. Rolfe,0.991080067
+3410,Qosay A. E. Al-Balas,1.169952488
+3411,Rana Dajani,1.169952488
+3412,Wael K. Al-Delaimy,1.077642684
+3413,Eric T. Freyfogle,0.911574277
+3414,Tijs Vandemeulebroucke,0.854671407
+3415,Yvonne Denier,0.723691531
+3416,Evelyne Mertens,0.723691531
+3417,Chris Gastmans,0.854671407
+3418,Ali Khaki-Sedigh,0.845553428
+3419,Charles E. Harris Jr.,1.366023431
+3420,David J. Hartmann,1.119135489
+3421,Thomas Van Valey,1.119135489
+3422,Wayne Fuqua,1.119135489
+3423,Mohammad Hosseini,1.193702418
+3424,Luca Consoli,0.803664021
+3425,Hub A. E. Zwart,1.091274755
+3426,Mariette A. van den Hoven,0.929243173
+3427,L. H. Segura Anaya,0.847894439
+3428,Abeer Alsadoon,0.847894439
+3429,Nectar Costadopoulos,0.847894439
+3430,P. W. C. Prasad,0.847894439
+3431,Christopher J. Frost,1.174013991
+3432,Augustus R. Lumia,1.174013991
+3433,Jilles Smids,1.564200473
+3434,Douglas R. May,0.781654712
+3435,Matthew T. Luth,0.781654712
+3436,Miriam J. E. Urlings,0.944190808
+3437,Bram Duyx,0.944190808
+3438,Gerard M. H. Swaen,0.944190808
+3439,Maurice P. A. Zeegers,0.944190808
+3440,Priyan Dias,1.081428215
+3441,T. H. Lee Williams,1.035352418
+3442,Ralph P. Hall,0.850339896
+3443,Barbara Van Koppen,0.850339896
+3444,Emily Van Houweling,0.850339896
+3445,Omar J. Alkhatib,0.988636241
+3446,Alaa Abdou,0.940909104
+3447,Juan Ares Casal,0.833880808
+3448,Juan Alfonso Lara,0.833880808
+3449,David Lizcano,0.833880808
+3450,María-Aurora Martínez,0.833880808
+3451,Marek Czarkowski,1.131542792
+3452,Krzysztof Rózanowski,1.03615002
+3453,Sophia Jui-An Pan,1.234454199
+3454,Chien Chou,1.062161225
+3455,Christelle Didier,0.83113301
+3456,Antoine Derouet,0.83113301
+3457,Eugene Schlossberger,0.99493319
+3458,Ramona C. Albin,0.805767501
+3459,Francisco Ramírez,0.739034844
+3460,Andres Seco,0.739034844
+3461,Rea Scepanovic,0.944350592
+3462,Ivan Buljan,1.574195638
+3463,Henk A. M. J. ten Have,1.04579357
+3464,Greg Rulifson,1.097465812
+3465,Angela R. Bielefeldt,1.139636451
+3466,Stephan Guttinger,0.858288482
+3467,Charles J. Abaté,1.368254806
+3468,Paolo Gonthier,0.937120143
+3469,Ivan Visentin,0.937120143
+3470,Danila Valentino,0.937120143
+3471,Giacomo Tamietti,0.937120143
+3472,Francesca Cardinale,0.937120143
+3473,Brian Martin,1.004177634
+3474,Hao Li 0059,1.089244395
+3475,San Yin,1.089244395
+3476,Gary E. Marchant,0.910744176
+3477,Lalit Kant,0.953272687
+3478,D. T. Mourya,0.953272687
+3479,Karim Jebari,1.057621893
+3480,Pawel Sobkowicz,0.84263049
+3481,Bernadette Dierckx de Casterlé,0.830256482
+3482,Erick Jose Ramirez,0.921374523
+3483,Scott LaBarge,0.921374523
+3484,Katinka Waelbers,1.256879743
+3485,Philipp Dorstewitz,0.852693902
+3486,Lucia Vesnic-Alujevic,0.96327158
+3487,Melina Breitegger,0.96327158
+3488,Ângela Guimarães Pereira,0.96327158
+3489,Zeng Jie Ye,1.104146676
+3490,Xiao Ying Zhang,1.104146676
+3491,Jian Liang,1.104146676
+3492,Ying Tang,1.104146676
+3493,Brad J. Kallenberg,1.765348628
+3494,B. E. Barry,0.877183632
+3495,Matthew W. Ohland,0.877183632
+3496,Myriam Dunn Cavelty,0.979783889
+3497,Brent Daniel Mittelstadt,0.970314568
+3498,Serge P. J. M. Horbach,1.108734636
+3499,Willem Halffman,1.013542965
+3500,Sara E. Wilson,1.021369527
+3501,Marc Steen,1.038265357
+3502,Harold Paredes-Frigolett,0.942408211
+3503,Alan E. Singer,0.942408211
+3504,Andreas Pyka,0.942408211
+3505,Noëmi Manders-Huits,1.89073906
+3506,Muriel J. Bebeau,0.83170014
+3507,Verna Monson,0.83170014
+3508,Emanuele Valenti,0.901510101
+3509,Raymond de Vries,0.901510101
+3510,Brian Schrag,1.032568295
+3511,Theresa Harris,1.07075024
+3512,Madeline Polmear,0.925515384
+3513,Daniel W. Knight,0.925515384
+3514,Christopher Swan,0.925515384
+3515,Nathan E. Canney,0.963393924
+3516,Martin Clifford Underwood,0.985492988
+3517,Sabine Roeser,1.04119965
+3518,Gonzalo Génova,1.543627638
+3519,M. Rosario González,1.31359997
+3520,Rebecca Ann Lind,0.966589136
+3521,Tammy Swenson-Lepper,0.966589136
+3522,Banu Gökçay,0.927120193
+3523,Mathana Amaris Fiona Sivaraman,1.018220617
+3524,Augustine Pamplany,1.239215832
+3525,Patrick Brereton,1.239215832
+3526,Kamilla Lein Kjølberg,0.948775047
+3527,Anne Victoria Neale,1.014002022
+3528,Justin Northrup,0.840235447
+3529,Rhonda K. Dailey,1.014002022
+3530,Ellen Marks,0.840235447
+3531,Judith Abrams,1.014002022
+3532,Katarzyna Kaczmarczyk,0.790119974
+3533,Beata Szymanska,0.790119974
+3534,Barbro Björkman,1.000639779
+3535,Edward J. Eckel,1.032667558
+3536,Dagmar Rychnovská,1.017767504
+3537,Juandre Peacock,0.735260262
+3538,Behrooz Astaneh,1.034580848
+3539,Sarah Masoumi,0.924231429
+3540,Daniel W. Tigard,0.884557741
+3541,Anita Borch,1.285112891
+3542,Harald Throne-Holst,1.285112891
+3543,Alan Cottey,1.019159028
+3544,John Danaher,1.055950534
+3545,Stephen Rainey,1.253422032
+3546,Yasemin J. Erden,1.202416481
+3547,Clara Berridge,1.317123812
+3548,George Demiris,1.317123812
+3549,Jeffrey Kaye,1.317123812
+3550,Astrid Barona,0.904256951
+3551,Begoña Etxebarria,0.904256951
+3552,Aida Aleksanyan,0.904256951
+3553,Gorka Gallastegui,0.904256951
+3554,Naiara Rojo,0.904256951
+3555,Estibaliz Diaz-Tena,0.904256951
+3556,Allison Ross,0.851506687
+3557,Nafsika Athanassoulis,0.851506687
+3558,Christina Gutierrez-Ford,1.12553979
+3559,Shyamal Das Peddada,1.12553979
+3560,David R. Johnson 0002,1.017023061
+3561,Elena Pulcini,0.939218809
+3562,Daniela Cutas,1.175143598
+3563,David Shaw,1.311930634
+3564,Andrea Polonioli,1.201010244
+3565,Yves Gingras,0.748777033
+3566,Pierre-Marc Gosselin,0.748777033
+3567,Alexander Blanchard,1.150310073
+3568,Justin T. Pickett,0.813545474
+3569,Sean Patrick Roche,0.813545474
+3570,Lily Eva Frank,1.066419542
+3571,Justin Solomon 0001,0.91435046
+3572,David J. Bjornstad,0.66404336
+3573,Amy K. Wolfe,0.66404336
+3574,Pamela Sankar,0.898780582
+3575,Mildred K. Cho,0.898780582
+3576,Keri Monahan,0.898780582
+3577,Kamila Nowak,0.898780582
+3578,Constantin Vica,0.924875065
+3579,Emanuel-Mihail Socaciu,0.706311529
+3580,Jong Yong Abdiel Foo,1.446819483
+3581,Karina de Albuquerque Rocha,1.131675153
+3582,Sonia M. R. Vasconcelos,1.131675153
+3583,Wolfgang J. Liebert,0.735903471
+3584,Peter R. Finn,0.97335765
+3585,Bianca Moldoveanu,1.407817823
+3586,Gheorghe Cuciureanu,1.407817823
+3587,L. Nesic-Grubic,0.905353402
+3588,S. Drobnjak,0.905353402
+3589,Nicole M. A. Huijts,0.724062196
+3590,Agnieszka Hunka,0.724062196
+3591,Francisco Lara,0.88238554
+3592,Marin Vidak,1.104643793
+3593,Lana Barac,0.875790072
+3594,Ruzica Tokalic,1.104643793
+3595,Douglas W. Cromey,0.976354002
+3596,Annina Takala,0.810101764
+3597,K. Korhonen-Yrjänheikki,0.810101764
+3598,Isabell Büschel,0.860461834
+3599,Rostane Mehdi,0.860461834
+3600,Anne Cammilleri,0.860461834
+3601,Yousri Marzouki,0.860461834
+3602,Fabien Medvecky,1.319621051
+3603,Justine Lacey,1.400463566
+3604,Peta Ashworth,1.400463566
+3605,Wolter Pieters,1.005249266
+3606,Dina Hadziosmanovic,1.005249266
+3607,Francien Dechesne,1.005249266
+3608,Michael Gentzel,0.610355576
+3609,Kathryn Nixdorff,1.104798254
+3610,Idil Boran,0.887227506
+3611,Arthur J. Bonito,1.087873874
+3612,David E. Wright,1.194078485
+3613,Janella Baxter,0.807131963
+3614,Bryan G. Norton,1.108741161
+3615,Marshall Thomsen,1.163566446
+3616,Yun Le,1.100128408
+3617,Yi Hu,1.100128408
+3618,Judit Dobránszki,1.152627959
+3619,W. David Merryman,0.959245622
+3620,Alison Mohr,1.155229331
+3621,Michael M. Chemers,0.748546903
+3622,Stephen P. Marks,1.171663676
+3623,Benjamin Hale,0.831592792
+3624,Lucy McAllister,0.831592792
+3625,Marcoen J. T. F. Cabbolet,1.216460958
+3626,Nathaniel A. Warne,0.82304886
+3627,Syed Arsalan Ali,1.150004832
+3628,Shaikh Hamiz ul Fawwad,1.150004832
+3629,Gulrayz Ahmed,1.150004832
+3630,Sumayya Naz,1.150004832
+3631,Syeda Aimen Waqar,1.150004832
+3632,Anam Hareem,1.150004832
+3633,Akihiko Ozaki,0.938366277
+3634,Margi Joshi,0.740456527
+3635,Sharon S. Krag,0.740456527
+3636,Mark Ryan 0004,1.078266036
+3637,Josephina Antoniou,1.146774995
+3638,Laurence Brooks,1.146774995
+3639,Tilimbe Jiya,1.146774995
+3640,Kevin Macnish,1.146774995
+3641,Joshua Dempsey,0.966615461
+3642,Justin Stamets,0.966615461
+3643,Kathleen Eggleson,0.966615461
+3644,Martin Peterson,1.227934108
+3645,Goran Mijaljica,1.096033933
+3646,Luigi Pellizzoni,0.738777288
+3647,Mark S. Frankel,1.057270238
+3648,Rafaela Hillerbrand,0.991153555
+3649,Claudia Werker,1.131504659
+3650,Aubrey Wigner,1.101944931
+3651,Kai Horsthemke,1.091969362
+3652,Mohammad Hemmat Esfe,1.022402421
+3653,Arash Karimipour,1.118101511
+3654,Mohammad Akbari 0003,1.022402421
+3655,Ewan Kingston,0.960092995
+3656,Yingying Lee,1.030131809
+3657,Manlai You,1.030131809
+3658,Ming-Ying Yang,1.030131809
+3659,María de Miguel Molina,1.170035123
+3660,Mónica Martínez-Gómez,1.170035123
+3661,S. Haase,0.608330131
+3662,Rodrigo Ares,1.461816162
+3663,José María Fuentes,1.461816162
+3664,Eutiquio Gallego,1.461816162
+3665,Francisco Ayuga,1.461816162
+3666,Ana-Isabel García,1.461816162
+3667,Alibakhsh Kasaeian,0.87536503
+3668,Stuart Henry,1.004175887
+3669,Amber M. Henslee,0.868141946
+3670,Susan L. Murray,0.868141946
+3671,Gayla R. Olbricht,0.868141946
+3672,Douglas K. Ludlow,0.868141946
+3673,Malcolm E. Hays,0.868141946
+3674,Hannah M. Nelson,0.868141946
+3675,Marija Roguljic,1.105962455
+3676,Tina Poklepovic Pericic,1.105962455
+3677,Andrea Gelemanovic,1.105962455
+3678,Anita Jukic,1.105962455
+3679,Dina Simunovic,1.105962455
+3680,Elizabeth Wager,1.064448531
+3681,Zohrehsadat Naji,1.061970138
+3682,Payman Salamati,1.061970138
+3683,William A. Bauer,0.897189265
+3684,Pablo A. Pellegrini,0.996791561
+3685,Siddhartha Das,0.951194683
+3686,Stany Wilfred Lobo,0.951194683
+3687,Brian Wynne,0.977599468
+3688,Sepehr Ghazinoory,1.003268631
+3689,Soroush Ghazinoori,1.003268631
+3690,Mandana Azadegan-Mehr,1.003268631
+3691,Cornelius Ewuoso,0.940835513
+3692,Katherine Alfredo,0.890415512
+3693,Hillary Hart,0.890415512
+3694,Michelle H. Biros,1.045315657
+3695,Hyemin Han,0.98449788
+3696,Ann M. Peiffer,0.871469114
+3697,Christina E. Hugenschmidt,0.871469114
+3698,Paul J. Laurienti,0.871469114
+3699,Lotte Krabbenborg,0.805292797
+3700,Fernando Aguiar,0.824764415
+3701,Ivar R. Hannikainen,0.824764415
+3702,Pilar Aguilar,0.824764415
+3703,Erik Fisher,0.824063437
+3704,Parisa Khani,0.956824658
+3705,Jamie Harris,1.339889909
+3706,Jacy Reese Anthis,1.339889909
+3707,J. Otto Kroesen,0.99061859
+3708,Kristin Sharon Shrader-Frechette,1.023753927
+3709,Salmia Bnt Beddu,1.070125209
+3710,Zakaria Che Muda,1.070125209
+3711,Katharina Fuerholzer,1.289130275
+3712,Richard Peter,1.24361213
+3713,Emily York,0.861525615
+3714,Shannon N. Conley,0.911652715
+3715,Sara Patuzzo,0.873979079
+3716,Giada Goracci,0.873979079
+3717,Luca Gasperini,0.873979079
+3718,Rosagemma Ciliberti,0.873979079
+3719,Dominic Roser,0.736230003
+3720,Robert J. Butera,0.885706632
+3721,Dragan Djuric,0.804837699
+3722,Federica Lucivero,0.694582577
+3723,Murat Gunduz,1.045665959
+3724,Oytun Önder,1.045665959
+3725,Elizabeth Victor,0.893812432
+3726,Siti Nurani Mohd Noor,0.997297163
+3727,Britte Bouchaut,0.951384114
+3728,Lotte Asveld,1.140316082
+3729,Pak-Hang Wong,1.047638233
+3730,Svitlana V. Pustovit,0.905791624
+3731,Erin D. Williams,0.905791624
+3732,James S. Spiegel,0.957589266
+3733,Jonathan Beever,0.803876309
+3734,Andrew O. Brightman,0.803876309
+3735,Madeleine Hayenhjelm,0.723368042
+3736,Mohamed Jaoua,1.061258312
+3737,Josef Marousek,1.059843435
+3738,Robert Zeman,1.059843435
+3739,Jaroslav Zák,0.837788384
+3740,Radka Vanícková,1.059843435
+3741,Jan Váchal,0.837788384
+3742,Katerina Mysková,0.837788384
+3743,Sven Diekmann,0.869200339
+3744,Björn Lundgren,0.796806222
+3745,Niklas Möller,0.796806222
+3746,Jaime Fabregat,0.956742596
+3747,Samuel J. Tilden,0.834862234
+3748,Cheryl Lancaster,0.732434442
+3749,Joanna Rózynska,0.814492436
+3750,Mary Jean Walker,0.816158578
+3751,Eliza Goddard,0.816158578
+3752,Benjamin Stephens-Fripp,0.816158578
+3753,Gürsel Alici,0.816158578
+3754,Matthias Leese,1.383696402
+3755,Lina Wei,1.096797573
+3756,Hangqing Cong,1.096797573
+3757,Jonathan Lewis,0.995491669
+3758,Raghvendra Singh Shekhawat,1.062313979
+3759,Puneet Setia,1.062313979
+3760,Anne Wright,0.653454474
+3761,Richard A. Burgess,0.797632856
+3762,Marilyn A. Dyrud,0.797632856
+3763,Rachelle D. Hollander,0.870350992
+3764,Michael S. Pritchard,1.063483946
+3765,P. Aarne Vesilind,0.797632856
+3766,Yinghui Fan,0.875168006
+3767,Xingwei Zhang,0.875168006
+3768,Xinlu Xie,0.875168006
+3769,Fiachra O'Brolcháin,1.255466501
+3770,Tim Jacquemard,1.14346015
+3771,David S. Monaghan,0.987497044
+3772,Noel E. O'Connor,0.987497044
+3773,Peter Novitzky,1.395132001
+3774,Neil F. Doherty,1.383576973
+3775,Mark Christopher Shaw,1.383576973
+3776,Helge Janicke,1.383576973
+3777,Håkan Salwén,0.935225538
+3778,Yonca Hürol,1.476889833
+3779,Hülya Yüceer,1.267234462
+3780,Öznem Sahali,1.288919187
+3781,Huw Roberts,1.007724471
+3782,Josh Cowls,0.989130106
+3783,Emmie Hine,1.007724471
+3784,Francesca Mazzi,1.007724471
+3785,Andreas Tsamados,1.007724471
+3786,Ethan P. Waples,1.494960091
+3787,Dean F. Hougen,0.850736146
+3788,Mark Yarborough,0.7128184
+3789,Reza Indrakusuma,1.044486569
+3790,Shona Kalkman,1.044486569
+3791,M. J. W. Koelemay,1.044486569
+3792,R. Balm,1.044486569
+3793,D. L. Willems,1.044486569
+3794,Mahdi Kafaee,1.186452988
+3795,Mostafa Taqavi,0.912383412
+3796,Mark B. Brown,1.019481301
+3797,Christopher Burr,0.652538687
+3798,Dianne Quigley,1.336458181
+3799,Lawrence Souder,0.903531877
+3800,Sedigheh Ghasemi,0.993363693
+3801,Ezatollah Hossein Karami,0.993363693
+3802,Hossein Azadi,0.980809891
+3803,Anke van Gorp,0.777426663
+3804,S. van der Molen,0.777426663
+3805,Andreas Matthias,0.962284729
+3806,Hugo M. Verhelst,0.941979984
+3807,A. W. Stannat,0.941979984
+3808,G. Mecacci,0.941979984
+3809,Yuval Elovici,1.13583939
+3810,Michael Fire,1.049054107
+3811,Amir Herzberg,1.049054107
+3812,Haya Shulman,1.049054107
+3813,Carole Genty,0.97223867
+3814,Vincent Guilbert,0.97223867
+3815,Mohamed Dadda,0.97223867
+3816,Joseph Donia,0.883674314
+3817,James A. Shaw,0.883674314
+3818,Matan Shelomi,0.830980246
+3819,Trisha Phillips,0.973318963
+3820,Franchesca Nestor,0.973318963
+3821,Gillian Beach,0.973318963
+3822,Elizabeth Heitman,0.973318963
+3823,Saskia E. Polder-Verkiel,0.89900218
+3824,Ahmed Waqas,1.2528309
+3825,A. Thirumal Raj,1.026635037
+3826,Shankargouda Patil,1.026635037
+3827,Sachin Sarode,1.026635037
+3828,Ziad Salameh,1.026635037
+3829,Elisabeth Hildt,0.998919344
+3830,Monika Sziron,0.998919344
+3831,Atay Kozlovski,0.967766118
+3832,Ronald M. Atlas,0.876021652
+3833,Susana Nascimento,1.073258287
+3834,Alexandre Pólvora,1.062061513
+3835,Bing Ye,0.850214756
+3836,Shehroz S. Khan,0.850214756
+3837,Belkacem Chikhaoui,0.850214756
+3838,Andrea Iaboni,0.850214756
+3839,Lori Schindel Martin,0.850214756
+3840,Kristine Newman,0.850214756
+3841,Angel He Wang,0.850214756
+3842,Alex Mihailidis,0.925325305
+3843,Viola Schiaffonati,0.960938004
+3844,T. J. Morodi,0.744863514
+3845,Charles Mpofu,0.744863514
+3846,David E. Alexander,0.883105699
+3847,Henry T. Greely,0.779548597
+3848,Jan Leen Kloosterman,1.095312193
+3849,Edoardo Datteri,0.926968371
+3850,Chris MacDonald,1.002603631
+3851,Stefanie Colombo,1.002603631
+3852,Michael T. Arts,1.002603631
+3853,Paul M. Liston,1.090692775
+3854,Bjørn Kåre Myskja,0.883150871
+3855,Anne Ingeborg Myhr,0.883150871
+3856,Hartwig Spitzer,1.357635511
+3857,Diana Bairaktarova,1.138062439
+3858,Anna Woodcock,1.138062439
+3859,Chun-Ping Yen,1.125187403
+3860,Tzu-Wei Hung,1.125187403
+3861,Robert T. Pennock,0.957468563
+3862,Merel Noorman,1.011661573
+3863,Yu Xia,0.828905323
+3864,Qiushi Ren,0.828905323
+3865,Thomas C. King,0.978372066
+3866,Nikita Aggarwal,0.988164398
+3867,A. Roger Tucker,0.929113989
+3868,Gerrit van Tonder,0.929113989
+3869,Lisa Loikith,0.95835802
+3870,Robert Bauchwitz,0.95835802
+3871,John T. Chibnall,0.861464291
+3872,Raymond C. Tait,0.732315083
+3873,Jillon S. Vander Wal,0.732315083
+3874,G. K. D. Crozier,0.981482759
+3875,Albrecht I. Schulte-Hostedde,0.981482759
+3876,Charisse R. Madlock-Brown,1.099800125
+3877,David Eichmann,1.099800125
+3878,Philip Boucher,1.270863967
+3879,Mindaugas Broga,0.898450874
+3880,Aime Keis,0.898450874
+3881,János Tóth,0.949609389
+3882,John Gibbs,0.833983627
+3883,Péter Kakuk,1.078411318
+3884,José-Antonio Cervantes,0.902510963
+3885,Sonia López,0.902510963
+3886,Luis-Felipe Rodríguez,0.902510963
+3887,Salvador Cervantes,0.902510963
+3888,Francisco Cervantes,0.902510963
+3889,Félix Ramos 0001,0.902510963
+3890,Anita Lunic,1.132653188
+3891,Sebastian Köhler,1.079896132
+3892,Roman Taraban,1.26966037
+3893,Andreas R. Köhler,1.029211759
+3894,Agnieszka Lekka-Kowalik,0.991378924
+3895,Bridget Bero,1.075406141
+3896,Alana Kuhlman,1.075406141
+3897,Sylvain Bernès,0.946382015
+3898,Boudewijn de Bruin,0.755408862
+3899,Nabeel Manzar,0.856773497
+3900,Bushra Manzar,0.856773497
+3901,Nuzhat Hussain,0.856773497
+3902,M. Fawwad Ahmed Hussain,0.856773497
+3903,Sajjad Raza,0.856773497
+3904,Marion Godman,1.066630163
+3905,Madelaine Ley,0.795999451
+3906,Nathan Rambukkana,0.795999451
+3907,Marko Curkovic,1.064729063
+3908,Ronan Le Roux,1.092047452
+3909,Michiel van Oudheusden,0.955288858
+3910,Rajna Golubic,1.003280114
+3911,Mihael Rudes,1.003280114
+3912,Natasa Kovacic,1.003280114
+3913,Eric Berling,0.797038384
+3914,Chet McLeskey,0.797038384
+3915,Gary Harrison,0.687402492
+3916,William L. Gannon,0.687402492
+3917,Hans-Jürgen Link,1.011536049
+3918,Renee Kyle,0.825451015
+3919,Tsjalling Swierstra,0.907662146
+3920,Nicola Liberati,1.047599157
+3921,Marwan Ali Albahar,0.887134723
+3922,Lisa Geller,1.086734302
+3923,Amber D. Elkins,1.02630793
+3924,Mark Lawley,1.02630793
+3925,Olga Chivilgina,1.043972701
+3926,Quinn Grundy,0.906720337
+3927,Mandi Astola,1.030512423
+3928,Bozena Ryszawska,1.030512423
+3929,Magdalena Rozwadowska,1.030512423
+3930,Piotr Szymanski,1.030512423
+3931,Anja Ruess,1.030512423
+3932,Sophie Nyborg,1.030512423
+3933,Meiken Hansen,1.030512423
+3934,Philippe d'Anjou,1.049986485
+3935,Céline Verchère,1.033553843
+3936,Sanjay K. Nigam,0.725827726
+3937,Abdalla Alameen,0.887264225
+3938,Safar Bin Bkhit AlMudara,0.887264225
+3939,Clare Shelley-Egan,1.06462225
+3940,Diana M. Bowman,1.06462225
+3941,Douglas K. R. Robinson,1.06462225
+3942,Stéphanie Martin,1.076532669
+3943,Andy Christen,1.076532669
+3944,Pierre Mégevand,1.076532669
+3945,Éric Fourneret,1.076532669
+3946,Shiew Wei Lau,0.937447655
+3947,Terence Peng Lian Tan,0.937447655
+3948,Suk Meng Goh,0.937447655
+3949,Mansure Madani,0.735518694
+3950,AbouAli Vedadhir,0.735518694
+3951,Bagher Larijani,0.735518694
+3952,Zahra Khazaei,0.735518694
+3953,Ahad Faramarz Gharamaleki,0.735518694
+3954,Ilya M. Goldin,0.766901426
+3955,Kevin D. Ashley,0.766901426
+3956,Peter Nagy,0.973787189
+3957,Ruth Wylie,0.973787189
+3958,Joey Eschrich,0.973787189
+3959,Ed Finn,0.973787189
+3960,Richard Hannis Ansah,0.931542835
+3961,Daniel O. Aikhuele,0.931542835
+3962,Mostafa Ahmadvand,0.925833642
+3963,Ayatollah Karami,0.925833642
+3964,Ruth Walker,1.012992572
+3965,Anisah Che Ngah,1.02136081
+3966,Mohsen Kahani,1.112364416
+3967,Jessica S. Ancker,0.978229443
+3968,Annette Flanagin,0.978229443
+3969,Anna Catharina Vieira Armond,0.871589371
+3970,Cletus S. Brauer,1.108759251
+3971,Andres M. Carnero,0.937209467
+3972,Percy Mayta-Tristan,0.937209467
+3973,Kelika A. Konda,0.937209467
+3974,Edward Mezones-Holguin,0.937209467
+3975,Antonio Bernabe-Ortiz,0.937209467
+3976,German F. Alvarado,0.937209467
+3977,Carlos Canelo-Aybar,0.937209467
+3978,Jorge L. Maguiña,0.937209467
+3979,Eddy R. Segura,0.937209467
+3980,Antonio M. Quispe,0.937209467
+3981,Edward S. Smith,0.937209467
+3982,Angela M. Bayer,0.937209467
+3983,Andres G. Lescano,0.937209467
+3984,André Baier,1.234613361
+3985,Asmawati Muhamad,0.734715902
+3986,Abdul Halim Syihab,0.734715902
+3987,Abdul Halim Ibrahim,1.152342097
+3988,Ebrahim Moosa,0.797038333
+3989,Milos N. Mladenovic,0.840449355
+3990,Tristram McPherson,0.840449355
+3991,Michael P. Nelson,1.184800442
+3992,Govindasamy Agoramoorthy,1.269473654
+3993,Roos de Jong,0.696356348
+3994,Christopher A. Chung,1.125229904
+3995,Michael Alfred,1.125229904
+3996,Nick Bostrom,0.955370886
+3997,Anders Sandberg,0.955370886
+3998,Renan Moritz Varnier R. Almeida,1.061280044
+3999,Fernanda Catelani,1.061280044
+4000,Aldo José Fontes-Pereira,1.061280044
+4001,Christopher H. Pearson,0.856899179
+4002,Xia Liu,0.947632208
+4003,Astrid Schmied,1.092346852
+4004,S. Varma,1.092346852
+4005,Janet M. Dubinsky,1.092346852
+4006,Medard Hilhorst,0.813227251
+4007,Inez de Beaufort,0.813227251
+4008,Rodrigo Costas,0.813652968
+4009,Ferric C. Fang,0.813652968
+4010,Arturo Casadevall,0.813652968
+4011,Elisabeth M. Bik,0.813652968
+4012,Maryam Ronagh,0.727986373
+4013,Malcolm G. Booth,0.722292939
+4014,Sarah Maslen,1.073880251
+4015,Jan Hayes,1.073880251
+4016,Sarah Holdsworth,1.073880251
+4017,Orana Sandri,1.073880251
+4018,Jessica Nihlén Fahlquist,0.916981509
+4019,Simone de Colle,1.004323473
+4020,Zurina Mahadi,1.093812005
+4021,Ritva Halila,0.979431317
+4022,Iris Hunger,0.970263645
+4023,Jon Alan Schmidt,1.008067245
+4024,Andrei Famenka,0.796222336
+4025,David M. Douglas,0.913417783
+4026,Parker Crutchfield,0.85635737
+4027,Raheleh Heidari,0.776968156
+4028,Frédéric Vanderhaegen,0.85386409
+4029,Anabel Fraga,1.255080688
+4030,Michael H. G. Hoffmann,0.838563678
+4031,Chuck Huff,0.90719982
+4032,David Friedman,0.969141295
+4033,Bracha Rager-Zisman,0.969141295
+4034,Eitan Bibi,0.969141295
+4035,Alex Keynan,0.969141295
+4036,Andrei Andrianov 0002,0.914397314
+4037,Victor Kanke,0.914397314
+4038,Ilya Kuptsov,0.914397314
+4039,Viktor Murogov,0.914397314
+4040,Irja Marije de Jong,1.111577568
+4041,Frank Kupper,1.111577568
+4042,Marlous Arentshorst,1.111577568
+4043,Jacqueline E. W. Broerse,1.111577568
+4044,G. Steven McMillan,0.883819875
+4045,Debra L. Casey,0.883819875
+4046,Muhammad Fakhruddin Hj Safian Shuri,0.801523284
+4047,Sadjad Soltanzadeh,0.837367162
+4048,Jai C. Galliott,0.837367162
+4049,Natalia Jevglevskaja,0.837367162
+4050,Cristina Voinea,0.975279498
+4051,Emilian Mihailov,0.975279498
+4052,Julian Savulescu,0.975279498
+4053,Wen-Jiuh Chiang,0.984900406
+4054,Chihchia Chen,0.984900406
+4055,ChiaChien Teng,0.984900406
+4056,Jiangjun Gu,0.984900406
+4057,Anna Deplazes-Zemp,0.840282886
+4058,Lisa Sigl,0.79521225
+4059,Maximilian Fochler,0.79521225
+4060,Alana Levine,1.310016871
+4061,David A. Sonnenfeld,1.310016871
+4062,Phil Brown,1.310016871
+4063,Qing Tian,1.310016871
+4064,Xiaofan Wei,1.310016871
+4065,Ann Nichols-Casebolt,1.127475902
+4066,Francis L. Macrina,1.157421461
+4067,Marcin Orzechowski,0.991094182
+4068,Johannes Rath,1.017546325
+4069,Monique Ischi,1.017546325
+4070,Dana Perkins,1.017546325
+4071,Andre Krom,0.885869021
+4072,Shannon M. Oltmann,0.934416104
+4073,Erica L. Neely,0.817767294
+4074,Teresa Leonardo Alves,1.103167793
+4075,Joel Lexchin,1.157642421
+4076,Barbara Mintzes,1.103167793
+4077,Alessandra Cenci,1.075662328
+4078,Dylan Cawthorne,1.102238453
+4079,Jacob D. Haqq-Misra,0.829306712
+4080,Chris Karmosky,0.829306712
+4081,Konrad Szocik,0.780236062
+4082,Ziba Norman,0.780236062
+4083,Michael J. Reiss,0.780236062
+4084,Selvan T. Krishnasamy,0.849826012
+4085,Eric Breit,0.70076399
+4086,Svenn-Erik Mamelund,0.70076399
+4087,Luca Del Frate,0.723420485
+4088,Jiayi Zhu,0.795890332
+4089,Changwoo Jeong,0.801464701
+4090,Josip Azman,1.013495572
+4091,Vedran Frkovic,1.013495572
+4092,Kai Ilchmann,1.001448149
+4093,James Revill,1.278100557
+4094,Kian Mintz-Woo,0.781663074
+4095,Joe Lane,0.781663074
+4096,Houssem Eddine Bedoui,1.170314417
+4097,Walid Mansour,1.170314417
+4098,GuiHong Cao,0.864719314
+4099,Helmar Bornemann-Cimenti,0.937560435
+4100,Iris Loosman,0.724080512
+4101,Philip J. Nickel,0.724080512
+4102,Mansour Ghanian,0.903008547
+4103,Omid M. Ghoochani,0.903008547
+4104,Miranda Kitterlin,0.903008547
+4105,Sheida Jahangiry,0.903008547
+4106,Kiumars Zarafshani,0.903008547
+4107,Steven Van Passel,0.903008547
+4108,Laura Cabrera,1.228326422
+4109,John Weckert,0.963031076
+4110,Preston Stovall,0.801530145
+4111,Maarten van Wesel,0.83089223
+4112,David DeMets,1.035974337
+4113,Thomas Fleming,1.035974337
+4114,Gail Geller,1.035974337
+4115,David F. Ransohoff,1.035974337
+4116,Ryan C. Campbell,0.76784668
+4117,Denise M. Wilson,0.76784668
+4118,Jay Odenbaugh,0.944823831
+4119,Eric Katz,1.0173465
+4120,Mauro Turrini,0.828429028
+4121,Philipe Charlier,0.828429028
+4122,Jean-Francois Deleuze,0.828429028
+4123,Dragan Jocic,1.010615091
+4124,Alan F. Smeaton,1.029134332
+4125,Diane Michelfelder,1.221992489
+4126,Sharon A. Jones,1.221992489
+4127,Radek Zdenek,0.940115893
+4128,Fabio Fossa,1.144343473
+4129,Irene Sucameli,1.144343473
+4130,Tjerk Timan,0.915145348
+4131,Anders Albrechtslund,0.915145348
+4132,Mehdi F. Harandi,0.797367541
+4133,Mahdi G. Nia,0.797367541
+4134,Marc J. de Vries,0.797367541
+4135,Tammy VanDeGrift,0.790347786
+4136,Heather E. Dillon,0.790347786
+4137,Loreal Camp,0.790347786
+4138,April Martin,1.055424976
+4139,Cynthia Townley,1.162424451
+4140,Patrik Baard,1.095046938
+4141,Anders Melin,1.095046938
+4142,Lauren E. Abbott,0.920456503
+4143,Amy Andes,0.920456503
+4144,Aneri C. Pattani,0.920456503
+4145,Chaim Rafalowski,0.983577251
+4146,George Howard,0.830538983
+4147,Lelli Van Den Einde,0.93724117
+4148,Scott Ouellette,0.93724117
+4149,Sam Lee,0.93724117
+4150,Jakob Mökander,0.898676594
+4151,Jered B. Cornelison,1.083177917
+4152,Mayis Aldughmi,0.971232799
+4153,Dania Qutaishat,0.971232799
+4154,Reema Karasneh,0.971232799
+4155,Rayan H. M. Alkhawtani,0.991245728
+4156,Hugo J. A. Adams,0.991245728
+4157,Thomas C. Kwee,0.991245728
+4158,Elizabeth A. Corley,0.889724719
+4159,Youngjae Kim,0.889724719
+4160,Dietram A. Scheufele,0.889724719
+4161,Jack P. C. Kleijnen,1.284187856
+4162,Nancy L. Jones,0.920874792
+4163,Irene Cambra-Badii,1.151195502
+4164,Elena Guardiola,1.151195502
+4165,Josep-E. Baños,1.151195502
+4166,Craig Cormick,1.38491571
+4167,Vivek Nallur,1.025156338
+4168,Magali Goirand,0.953755982
+4169,Elizabeth Austin,0.953755982
+4170,Robyn Clay-Williams,0.953755982
+4171,Pek Hoon Er,1.347596177
+4172,Punita Visvanathan,1.347596177
+4173,Noor Naemah Abdul Rahman,1.259252173
+4174,Shaikh Mohd Saifuddeen,1.259252173
+4175,Madiha Baharuddin,1.020326354
+4176,Daryl E. Chubin,1.511091333
+4177,Giovanni Rubeis,1.051516217
+4178,Masamichi Minehata,0.730525727
+4179,Judi Sture,0.730525727
+4180,Nariyoshi Shinomiya,0.730525727
+4181,Simon Whitby,0.730525727
+4182,Yao Yu,1.073453351
+4183,Chuan Chen,1.073453351
+4184,Benjamin Strenge,0.789054231
+4185,Thomas Schack,0.789054231
+4186,Marton Demeter,0.747166715
+4187,Lynn T. Kozlowski,0.955992939
+4188,Zeljana Basic,1.051134652
+4189,Ivana Kruzic,1.051134652
+4190,Ivan Jerkovic,1.051134652
+4191,Hacer Basarir,1.015143472
+4192,Golnaz Hashemian,0.88455877
+4193,Frank O. Anthun,0.929031198
+4194,Sharon Bailey,0.929031198
+4195,Giles Birchley,0.929031198
+4196,Henriette Bout,0.929031198
+4197,Carlo Casonato,0.929031198
+4198,Gloria González Fuster,0.929031198
+4199,Bert Heinrichs,0.929031198
+4200,Ingrid Skjæggestad Jacobsen,0.929031198
+4201,Jacques Janssen,0.929031198
+4202,Matthias Kaiser,0.919619041
+4203,Inge Lerouge,0.929031198
+4204,Barend van der Meulen,0.929031198
+4205,Sarah de Rijcke,0.957171697
+4206,Thomas Saretzki,0.929031198
+4207,Margit Sutrop,0.929031198
+4208,Marta Tazewell,0.929031198
+4209,Krista Varantola,0.929031198
+4210,Knut Jørgen Vie,0.929031198
+4211,Mira Zöller,0.929031198
+4212,Christian Herzog 0002,1.010138026
+4213,Tamarinde Haven,0.850801463
+4214,H. Roeline Pasman,0.850801463
+4215,Nurul Atiqah Zulkifli,1.111424667
+4216,Saadan Man,1.111424667
+4217,Laura Drivdal,0.743003422
+4218,Johs Hjellbrekke,0.743003422
+4219,Helene Ingierd,0.743003422
+4220,Ole Bjørn Rekdal,0.743003422
+4221,Cristina M. Beltran-Aroca,0.971042949
+4222,Fernando Labella,0.971042949
+4223,Pilar Font-Ugalde,0.971042949
+4224,Eloy Girela-Lopez,0.971042949
+4225,Katie Shilton,0.995127236
+4226,Donal Heidenblad,0.887822365
+4227,Adam Porter,0.887822365
+4228,Susan Winter,0.887822365
+4229,Mary Kendig,0.887822365
+4230,Ger Wackers,1.178706406
+4231,Gary K. Meffe,0.875231863
+4232,Marko Ahteensuu,0.756662346
+4233,Ann Pirruccello,1.024174043
+4234,Michael J. Bernstein,1.447275296
+4235,Mathias Wullum Nielsen,1.434063475
+4236,Emil Alnor,1.434063475
+4237,André Brasil,1.434063475
+4238,Astrid Lykke Birkving,1.434063475
+4239,Tung Tung Chan,1.434063475
+4240,Erich Griessler,1.270372582
+4241,Stefan de Jong,1.434063475
+4242,Wouter van de Klippe,1.434063475
+4243,Ingeborg Meijer,1.434063475
+4244,Emad Yaghmaei,1.434063475
+4245,Peter Busch Nicolaisen,1.434063475
+4246,Mika Nieminen,1.434063475
+4247,Niels Mejlgaard,1.270372582
+4248,Patricia Spitzig,1.237041729
+4249,Madisson Whitman,1.084845595
+4250,Kenneth T. W. Yiu,1.202478509
+4251,Gert Helgesson,0.652152949
+4252,Samuel V. Bruton,1.040244424
+4253,Mary Medlin,0.890889329
+4254,Mitch Brown,0.945596364
+4255,Donald F. Sacco,1.040244424
+4256,Naomi Jacobs,0.774483198
+4257,Orsolya Friedrich,0.709995122
+4258,Joan Siew Ching Lee,0.839586818
+4259,Sara Svensson,1.075010327
+4260,Bartek Chomanski,1.030674913
+4261,Simone van der Burg,1.119382852
+4262,Jensen T. Mecca,0.960994739
+4263,Carter Gibson,0.960994739
+4264,Vincent Giorgini,0.960994739
+4265,Kelsey E. Medeiros,1.166605654
+4266,Patrick Lin 0002,0.860887284
+4267,Jesse Steinberg,0.860887284
+4268,Dena Fam,0.865096335
+4269,Zoë Sofoulis,0.865096335
+4270,Miriam Bentwich,1.100143765
+4271,Anna Wedin,0.820728709
+4272,Andrew Grey,0.69401548
+4273,Alison Avenell,0.69401548
+4274,Greg Gamble,0.69401548
+4275,Mark Bolland,0.69401548
+4276,Tine Ravn,0.82463929
+4277,Mads Peter Sørensen 0002,0.82463929
+4278,Alan Marshall,0.744052435
+4279,Erwin J. O. Kompanje,1.021368022
+4280,Yvette Pearson,0.893116368
+4281,Jean Paul Kamdem,1.193389651
+4282,Daniel Henrique Roos,1.193389651
+4283,Adekunle Adeniran Sanmi,1.193389651
+4284,Luciana Calabró,1.193389651
+4285,Amos Olalekan Abolaji,1.193389651
+4286,Cláudia Sirlene de Oliveira,1.193389651
+4287,Luiz Marivando Barros,1.193389651
+4288,Antonia Eliene Duarte,1.193389651
+4289,Nilda Vargas Barbosa,1.193389651
+4290,Diogo Onofre Souza,1.193389651
+4291,João Batista Teixeira da Rocha,1.193389651
+4292,Servaas Storm,1.082944239
+4293,Graham Kendall,0.901139823
+4294,Angelina Yee,0.901139823
+4295,Barry McCollum,0.901139823
+4296,Pratap R. Patnaik,0.79461868
+4297,Joseph A. Stramondo,1.064682389
+4298,Christian Fuchs 0002,0.918998479
+4299,Robert M. Bichler,0.918998479
+4300,Celina Raffl,0.918998479
+4301,Susan E. Cozzens,1.13063716
+4302,Jac. A. A. Swart,1.008541032
+4303,Pramod M. Lad,1.391485315
+4304,Rebecca Dahl,1.391485315
+4305,Jantina de Vries,0.891436763
+4306,Snezana B. Krstic,1.093372162
+4307,Julie Richardson,0.975641551
+4308,Diane Hoffman-Kim,0.975641551
+4309,Maria Shoaib,0.911034734
+4310,Mansoor Ali Merchant Rameez,0.911034734
+4311,Robert C. Jones,1.143935617
+4312,Ray Greek,1.143935617
+4313,Gary Varner,1.103760232
+4314,Gitte Meyer,1.03995317
+4315,Piotr S. Iwanowski,0.830946946
+4316,Nur Asmadayana Hasim,1.035349142
+4317,Nor Ashikin Mohamed Yusof,1.035349142
+4318,Mashitoh Yaacob,1.035349142
+4319,Azwira Abdul Aziz,1.035349142
+4320,Taft H. Broome,0.898462073
+4321,Gregorio Moreno-Rueda,0.979045544
+4322,Jiin-Yu Chen,0.78962482
+4323,Jonathan Pugh,1.012926691
+4324,Kiera Reifschneider,1.197346155
+4325,Ira Bennett,1.197346155
+4326,Steven S. Coughlin,0.833603881
+4327,Fengliang Zhu,0.894092756
+4328,Soaring Hawk,0.894092756
+4329,Ambica C. Chopra,1.079653301
+4330,Stephanie S. Tilberry,1.079653301
+4331,Kaitlyn E. Sternat,1.079653301
+4332,Daniel Y. Chung,1.079653301
+4333,Stephanie D. Nichols,1.079653301
+4334,Brian J. Piper,1.079653301
+4335,Elizabeth A. Adams,0.878486194
+4336,Andrew Berardy,0.878486194
+4337,Terence A. McGoldrick,0.821368787
+4338,Emilija Manojlovic-Gacic,0.846887607
+4339,Jelena Dotlic,1.028807336
+4340,Tatjana Gazibara,1.028807336
+4341,Tatjana Terzic,0.846887607
+4342,Milica Skender-Gazibara,0.846887607
+4343,Stanislav Skapa,0.955872965
+4344,Jeremy Wickins,0.950838658
+4345,Jan Gogoll,1.254889645
+4346,Julian F. Müller,1.048996636
+4347,Thomas Perneger,0.834805946
+4348,Thomas A. Cavanaugh,0.855186323
+4349,Govert Valkenburg,0.811280979
+4350,Guus Dix,0.811280979
+4351,Jia Zhu,1.781110583
+4352,Gabriel Pui Cheong Fung,1.781110583
+4353,Wai Hung Wong,1.781110583
+4354,Zhixu Li,1.781110583
+4355,Chuanhua Xu,1.781110583
+4356,Wei Liu,0.8841615
+4357,Jinlan Nie,0.8841615
+4358,Carlos Fernandez-Patron,0.970263468
+4359,Eugenio Hardy,0.970263468
+4360,Edward J. Hackett,1.178826933
+4361,Diana R. Rhoten,1.178826933
+4362,Azar Safari,1.025182184
+4363,Xinxin Zhang,0.777534643
+4364,Zhao-lin Huo,0.777534643
+4365,Yuehong Zhang,0.777534643
+4366,Jantine Schröder,0.83629904
+4367,Stephen James Wilson,1.472091765
+4368,Benjamin Mason Meier,0.829156153
+4369,Georgia Lyn Kayser,0.829156153
+4370,Jocelyn Getgen Kestenbaum,0.829156153
+4371,Urooj Quezon Amjad,0.829156153
+4372,Fernanda Dalcanale,0.829156153
+4373,Jamie Bartram,0.829156153
+4374,Lucía Gómez-Tatay,0.904876281
+4375,José Miguel Hernández-Andreu,0.904876281
+4376,Justo Aznar,0.904876281
+4377,Darshan M. A. Karwat,1.178410056
+4378,Meagan E. Brock,1.86737311
+4379,Andrew Vert,1.86737311
+4380,Francisca Cho,0.836843413
+4381,Lynda L. Pope,0.724744381
+4382,Robert Geerts,1.037438952
+4383,Aimee Robbins-Van Wynsberghe,0.928407586
+4384,John Monk,0.827176339
+4385,Eleni Kosta,1.251668891
+4386,Olli Pitkänen,1.251668891
+4387,Marketta Niemelä,1.251668891
+4388,Eija Kaasinen,1.251668891
+4389,J. Scott Remer,1.085297732
+4390,A. J. M. Oerlemans,0.873830806
+4391,M. E. C. van Hoek,0.873830806
+4392,E. van Leeuwen,0.873830806
+4393,W. J. M. Dekkers,0.873830806
+4394,Leon R. Kass,0.759966171
+4395,Walter E. Eagle,0.904521254
+4396,Margaret S. Wooldridge,0.904521254
+4397,Thomas E. Princen,0.904521254
+4398,Steven M. Culver,0.993700889
+4399,Ishwar K. Puri,0.993700889
+4400,Richard E. Wokutch,0.993700889
+4401,Vinod Lohani,0.993700889
+4402,Nannan Yi,0.840396557
+4403,Benoit Nemery,1.069444941
+4404,Kris Dierickx,1.069444941
+4405,Peter A. Lloyd,0.965989828
+4406,Yesim Isil Ulman,1.108043752
+4407,Tuna Cakar,1.108043752
+4408,Gokcen Yildiz,1.108043752
+4409,Mona Andoohgin Shahri,1.077846036
+4410,Mohammad Davarpanah Jazi,1.077846036
+4411,Dusan Haustein,0.818964751
+4412,Catherine Elizabeth Kendig,1.274899524
+4413,John-Stewart Gordon,0.989887657
+4414,Ryan van Nood,0.941401198
+4415,Christopher Yeomans,0.941401198
+4416,Lars Koppers,0.874715079
+4417,Holger Wormer,0.874715079
+4418,Katja Ickstadt,0.874715079
+4419,John D. Bustard,1.078283843
+4420,Sheila Jasanoff,0.827512234
+4421,Ilaria Ampollini,0.714023792
+4422,Massimiano Bucchi,0.714023792
+4423,Janet K. Kern,0.677518349
+4424,David A. Geier,0.677518349
+4425,Richard C. Deth,0.677518349
+4426,Lisa K. Sykes,0.677518349
+4427,Brian S. Hooker,0.677518349
+4428,James M. Love,0.677518349
+4429,Geir Bjørklund,0.677518349
+4430,Carmen G. Chaigneau,0.677518349
+4431,Boyd E. Haley,0.677518349
+4432,Mark R. Geier,0.677518349
+4433,Juan M. Durán,0.909422051
+4434,Zachary Pirtle,0.909422051
+4435,Jae Hoon Lim,0.869033696
+4436,Brittany Hunt,0.869033696
+4437,Nickcoy A. Findlater,0.869033696
+4438,Peter T. Tkacik,0.869033696
+4439,Jerry L. Dahlberg,0.869033696
+4440,James B. Miller,0.98203979
+4441,Michael E. Gorman,0.963644694
+4442,Yu Xie,0.891839304
+4443,Kai Wang,0.891839304
+4444,Yan Kong,0.891839304
+4445,Brett Edwards,1.322371047
+4446,Josep Domingo-Ferrer,0.979522814
+4447,Alberto Blanco-Justicia,0.897016182
+4448,David R. Morrow,1.254878411
+4449,Lei Lei 0002,0.919524123
+4450,Ying Zhang,0.919524123
+4451,Shila Abdi,0.748297746
+4452,Daniel Pizzolato,0.748297746
+4453,Florentine Frantz,1.346348664
+4454,Hernán Astudillo,1.236804054
+4455,Mohammad Saeid Rezaee-Zavareh,1.074755642
+4456,Paramjit Kaur,1.076021673
+4457,Suresh K. Sharma,1.076021673
+4458,Dale Jamieson,0.907571396
+4459,Cameron Shelley,0.863513853
+4460,Erich W. Schienke,0.905127811
+4461,Nancy Tuana,0.905127811
+4462,Kenneth J. Davis,0.905127811
+4463,Klaus Keller,0.905127811
+4464,Siti Hafsyah Idris,1.134911631
+4465,Abu Bakar Abdul Majeed,1.134911631
+4466,Lee Wei Chang,1.134911631
+4467,Jan Cornelius Schmidt,0.682998349
+4468,J. Britt Holbrook,1.179586164
+4469,Joseph Oppong,1.179586164
+4470,Joesph Hoffmann,1.179586164
+4471,Elizabeth K. Larsen,1.179586164
+4472,Patrick Pluscht,1.179586164
+4473,Simon Godecharle,0.936048033
+4474,Steffen Fieuws,0.901919163
+4475,Zdenek Caha,1.076047254
+4476,Valentin Nguyen,0.877314408
+4477,Victoria Saigle,0.877314408
+4478,Veljko Dubljevic,0.890696268
+4479,Dennis Bray,1.015861938
+4480,Hans von Storch,1.015861938
+4481,Andreas Stylianou,0.888406956
+4482,Michael A. Talias,0.888406956
+4483,Kelling J. Donald,1.094048101
+4484,Taylor Stone,0.994247991
+4485,Pieter E. Vermaas,0.915340295
+4486,Jason Scott Robert,1.035521015
+4487,Hengli Zhang,1.103583771
+4488,Jacquelyn Slomka,0.825882864
+4489,John S. Gardenier,0.838361292
+4490,Karim Bschir,1.054104339
+4491,David Johann,1.052192452
+4492,William R. Wilson,1.079893755
+4493,Giulio Mecacci,1.470968304
+4494,Pim Haselager,1.470968304
+4495,Erik Hermann,0.936794078
+4496,Gunter Hermann,0.936794078
+4497,Jean Christophe Tremblay,0.936794078
+4498,George A. Lozano,1.056298324
+4499,Darcie A. P. Delzell,1.146330794
+4500,Cathy D. Poliak,1.146330794
+4501,Robert Sparrow,0.923060355
+4502,Ethan T. Wilding,0.97721992
+4503,José Luis de la Vara,0.992151872
+4504,Malene Vinther Christensen,0.875704856
+4505,Mar Carrió,0.875704856
+4506,Marta Cayetano i Giralt,0.875704856
+4507,Alexander Lang,0.875704856
+4508,Gema Revuelta,0.875704856
+4509,Gemma Rodríguez,0.875704856
+4510,Núria Saladié,0.875704856
+4511,Milena Wuketich,0.875704856
+4512,Christophe Schneble,0.843551969
+4513,Agata Wnukiewicz-Kozlowska,0.908513679
+4514,Geoff Keeling,0.823854824
+4515,Michael Hoffmann,0.96709903
+4516,Christopher Chung,0.73207108
+4517,Henk Zandvoort,1.188320393
+4518,Marcello Menapace,1.085611184
+4519,M. A. Crook,1.089073523
+4520,Kevin C. Elliott,1.032874502
+4521,Grit Büchner-Mögling,1.002341784
+4522,Hansjakob Fries,1.002341784
+4523,Julia Frugoli,1.227111496
+4524,Anne M. Etgen,1.227111496
+4525,Michael Kuhar,1.227111496
+4526,Landon J. Getz,0.745295816
+4527,Graham Dellaire,0.745295816
+4528,Alexander M. Petersen,1.010835745
+4529,Ron Arkin,0.961362604
+4530,Sjoerd Zwart,0.864738483
+4531,Lucas Scripter,0.993081665
+4532,Christophe Depaus,0.73828531
+4533,Richard Heersmink,0.879563557
+4534,Xin Ji Alan Tan,0.861274672
+4535,John McManus,0.866030328
+4536,Annette McClinton,0.866030328
+4537,Robert Gerhardt,0.866030328
+4538,Michael Morris,0.866030328
+4539,Rafael Minano,0.888053291
+4540,Ángel Uruburu,0.888053291
+4541,Ana Moreno Romero,0.888053291
+4542,Diego Pérez-López,0.888053291
+4543,Arno Simons,0.867292401
+4544,Nico Riedel,0.867292401
+4545,Ulf Toelch,0.867292401
+4546,Barbara Hendriks,0.867292401
+4547,Stephanie Müller-Ohlraun,0.867292401
+4548,Lisa Liebenau,0.867292401
+4549,Jens Ambrasat,0.867292401
+4550,Ulrich Dirnagl,0.867292401
+4551,Martin Reinhart,0.867292401
+4552,Stevienna de Saille,0.956963011
+4553,Clara Bosco,0.949029105
+4554,Marloes Dignum,0.928686274
+4555,Aad Correljé,0.928686274
+4556,Eefje Cuppen,0.928686274
+4557,Maria Luisa Dalla Chiara,1.182535312
+4558,Rita Vasconcellos Oliveira,0.873074778
+4559,Stephanie Naufel,0.844402845
+4560,Jan De Winter,0.886135142
+4561,Laszlo Kosolosky,0.886135142
+4562,Mirjam Schuijff,1.004968274
+4563,Anne M. Dijkstra,1.004968274
+4564,João P. Cardenuto,0.951906003
+4565,Michael R. Hamrell,0.962773125
+4566,Miquel Bastons,0.900764615
+4567,Jaume Armengou,0.900764615
+4568,Mar Palmeros Parada,0.876598658
+4569,John Alexander Posada,0.876598658
+4570,Sarah Jayne Hitt,1.060418372
+4571,Thomas Taro Lennerfors,1.060418372
+4572,Tetsuji Iseda,0.899902832
+4573,Istvan S. Szilagyi,0.88398957
+4574,Andreas Sandner-Kiesling,0.88398957
+4575,Cynthia Chen,0.935911212
+4576,Kate Irving,0.935911212
+4577,Dónal O'Mathúna,0.935911212
+4578,Michal Wieczorek,0.776893295
+4579,Li Jiang,1.193886503
+4580,Michael Deneke,1.232708098
+4581,Katherine Evans,1.029701812
+4582,Nelson de Moura,1.029701812
+4583,Stephane Chauvier,1.029701812
+4584,Raja Chatila 0001,1.029701812
+4585,Ebru Dogan,1.029701812
+4586,Heidi Furey,0.973901245
+4587,Azizan Baharuddin,1.001991093
+4588,Alexander Kelle,0.936283812
+4589,Till Feier,1.229957502
+4590,Matthias Uhl,1.229957502
+4591,Peter Williams,0.82939851
+4592,Dennis Müller,0.901593872
+4593,Maurice Chiodo,0.901593872
+4594,James Franklin,0.901593872
+4595,Alen Hajnal,0.881344942
+4596,Chris J. N. Lustgraaf,0.881344942
+4597,Ahmed Abu-Zaid,1.401613935
+4598,Christian Hopp,1.0809111
+4599,Gary A. Hoover,1.0809111
+4600,Minoo Alemi,0.700619962
+4601,Alireza Taheri,0.700619962
+4602,Azadeh Shariati,0.700619962
+4603,Ali Meghdari,0.700619962
+4604,Atsushi Asai,1.223204637
+4605,Taketoshi Okita,1.223204637
+4606,Motoki Ohnishi,1.223204637
+4607,Seiji Bito,1.223204637
+4608,Andrew Kumiega,0.52566258
+4609,Ben Van Vliet,0.52566258
+4610,Joseph Herkert,0.921851038
+4611,Adam Hill,0.837888728
+4612,Liviu Andreescu,1.039688633
+4613,James Weinstein,0.970454216
+4614,Efrain O'Neill-Carrillo,1.020212729
+4615,Marieke Ar Bak,0.99665338
+4616,Dick L. Willems,0.99665338
+4617,Tong Li,0.961222691
+4618,Robert Post,1.005770468
+4619,Nicolae Morar,0.737970395
+4620,Esat Alpay,1.053990779
+4621,John Forge,0.995547645
+4622,Steve Vanderheiden,0.941162011
+4623,Karolina Doulougeri,1.159517407
+4624,Shelly Tsui,1.159517407
+4625,Gerald Walther,0.813102656
+4626,Dominic Martin,0.808547891
+4627,Inmaculada de Melo-Martín,0.782783529
+4628,Dejan Donev,1.023671185
+4629,Vida Jeremic Stojkovic,1.023671185
+4630,Darija Kisic-Tepavcevic,1.023671185
+4631,Devan Stahl,1.270289692
+4632,Tyler Gibb,1.270289692
+4633,Eunok Ko,1.840371492
+4634,Yeonbae Kim,1.840371492
+4635,Jongyoung Kim,0.759575174
+4636,Kibeom Park,0.759575174
+4637,Viviana Giannuzzi,0.766357468
+4638,Annagrazia Altavilla,0.766357468
+4639,Lucia Ruggieri,0.766357468
+4640,Adriana Ceci,0.766357468
+4641,Rinie van Est,0.834015521
+4642,Abdalla Al-Ameen,1.375391488
+4643,Zakaria Mukhtar Gharsseldien,1.375391488
+4644,Deni Elliott,0.784823492
+4645,Srihari Govindan,1.451278327
+4646,Robert B. Wilson,1.451278327
+4647,Madhav Chandrasekher,0.950811767
+4648,Robert A. Becker,0.858049276
+4649,Eugene N. Tsyganov,0.858049276
+4650,Rodolfo G. Campos,1.286858051
+4651,Alexander Westkamp,0.714313722
+4652,Juan Dubra,0.814136584
+4653,Federico Echenique,0.814136584
+4654,Alejandro M. Manelli,0.814136584
+4655,Diego García,0.773171261
+4656,Joel M. Vanden,0.773171261
+4657,Nancy L. Stokey,1.042735928
+4658,Sebastiano Della Lena,1.088095672
+4659,Fabrizio Panebianco,1.125861068
+4660,Enrico Diecidue,0.794404045
+4661,Jeeva Somasundaram,0.794404045
+4662,R. Vijay Krishna,0.943474778
+4663,Deniz Dizdar,0.956981244
+4664,Benny Moldovanu,0.956981244
+4665,Nora Szech,0.956981244
+4666,Yves Sprumont,0.906787193
+4667,Dan Cao,1.008440137
+4668,Christoph Schottmüller,0.842051446
+4669,Marcus Hagedorn,0.874505281
+4670,Denis Gromb,0.972105675
+4671,David Martimort,0.972105675
+4672,Kostas Koufopoulos,1.012639568
+4673,Roman Kozhan,1.012639568
+4674,Sophie Bade,0.733338448
+4675,Guillaume Haeringer,0.733338448
+4676,Ludovic Renou,0.733338448
+4677,Dirk Krueger,1.003003145
+4678,Fabrizio Perri,1.003003145
+4679,Luca Colombo,0.861380756
+4680,Paola Labrecciosa,0.861380756
+4681,Murali Agastya,1.292661465
+4682,Arkadii Slinko,1.292661465
+4683,Stephen Morris,0.938750822
+4684,Hyun Song Shin,0.938750822
+4685,Muhamet Yildiz,0.938750822
+4686,Jingyuan Li,1.142079686
+4687,Elyès Jouini,0.879383094
+4688,Clotilde Napp,0.879383094
+4689,Diego Nocetti,0.879383094
+4690,Todd Lensman,0.798879862
+4691,Maxim Troshkin,0.798879862
+4692,Paolo Ghirardato,0.859192636
+4693,Daniele Pennesi,0.859192636
+4694,Lee E. Ohanian,1.031776028
+4695,Roger E. A. Farmer,1.066971083
+4696,Daniel F. Waggoner,1.066971083
+4697,Tao Zha,1.066971083
+4698,Edoardo Gallo,0.689586422
+4699,Itzhak Gilboa,0.927814577
+4700,Fan Wang,0.927814577
+4701,Anja Prummer,0.958924452
+4702,Jan-Peter Siedlarek,0.958924452
+4703,Gilles Saint-Paul,0.729608353
+4704,Guido Cazzavillan,0.741660071
+4705,Jean-Baptiste Michau,0.729286807
+4706,Francesco De Sinopoli,1.076010118
+4707,Claudia Meroni,1.076010118
+4708,Carlos Pimienta,1.076010118
+4709,Itai Ashlagi,0.954665414
+4710,Afshin Nikzad,0.954665414
+4711,Pierre-Olivier Weill,1.04657252
+4712,Jussi Keppo,1.0578312
+4713,Giuseppe Moscarini,1.0578312
+4714,Lones Smith,1.047974307
+4715,David Cass,1.208722273
+4716,Anna Pavlova,1.208722273
+4717,Peter M. DeMarzo,0.909857169
+4718,Ilan Kremer,0.909857169
+4719,Yishay Mansour,0.909857169
+4720,Nabil I. Al-Najjar,0.973805711
+4721,Rann Smorodinsky,0.973805711
+4722,Nikhil R. Devanur,0.999412196
+4723,Jason D. Hartline,0.999412196
+4724,Qiqi Yan,0.999412196
+4725,Felipe Balmaceda,0.78098103
+4726,Juan F. Escobar,0.78098103
+4727,Flavio Toxvaerd,0.85585331
+4728,Jessica A. Wachter,0.864177169
+4729,Ricardo Alonso,1.114160028
+4730,Odilon Câmara,1.114160028
+4731,Veronika Köbberling,1.133383227
+4732,Hans Peters,1.133383227
+4733,Kang Rong,0.765296489
+4734,Qianfeng Tang,0.765296489
+4735,Yongchao Zhang,0.765296489
+4736,Brian W. Rogers,0.772704353
+4737,Thomas R. Palfrey,0.772704353
+4738,Colin F. Camerer,0.772704353
+4739,Philip Bond,0.882055249
+4740,Armando Gomes,0.882055249
+4741,Philippe Jehiel,1.096507015
+4742,José Carlos R. Alcantud,1.048315898
+4743,Rida Laraki,0.979976994
+4744,Eilon Solan,0.979976994
+4745,Nicolas Vieille,0.979976994
+4746,Shin Sato,1.096448896
+4747,Martin Kaae Jensen,1.32603125
+4748,Mark Loewenstein,0.881875892
+4749,Gregory A. Willard,0.881875892
+4750,Antoine Bommier,0.934436254
+4751,Arnold Chassagnon,0.934436254
+4752,François Le Grand,0.934436254
+4753,Simon Grant,1.339426822
+4754,Ben Polak,1.339426822
+4755,Liuchun Deng,0.686571202
+4756,M. Ali Khan,0.686571202
+4757,Tapan Mitra,0.686571202
+4758,Igor Kopylov,0.948591963
+4759,Dana Heller,0.896438895
+4760,Komal Malik,0.882585891
+4761,Debasis Mishra,0.882585891
+4762,Giovanni Favara,1.010901101
+4763,Zheng Song,1.010901101
+4764,G. Carlier,0.714097856
+4765,R.-A. Dana,0.714097856
+4766,Gu Jin,0.946574797
+4767,Tao Zhu,0.946574797
+4768,Hector Chade,0.847576632
+4769,Pavlo Prokopovych,0.847576632
+4796,Stephan Vollmer,0.968862705
+4797,Vanessa C. Klaas,1.071070951
+4798,Kurt P. Brown,0.734998094
+4799,Tolga Yurek,0.854428815
+4800,Oliver Hoffmann 0002,0.773788504
+4817,Roy T. Fielding,0.975827696
+4818,Henrik Frystyk Nielsen,0.975827696
+4819,Tim Berners-Lee,0.975827696
+4820,Alin Deutsch,1.015320435
+4821,Mary F. Fernandez,1.086881263
+4822,Daniela Florescu,1.229036665
+4823,Alon Y. Levy,1.015320435
+4824,Dan Suciu,1.015320435
+4825,Robin Cover,1.014291972
+4826,Jonathan Robie,1.351317966
+4827,Jérôme Siméon,1.217759298
+4828,Mugur Stefanescu,1.219291684
+4829,Peter Fankhauser,1.189039425
+4830,Massimo Marchiori,1.087780339
+4831,Mary F. Fernández,0.99481613
+4832,Ashok Malhotra,0.99481613
+4833,Michael Rys,0.99481613
+4834,Philip Wadler,0.99481613
+4835,Klaus Tschira,0.901374113
+4878,Amir Hossein Gandomi,0.804376975
+4879,Amir Hossein Alavi,0.804376975
+4880,Conor Ryan,0.908321842
+4881,Borko Furht,1.460499216
+4882,Ankur Agarwal,0.905977069
+4883,Ngoc Thanh Nguyen,4.497281851
+4884,Ryszard Kowalczyk,3.099426297
+4885,Marcin Hernes,0.713235444
+4886,Juan M. Corchado,1.531445898
+4887,Javier Bajo,1.531445898
+4888,Cezary Orlowski,0.776800614
+4889,Artur Ziólkowski,0.776800614
+4890,Ana L. N. Fred,0.973619405
+4891,Joaquim Filipe,1.157257475
+4892,Anna Motylska-Kuzma,1.300416979
+4893,Jacek Mercik,1.533293449
+4894,Richard Kowalczyk,1.19907269
+4895,H. Jaap van den Herik,0.851422931
+4896,Ana Paula Rocha 0001,0.848773832
+4897,Fatos Xhafa,1.585229148
+4898,Alexandre Miguel Pinto,1.220655421
+4899,Jorge Cardoso 0001,1.220655421
+4900,Béatrice Duval,0.69926786
+4901,Stéphane Loiseau,0.69926786
+4902,Le Thi Hoai An,0.97921566
+4903,Joanna Kolodziej,0.930139522
+4904,Tadeusz Burczynski,0.930139522
+4905,Marenglen Biba,0.930139522
+4906,Andreas Podelski,0.86846855
+4907,Nabil R. Adam,1.202698005
+4908,Bharat K. Bhargava,1.080971691
+4991,Arnon Rosenthal,1.000203543
+4992,David W. Flater,0.903531643
+4993,Yelena Yesha,0.903531643
+4994,Yin-he Jiang,1.071727566
+4995,Jagannathan Srinivasan,1.071727566
+4996,Prasun Dewan,1.071727566
+4997,Olivier Ridoux,1.15010984
+4998,Arif Ghafoor,0.933810207
+4999,P. Bruce Berra,0.933810207
+5000,Antoine Rauzy,1.019546105
+5001,Hava T. Siegelmann,0.923382607
+5002,Ophir Frieder,0.923382607
+5003,Alexander Bockmayr,0.74981803
+5004,Shirley Browne,0.952375634
+5005,Ramesh Subramanian,0.861134071
+5006,Barbara Gängler,0.863862389
+5007,James Clifford,0.837168881
+5008,Arie Segev,1.06639075
+5009,Rakesh Chandra,1.06639075
+5010,Pascal Van Hentenryck,1.044414539
+5011,Vijay A. Saraswat,1.044414539
+5012,Yves Deville,1.044414539
+5013,Godehard Link,1.231325277
+5014,Frédéric Benhamou,0.746495544
+5015,Michel Rueher,0.989440814
+5016,Manfred Börkel,1.10957551
+5017,Ramez Elmasri,0.820898107
+5018,Vram Kouramajian,0.820898107
+5019,Martin Andersson,1.207370373
+5020,Yann Dupont,1.207370373
+5021,Stefano Spaccapietra,1.207370373
+5022,Kokou Yétongnon,1.207370373
+5023,Haiyan Ye,1.207370373
+5024,François Fages,0.915066531
+5025,Narain H. Gehani,1.11138873
+5026,H. V. Jagadish,1.11138873
+5027,Oded Shmueli,1.11138873
+5028,Stanley Y. W. Su,0.92194594
+5029,Yuh-Ming Shyy,0.92194594
+5030,Zuzana Krifka Dobes,0.745364669
+5031,Hans-Joachim Novak,1.18851449
+5032,Jürgen Angele,1.179433985
+5033,Dieter Fensel,1.183967046
+5034,Dieter Landes,1.179433985
+5035,Susanne Neubert,1.179433985
+5036,Philippe Codognet,0.834918292
+5037,Giuseppe Nardiello,0.834918292
+5038,Jean-Louis Imbert,0.932524964
+5039,Ugo Montanari,0.658644117
+5040,Francesca Rossi,0.91241534
+5041,Baudouin Le Charlier,1.167882808
+5042,Hélène Kirchner,1.024921623
+5043,Hubert Comon,0.795507356
+5044,Jean-Claude Franchitti,0.93507386
+5045,Roger King,0.93507386
+5046,Wilfried Brauer,0.838752654
+5047,Peter C. Lockemann,0.838752654
+5048,Helmut Schnelle,0.838752654
+5049,Kumar V. Vadaparty,0.970864994
+5050,Shamim A. Naqvi,0.970864994
+5051,Elisa Bertino,0.961548538
+5052,Sushil Jajodia,1.189052724
+5053,Pierangela Samarati,1.800729211
+5054,Raj Tewari,1.057234006
+5055,Phillip C.-Y. Sheu,0.94336238
+5056,Larry J. Peterson,0.94336238
+5057,Shashi K. Gadia,0.603792987
+5058,Vimal Chopra,0.603792987
+5059,Philip S. Yu,0.93959262
+5060,Ming-Syan Chen,0.93959262
+5061,Joel L. Wolf,0.93959262
+5062,John Turek,0.93959262
+5063,Thom W. Frühwirth,1.160603312
+5064,George Karabatis,1.046748112
+5065,Marek Rusinkiewicz,1.046748112
+5066,Amit P. Sheth,1.046748112
+5180,Henk C. A. van Tilborg,1.481301586
+5181,Juan Carlos Augusto,1.207828145
+5182,Michael Huch,1.093519417
+5183,Achilles Kameas,1.122847973
+5184,Julie Maitland,1.098141691
+5185,Paul J. McCullagh,1.12711664
+5186,Jean Roberts,1.210674874
+5187,Andrew Sixsmith,1.096856921
+5188,Reiner Wichert,1.148782176
+5189,Max Mühlhäuser,1.083386197
+5190,Iryna Gurevych,1.083386197
+5191,Wai-Kai Chen,0.897840485
+5192,Sigrid Kelsey,0.937197608
+5193,Kirk St. Amant,0.937197608
+5194,Shimon Y. Nof,1.228035603
+5195,Newton Lee,0.891996606
+5196,Benjamin W. Wah,1.045848197
+5197,Dieter Jaeger,1.262523851
+5198,Ranu Jung,1.262523851
+5199,Phillip A. Laplante,0.679241176
+5200,Rebecca Herold,0.996373118
+5201,Chang-Tsun Li,0.750573299
+5202,Marian Quigley,0.920936938
+5203,Marco Aiello 0001,0.723637488
+5204,Ian Pratt-Hartmann,0.723637488
+5205,Johan van Benthem,0.723637488
+5206,Yin Leng Theng,0.716812126
+5207,Schubert Foo,0.716812126
+5208,Dion Hoe-Lian Goh,0.716812126
+5209,Jin-Cheon Na,0.716812126
+5210,Edmund M. Clarke,0.953001086
+5211,Thomas A. Henzinger,0.953001086
+5212,Helmut Veith,1.172553835
+5213,Roderick Bloem,0.953001086
+5214,Jacob E. Goodman,0.755697088
+5215,Joseph O'Rourke,0.755697088
+5216,David G. Schwartz,0.933334489
+5217,Dov Te'eni,0.933334489
+5218,Miodrag Lovric,0.861438475
+5219,Oded Maimon,1.01556396
+5220,Lior Rokach,1.173196028
+5221,Juan R. Rabuñal,0.968170855
+5222,Julian Dorado,0.968170855
+5223,Alejandro Pazos,0.968170855
+5224,Roberto Tamassia,1.058116159
+5225,Sang Hyuk Son,0.925965794
+5226,Insup Lee,0.925965794
+5227,Joseph Y.-T. Leung,0.980030252
+5228,Paolo Bellavista,0.892807431
+5229,Antonio Corradi,0.892807431
+5230,Ishfaq Ahmad,0.920013643
+5231,Sanjay Ranka,0.920013643
+5232,Edoardo M. Airoldi,1.088489238
+5233,David M. Blei,1.088489238
+5234,Elena A. Erosheva,1.088489238
+5235,Stephen E. Fienberg,1.088489238
+5236,Mohammad Ilyas,0.822716234
+5237,Imad Mahgoub,0.822716234
+5238,Teofilo F. Gonzalez,0.828778165
+5239,Jiacun Wang,1.025223754
+5240,Kelly S. Hale,0.825508208
+5241,Kay M. Stanney,0.825508208
+5242,Charles J. Alpert,0.809830091
+5243,Dinesh P. Mehta,1.007738239
+5244,Sachin S. Sapatnekar,0.809830091
+5245,Harold F. Tipton,0.938678164
+5246,Micki Krause,0.938678164
+5247,Sartaj Sahni,1.022421252
+5248,Burton Rosenberg,1.045152494
+5249,Sanguthevar Rajasekaran,1.02457418
+5250,John H. Reif,1.02457418
+5251,Paul A. Fishwick,1.030410586
+5252,Sankar K. Pal,0.951500894
+5253,Alfredo Petrosino,0.951500894
+5254,Lucia Maddalena 0001,0.951500894
+5255,Azzedine Boukerche,0.906006615
+5256,Munindar P. Singh,1.072615852
+5257,Henri Cohen,0.773322197
+5258,Gerhard Frey,0.773322197
+5259,Roberto Avanzi,1.077719782
+5260,Christophe Doche,0.773322197
+5261,Tanja Lange 0001,1.181735414
+5262,Kim Nguyen,1.301125666
+5263,Frederik Vercauteren,0.773322197
+5264,Constantine Stephanidis,0.994318802
+5265,Kenneth H. Rosen,1.075965002
+5266,John G. Michaels,1.075965002
+5267,Jonathan L. Gross,1.075965002
+5268,Jerrold W. Grossman,1.075965002
+5269,Douglas R. Shier,1.075965002
+5270,Stephan Olariu,1.023819713
+5271,Albert Y. Zomaya,1.192311665
+5272,Richard Zurawski,0.934481671
+5273,Shuvra S. Bhattacharyya,1.006724527
+5274,Ed F. Deprettere,1.006724527
+5275,Rainer Leupers,1.006724527
+5276,Jarmo Takala,1.006724527
+5277,Sherif Sakr,1.052272148
+5278,David S. Doermann,1.099177771
+5279,Karl Tombre,1.099177771
+5280,Claude Sammut,1.125744376
+5281,Geoffrey I. Webb,1.125744376
+5282,Shashi Shekhar,1.04838283
+5283,Hui Xiong 0001,1.04838283
+5284,Xun Zhou,0.793209464
+5285,Eni G. Njoku,0.975902454
+5286,William Sims Bainbridge,0.880898475
+5287,Mihail C. Roco,0.880898475
+5288,Janglin Chen,0.828061032
+5289,Wayne Cranton,0.828061032
+5290,Mark Fihn,0.828061032
+5291,Michael Gertz 0001,0.8695452
+5292,Daniele Gianni,1.154001512
+5293,Andrea D'Ambrogio,1.154001512
+5294,Andreas Tolk,1.154001512
+5295,Arthur Tatnall,1.23479758
+5296,Francesco Ricci 0001,1.054584361
+5297,Bracha Shapira,1.054584361
+5298,Paul B. Kantor,0.931035292
+5299,Katsushi Ikeuchi,0.946153443
+5300,Peter van Beek,1.000292866
+5301,Toby Walsh,1.000292866
+5302,Michael Fisher 0001,0.912099343
+5303,Dov M. Gabbay,0.912099343
+5304,Lluís Vila,0.912099343
+5305,Frank van Harmelen,1.73810412
+5306,Vladimir Lifschitz,1.73810412
+5307,Bruce W. Porter,1.73810412
+5308,Soonhoi Ha,0.917793515
+5309,Jürgen Teich,0.917793515
+5310,Bruno Siciliano,0.949376498
+5311,Oussama Khatib,0.949376498
+5312,Christodoulos A. Floudas,1.166219158
+5313,Panos M. Pardalos,0.988002282
+5314,John Wang,1.018234584
+5315,Demetres D. Kouvatsos,0.929723418
+5316,Stan Z. Li,1.037981745
+5317,Anil K. Jain 0001,0.967939926
+5318,Felix Brandt 0001,0.75145658
+5319,Vincent Conitzer,0.75145658
+5320,Ulle Endriss,0.75145658
+5321,Jérôme Lang,0.75145658
+5322,Ariel D. Procaccia,0.75145658
+5323,Shoba Ranganathan,1.066893369
+5324,Michael Gribskov,1.066893369
+5325,Kenta Nakai,1.066893369
+5326,Christian Schönbach,1.066893369
+5327,Rafael Martí,0.630148628
+5328,Mauricio G. C. Resende,0.630148628
+5329,Samee U. Khan,0.904687301
+5330,Otmar Scherzer,1.128608876
+5331,Janusz Kacprzyk,1.001062406
+5332,Witold Pedrycz,1.001062406
+5333,Erik Blasch,0.948267936
+5334,Sai Ravela,0.948267936
+5335,Alex Aved,0.948267936
+5336,John Domingue,0.973233371
+5337,James A. Hendler,0.973233371
+5338,Pietro Michelucci,0.689569406
+5339,Aris Gkoulalas-Divanis,0.933079062
+5340,Claudio Bettini,1.023390692
+5341,Birgit Vogel-Heuser,1.354190824
+5342,Thomas Bauernhansl,1.200741965
+5343,Michael ten Hompel,1.200741965
+5344,John Baillieul,0.867928105
+5345,Tariq Samad,0.867928105
+5346,Hossein Bidgoli,1.151215272
+5347,Berthold Vöcking,0.92966975
+5348,Helmut Alt,0.92966975
+5349,Martin Dietzfelbinger,0.92966975
+5350,Rüdiger Reischuk,0.92966975
+5351,Christian Scheideler,0.92966975
+5352,Dorothea Wagner,0.92966975
+5353,Ming-Yang Kao,1.144325509
+5354,Grzegorz Rozenberg,1.242186918
+5355,Thomas Bäck,0.813887866
+5356,Joost N. Kok,0.813887866
+5357,Nitin Indurkhya,0.911116332
+5358,Fred J. Damerau,0.911116332
+5359,Peter P. Stavroulakis,0.869028352
+5360,Mark Stamp,0.869028352
+5361,Robert A. Meyers,1.086618941
+5362,Reda Alhajj,1.166121889
+5363,Jon G. Rokne,1.166121889
+5364,Ling Liu,1.05523799
+5365,Arto Salomaa,1.203290292
+5366,David A. Padua,0.928750897
+7367,Bir Bhanu,0.83796885
+7368,Marijke De Soete,2.702829265
+7369,Chen-Mou Cheng,0.67366368
+7370,Shucheng Yu,0.720623891
+7371,Wenjing Lou,0.965485056
+7372,Kui Ren 0001,0.965485056
+7373,Carlisle Adams,4.839578701
+7374,Alex Biryukov,6.997696929
+7375,Gerrit Bleumer,7.727803734
+7376,Carl M. Ellison,1.191364856
+7377,David Naccache,2.335031557
+7378,Dan Boneh,2.847532768
+7379,Burt Kaliski,4.696759121
+7380,Burton S. Kaliski Jr.,4.742844429
+7381,Friedrich L. Bauer,4.645620039
+7382,Peter Landrock,3.261429543
+7383,Lars R. Knudsen,1.528913737
+7384,Sean W. Smith,1.371629469
+7385,Brian Wongchaowart,1.112974669
+7386,Adam J. Lee,1.042203745
+7387,Yvo Desmedt,3.126633378
+7388,Berry Schoenmakers,3.143702291
+7389,Anne Canteaut,3.545064671
+7390,Nicolas Sendrier,1.449494042
+7391,Adi Shamir,1.165216087
+7392,Eran Tromer,1.165216087
+7393,Christophe De Cannière,3.277739164
+7394,Catherine A. Meadows,1.790252676
+7395,Angelika Plate,0.894439366
+7396,Clemens Heinrich,1.52647595
+7397,Stefan Köpsell,0.69558102
+7398,Kazue Sako,2.459905761
+7399,Bodo Möller,2.05871938
+7400,Ninghui Li,1.125435756
+7401,Arun Ross,1.077369045
+7402,Jim Alves-Foss,0.877745326
+7403,Ran Canetti,1.208835548
+7404,Cristina Nita-Rotaru,1.19939783
+7405,Reza Curtmola,1.19939783
+7406,Bart Preneel,4.322565786
+7407,Alessandro Campi,1.131711527
+7408,William Whyte,1.157158589
+7409,Caroline Fontaine,2.894628418
+7410,Gerald Brose,1.442506948
+7411,Matthias Schunter,1.444895794
+7412,Eric Cronin,1.134451105
+7413,Markus Kuhn,1.637654933
+7414,Mary Ellen Zurko,0.969514066
+7415,Richard T. Simon,0.969514066
+7416,Sabrina De Capitani di Vimercati,2.27692436
+7417,Helena Handschuh,1.407890245
+7418,Berk Sunar,1.502267893
+7419,Scott A. Crosby,0.828052861
+7420,Dan S. Wallach,0.828052861
+7421,Christian Cachin,1.052916828
+7422,Mary J. Culnan,0.951403804
+7423,Vijay Alturi,0.8992585
+7424,Antoon Bosselaers,1.272160469
+7425,Claude Carlet,1.875605059
+7426,Scott Contini,1.999822766
+7427,Salvatore J. Stolfo,0.838504016
+7428,Brian M. Bowen,0.838504016
+7429,Malek Ben Salem 0001,0.838504016
+7430,Jonas Richiardi,1.023422713
+7431,Krzysztof Kryszczuk,1.023422713
+7432,Marc Joye,1.068855805
+7433,Francis Olivier,1.068855805
+7434,J. Black,0.791208915
+7435,Mitchell A. Thornton,0.890524493
+7436,Torben P. Pedersen,1.313791737
+7437,Nary Subramanian,0.915786061
+7438,Marco Bucci,1.092493168
+7439,Anton Stiglic,2.500620062
+7440,Phong Q. Nguyen,1.179701857
+7441,Christophe Petit,0.8251427
+7442,Jean-Jacques Quisquater,1.824620739
+7443,Robert J. Zuccherato,1.624159317
+7444,Salil P. Vadhan,1.158185289
+7445,Marc Vauclair,1.35709209
+7446,Darrel Hankerson,2.853085336
+7447,Alfred Menezes,2.853085336
+7448,Tom Caddy,2.58658844
+7449,Radu Sion,1.025981481
+7450,Yevgeniy Dodis,0.991959362
+7451,XiaoFeng Wang 0001,1.072730511
+7452,Ernst M. Gabidulin,0.998551322
+7453,Emmanuel Thomé,0.868090459
+7454,Torben Pedersen,1.3858486
+7455,Trent Jaeger,1.418543869
+7456,François Morain,1.035580834
+7457,G. R. Blakley,1.296125236
+7458,Gregory A. Kabatiansky,2.065411511
+7459,Matthew K. Franklin,1.028366139
+7460,Tor Helleseth,2.504108151
+7461,Ruggero Donida Labati,0.885495384
+7462,Fabio Scotti,0.952657112
+7463,Robert Silverman,1.05411382
+7464,Dalit Naor,0.856354164
+7465,Tae Hwan Oh,0.831731362
+7466,Shinyoung Lim,0.831731362
+7467,Young B. Choi,0.831731362
+7468,Jungwoo Ryoo,0.831731362
+7469,Tim Güneysu,0.925392938
+7470,Svetlana N. Yanushkevich,0.725466043
+7471,Denis V. Popel,0.725466043
+7472,Saeed Abu-Nimeh,0.972472323
+7473,Assia Tria,1.088374983
+7474,Hamid Choukri,1.088374983
+7475,David Samyde,1.306973494
+7476,Brent ByungHoon Kang,1.262047212
+7477,Greg Sinclair,1.03208857
+7478,Anurag Srivastava,0.953795551
+7479,Paulo S. L. M. Barreto,1.270158431
+7480,Vincent Rijmen,1.515083928
+7481,Moses D. Liskov,1.542058149
+7482,Nicholas C. Weaver,0.805826695
+7483,Wensheng Zhang 0001,1.023692766
+7484,Kar-Ann Toh,1.057446399
+7485,Andrew Beng Jin Teoh,1.057446399
+7486,Robert Blakley 0001,1.237226354
+7487,Jean-Louis Lanet,1.153593872
+7488,V. N. Venkatakrishnan,0.95384907
+7489,Ehab Al-Shaer,0.886195292
+7490,Angelos Stavrou,0.797656694
+7491,Graham Steel,0.949909008
+7492,Ebru Celikel Cankaya,1.053765187
+7493,Nicky Mouha,0.859627902
+7494,Jorge Guajardo,1.13006044
+7495,Lorrie Faith Cranor,1.022162856
+7496,Miles E. Smid,0.912733628
+7497,Marco Gruteser,0.997163707
+7498,Nicolas Thériault,1.017095468
+7499,Steve Lloyd,1.165165091
+7500,Xiaokui Xiao,1.046006008
+7501,Patrick D. McDaniel,0.971336913
+7502,Collin Jackson,0.993879412
+7503,Kun Sun 0001,0.892214757
+7504,Peng Ning,1.142866913
+7505,Claudio A. Ardagna,1.192347745
+7506,Kaoru Kurosawa,0.928305625
+7507,Martin Gagné,1.211926308
+7508,Fabien A. P. Petitcolas,1.106193715
+7509,Qiushi Yang,1.234106655
+7510,Dario V. Forte,0.860947459
+7511,Dwight Horne,0.996861163
+7512,Mike Just,2.230677372
+7513,Ben J. M. Smeets,1.132457608
+7514,Jerome A. Solinas,1.511888988
+7515,Paul England,0.843466618
+7516,François Koeune,1.361763092
+7517,Donggang Liu,1.106228967
+7518,Hakan Hacigümüs,0.771528449
+7519,Bijit Hore,0.956843547
+7520,Sharad Mehrotra,0.956843547
+7521,Claude Crépeau,1.50950122
+7522,Yi Yang 0002,1.20560919
+7523,Sencun Zhu,1.20560919
+7524,David F. Ferraiolo,0.778191248
+7525,Michalis Polychronakis,0.978269862
+7526,Pascale Charpin,1.189467355
+7527,Niels Provos,0.871460272
+7528,Soma Biswas,0.97374727
+7529,Rama Chellappa,0.97374727
+7530,Srdjan Capkun,1.214782689
+7531,Joe Pato,0.934728775
+7532,Laurent Sustek,0.95722585
+7533,B. V. K. Vijaya Kumar,0.944711539
+7534,Sara Foresti,1.121063228
+7535,Guido Salvaneschi,1.221097812
+7536,Paolo Salvaneschi,1.215704255
+7537,Alexander Kruppa,0.637108771
+7538,Paul Leyland,0.637108771
+7539,Michael Ward,1.042713971
+7540,Olivier Benoît,0.958324274
+7541,Jeffrey J. Wiley,0.812154073
+7542,Gerardo Pelosi,1.07349567
+7543,Christiane Peters,0.804758464
+7544,Glenn Durfee,1.31382867
+7545,Mohamed Omar Rayes,0.82645137
+7546,Christof Paar,1.63011652
+7547,Guofei Gu,0.663188597
+7548,Michael E. Locasto,0.918656283
+7549,Ann Cavoukian,0.737709993
+7550,Alex Stoianov,0.737709993
+7551,Mike Burmester,1.321436598
+7552,François-Xavier Standaert,1.0163171
+7553,Jing Dong 0006,1.107906469
+7554,Mehdi Tibouchi,0.906024518
+7555,André Weimerskirch,1.83620436
+7556,William Enck,0.95557905
+7557,Scott E. Coull,0.98809621
+7558,Achint Thomas,1.109526662
+7559,Venu Govindaraju,1.109526662
+7560,Mihai Christodorescu,0.91406972
+7561,Vinod Ganapathy,0.91406972
+7562,Russ Housley,0.862751994
+7563,Sean Turner,0.910813099
+7564,Michael J. Wiener,0.932369324
+7565,Daniel J. Bernstein,0.983467767
+7566,Gilles Brassard,1.020148587
+7567,Pavan Verma,0.72609228
+7568,Matthew J. B. Robshaw,1.257281211
+7569,Thomas Morris,1.013709256
+7570,Patrizio Campisi,1.276676394
+7571,Emanuele Maiorana,1.124242361
+7572,Alessandro Neri 0001,1.276676394
+7573,Debbie Cook,0.990820157
+7574,Edlyn Teske,1.143037519
+7575,David Pointcheval,1.336072444
+7576,Jörg Schwenk,0.807817266
+7577,William D. Casper,1.054871448
+7578,Stephen M. Papa,1.054871448
+7579,Arkadiusz Orlowski,0.939459337
+7580,Sangwon Hyun,1.185725084
+7581,Martin Johns,0.992704272
+7582,Wenyuan Xu,0.890371331
+7583,Alexander Barg,1.071625329
+7584,Daniel Gordon,1.072663169
+7585,Arjen K. Lenstra,1.843565267
+7586,Jonathan K. Millen,0.919101552
+7587,Sebastiaan Indesteege,1.116284409
+7588,Günther Pernul,1.858467369
+7589,Moritz Riesner,1.858467369
+7590,Paul Zimmermann,0.94071295
+7591,Ernesto Damiani,0.977079073
+7592,Andrew Clark,0.948329982
+7593,Keith B. Frikken,1.045222676
+7594,Michael T. Hunter,0.815950168
+7595,Çetin Kaya Koç,1.395793547
+7596,David Zhang 0001,1.094155775
+7597,Feng Yue,0.973924161
+7598,Wangmeng Zuo,0.973924161
+7599,Frédérique Biennier,0.725232417
+7600,Scott A. Rotondo,0.956666117
+7601,Kristen LeFevre,1.17370057
+7602,Bee-Chung Chen,1.044576297
+7603,Sharon Boeyen,0.915738905
+7604,Daniele Micciancio,1.634195529
+7605,Elisa Gorla,0.902936446
+7606,Serge Fenet,0.981125486
+7607,Giovanni Livraga,1.135683543
+7608,Lee D. McFearin,0.879000003
+7609,Daniel M. Gordon,1.362632253
+7610,Qijun Gu,1.098486906
+7611,Louis Goubin,0.938539029
+7612,Jacques Patarin,0.938539029
+7613,Bo-Yin Yang,0.938539029
+7614,Stefano Paraboschi,0.870667422
+7615,Angelos D. Keromytis,0.859859781
+7616,Ronald L. Rivest,1.116631262
+7617,Nadia Heninger,0.825278076
+7618,Cynthia Dwork,1.110980706
+7619,Italo Dacosta,0.948687025
+7620,Colin D. Walter,1.259156137
+7621,William Stallings,0.875967026
+7622,Elisabeth de Leeuw,0.888209282
+7623,Matthieu Finiasz,0.960456317
+7624,"Jung-Min ""Jerry"" Park",1.084635658
+7625,Kaigui Bian,1.084635658
+7626,Hideki Imai,1.066711996
+7627,Atsuhiro Yamagishi,1.066711996
+7628,Frédéric Cuppens,1.279919182
+7629,Nora Cuppens-Boulahia,1.279919182
+7630,Benoît Libert,0.852948827
+7631,Guohong Cao,1.186269471
+7632,Zhichao Zhu,1.186269471
+7633,Jeffrey Hoffstein,0.815802498
+7634,Stuart Haber,1.305842617
+7635,Henri Massias,1.305842617
+7636,Pascal Paillier,1.059619458
+7637,David Challener,1.2251118
+7638,Kerstin Lemke,1.02402239
+7639,Ming Li 0003,1.034803484
+7640,Evangelia Micheli-Tzanakou,1.403685539
+7641,Konstantinos N. Plataniotis,1.403685539
+7642,Vivek Kanhangad,1.015449975
+7643,Gregor Leander,1.147737018
+7644,Eli Biham,0.987652281
+7645,Edward Sciore,0.883770355
+7646,Alessandro Orso,0.913252913
+7647,Benny Pinkas,1.120453778
+7648,Goce Jakimoski,1.044741495
+7649,Ali Bagherzandi,0.968187091
+7650,Anita Ochieano,0.846086446
+7651,Bryan D. Payne,0.877001187
+7652,Thomas Eisenbarth 0001,0.755007548
+7653,Timo Kasper,0.755007548
+7654,Panos Papadimitratos,0.809391846
+7655,Jean-Pierre Hubaux,0.809391846
+7656,Russell Housley,1.058517982
+7657,Brecht Wyseur,0.987967461
+7658,Alexander W. Dent,0.79802257
+7659,Scott D. Stoller,1.060266581
+7660,Aaron Estes,1.328694986
+7661,Alan D. Smith,0.937432257
+7662,David A. McGrew,1.154032237
+7663,Martin Evison,0.918945371
+7664,John Ioannidis,1.080547659
+7665,Engin Kirda,0.990669344
+7666,Stelvio Cimato,0.846608457
+7667,Roberto Sassi,0.846608457
+7668,Paul C. Leyland,0.952827913
+7669,Joan Daemen,1.384653264
+7670,Laurent Bussard,0.885714783
+7671,David Brumley,0.884397669
+7672,Luc Bouganim,1.097174827
+7673,Yanli Guo,1.097174827
+7674,Joachim Biskup,0.927681341
+7675,Mayank Varia,1.177255859
+7676,William E. Winkler,0.87484794
+7677,Gildas Avoine,0.913495886
+7678,Mark Stephens,1.098443733
+7679,David Elliott Bell,0.879206122
+7680,Fernando L. Podio,1.012743255
+7681,Johannes Gehrke,0.998960629
+7682,Ashwin Machanavajjhala,0.998960629
+7683,Sachiko Yoshihama,0.903183369
+7684,Xiaowei Yang 0001,1.364766963
+7685,Aggelos Kiayias,0.928867207
+7686,Bülent Yener,0.928867207
+7687,Marion Videau,1.116985325
+7688,Suman Banerjee,0.899537747
+7689,Vladimir Brik,0.899537747
+7690,John Black,1.112899172
+7691,Philippe Gaborit,0.794779609
+7692,Jelena Mirkovic,0.830295035
+7693,Bruce Schneier,0.991899107
+7694,Mudhakar Srivatsa,0.983878056
+7695,Arun Iyengar,0.983878056
+7696,Hakki C. Cankaya,0.994798836
+7697,Steven M. Bellovin,0.787136588
+7698,Piero A. Bonatti,0.927301437
+7699,Homayoon S. M. Beigi,1.161538638
+7700,George C. Necula,0.863951804
+7701,Charu C. Aggarwal,0.917814206
+7702,Haibing Lu,1.251935433
+7703,Jaideep Vaidya,1.251935433
+7704,Basit Shafiq,1.251935433
+7705,Davide Martinenghi,0.665928757
+7706,Randy Sabett,0.730805978
+7707,Pierrick Gaudry,1.048301044
+7708,Radmilo Racic,1.031313072
+7709,George Kesidis,1.433921245
+7710,Hugo Krawczyk,1.095786535
+7711,Antoine Joux,1.550992016
+7712,Reynald Lercier,1.550992016
+7713,Shambhu J. Upadhyaya,1.065914498
+7714,Toni Farley,0.864200897
+7715,Jill Joseph,0.864200897
+7716,Stefan Katzenbeisser 0001,1.178914977
+7717,Johannes Kinder,1.178914977
+7718,Amit Klein 0001,0.903375533
+7719,Wesley M. Eddy,1.265493545
+7720,Padmaraj M. V. Nair,0.804326781
+7721,Lukasz Opyrchal,1.051046704
+7722,Micah Sherr,1.136419089
+7723,Tyrone Grandison,1.089424739
+7724,Carlo Blundo,0.93045743
+7725,Sudeep Sarkar,0.872025625
+7726,Zongyi Liu,0.872025625
+7727,Sachar Paulus,0.94434791
+7728,Danny De Cock,0.911195691
+7729,Michael Huth,1.114973706
+7730,Alban Gabillon,0.738739314
+7731,Yu Chen,0.744215636
+7732,Jon Callas,0.814523856
+7733,Daniel Nagy,0.814523856
+7734,Akira Otsuka,0.814523856
+7735,Heiko Mantel,0.733805898
+7736,Harold Mouchère,0.88866117
+7737,Christian Viard-Gaudin,0.88866117
+7738,Gautam Singaraju,0.788917798
+7739,Pijush Samui,1.005699989
+7740,Yildirim Dalkiliç,1.005699989
+7741,J. Jagan,1.005699989
+7742,William B. Langdon,1.149580425
+7743,António Leitão,1.162486662
+7744,Penousal Machado,1.139533912
+7745,Renu Vyas,1.062120957
+7746,Purva Goel,1.062120957
+7747,Sanjeev S. Tambe,1.062120957
+7748,Ali Vahdat,1.105219432
+7749,Jillian Morgan,1.105219432
+7750,Andrew R. McIntyre,1.105219432
+7751,Malcolm I. Heywood,1.105219432
+7752,A. Nur Zincir-Heywood,1.105219432
+7753,Stanislaw Deniziak,0.911258465
+7754,Leszek Ciopinski,0.911258465
+7755,Grzegorz Pawinski,0.911258465
+7756,Rajib Maity,0.876437669
+7757,Kironmala Chanda,0.876437669
+7758,Mohamed A. Shahin,0.621854018
+7759,Partha Pratim Roy 0002,1.187169926
+7760,Supratim Ray,1.187169926
+7761,Kunal Roy,1.187169926
+7762,João Correia,0.909393179
+7763,Filipe Assunção,0.909393179
+7764,José María Luna,0.769877078
+7765,Alberto Cano 0001,0.769877078
+7766,Sebastián Ventura,0.769877078
+7767,Elahe Fallah-Mehdipour,0.894708287
+7768,Omid Bozorg Haddad,0.894708287
+7769,Saeed K. Babanajad,0.957873337
+7770,A. Zahiri,0.927412261
+7771,A. A. Dehghani,0.927412261
+7772,H. Md. Azamathulla,0.927412261
+7773,Mehdi Mousavi,1.018025371
+7774,Alireza Azarbakht,1.018025371
+7775,Sahar Rahpeyma,1.018025371
+7776,Ali Farhadi,1.018025371
+7777,Mohammed S. Hussain,0.947643615
+7778,Alireza Ahangar-Asr,0.947643615
+7779,Youliang Chen,0.947643615
+7780,Akbar A. Javadi,0.947643615
+7781,Jeannie Fitzgerald,0.847117283
+7782,Krzysztof Krawiec,0.847117283
+7783,David Medernach,0.847117283
+7784,Michael F. Korns,1.124922384
+7785,Hamed Koohpayehzadeh Esfahani,1.075806081
+7786,Bithin Datta,1.075806081
+7787,Dominic P. Searson,0.893777213
+7788,José Carlos Bregieiro Ribeiro,0.925359233
+7789,Ana Filipa Nogueira,0.925359233
+7790,Francisco Fernández de Vega,0.925359233
+7791,Mário Alberto Zenha-Rela,0.925359233
+7792,Seyyed Soheil Sadat Hosseini,1.122396094
+7793,Alireza Nemati,1.122396094
+7794,Pradyut Kumar Muduli,0.953971871
+7795,Sarat Kumar Das,0.953971871
+7796,Charalampos Doukas,0.826644351
+7797,Thomas Pliakas,0.826644351
+7798,Ilias Maglogiannis,0.826644351
+7799,José Javier Yanguas,1.042330293
+7800,Elena Urdaneta,1.042330293
+7801,Michael John,1.12598267
+7802,Stefan Klose,1.145279896
+7803,Beate Seewald,1.145279896
+7804,Tom Chau,1.127482403
+7805,Negar Memarian,1.127482403
+7806,Brian Leung,1.127482403
+7807,Deborah Treherne,1.127482403
+7808,David A. Hobbs,1.127482403
+7809,Breanna Worthington-Eyre,1.127482403
+7810,Andrea Lamont,1.127482403
+7811,Michele Pla-Mobarak,1.127482403
+7812,Ellen Yi-Luen Do,0.975612899
+7813,Brian D. Jones,0.975612899
+7814,Amritpal Singh Bhachu,1.415911566
+7815,Nicolas Hine,1.415911566
+7816,Ryan Woolrych,1.415911566
+7817,Mohammad-Reza Tazari,0.759009148
+7818,Francesco Furfari,0.759009148
+7819,Álvaro Fides-Valero,0.759009148
+7820,Sten Hanke,0.759009148
+7821,Oliver Höftberger,0.759009148
+7822,Dionisis D. Kehagias,0.759009148
+7823,Miran Mosmondor,0.759009148
+7824,Peter Wolf,0.759009148
+7825,Elizabeth Mestheneos,1.059588716
+7826,Michael Obach,1.093287291
+7827,Pierre Barralon,1.093287291
+7828,Enrique León,1.093287291
+7829,Leire Martínez,1.093287291
+7830,Javier Arcas,1.093287291
+7831,Igone Idígoras,1.093287291
+7832,Alberto Martínez,1.093287291
+7833,Arantxa Rentería,1.04080852
+7834,Carmen Pastor,1.093287291
+7835,Tony Gentry,0.870020905
+7836,George MacGinnis,0.968417409
+7837,Shimon K. Modi,0.829833077
+7838,Jennifer Boger,0.83219489
+7839,Stephen Czarnuch,0.83219489
+7840,Tizneem Jiancaro,0.83219489
+7841,Jesse Hoey,0.83219489
+7842,Ken Sakamura,0.828551351
+7843,Shao-Huai Lee,0.88802902
+7844,Jui-Chen Huang,0.88802902
+7845,Ana García Robles,1.175234401
+7846,Javier García Guzmán,1.175234401
+7847,Lorena Bourg,1.175234401
+7848,J. Manuel Ojel,1.175234401
+7849,R. Ignacio Madrid,1.175234401
+7850,Foteini Agrafioti,1.028675407
+7851,Francis Minhthang Bui,1.028675407
+7852,Dimitrios Hatzinakos,1.028675407
+7853,David Prendergast 0001,1.374198583
+7854,Claire Somerville,1.374198583
+7855,Joseph P. Wherton,1.374198583
+7856,Michael C. Balasch,0.901961322
+7857,Martin Schultz,0.901961322
+7858,Christine Carius-Düssel,0.901961322
+7859,Joachim Hänsel,0.901961322
+7860,Norbert Pieth,0.901961322
+7861,Thilo Ernst,0.901961322
+7862,Jörn Kiselev,0.901961322
+7863,Gerd Kock,0.901961322
+7864,Ben Hennig,0.901961322
+7865,Klaus F. Wagner,0.901961322
+7866,Marten Haesner,0.901961322
+7867,Elisabeth Steinhagen-Thiessen,0.901961322
+7868,Mehmet Gövercin,0.901961322
+7869,Jan-Peter Jansen,0.901961322
+7870,Markus Schröder,0.901961322
+7871,Matthias Masur,0.901961322
+7872,Tobias Leipold,0.901961322
+7873,Irina Busch,0.901961322
+7874,Stefan Zeidler,0.901961322
+7875,Sibylle Meyer,0.901961322
+7876,Uta Böhm,0.901961322
+7877,Christa Fricke,0.901961322
+7878,Claudia Spindler,0.901961322
+7879,Harald Klaus,0.901961322
+7880,Fabienne Waidelich,0.901961322
+7881,Jens-Uwe Bußer,0.901961322
+7882,Wolfgang Klasen,0.901961322
+7883,Katrin Müller,0.901961322
+7884,Anastasios Drosou,0.849719625
+7885,Dimitrios Tzovaras,0.849719625
+7886,Raluca Marin-Perianu,0.892493983
+7887,Juan Jimenez Garcia,0.892493983
+7888,Stephan Bosch,0.892493983
+7889,Mihai Marin-Perianu,0.892493983
+7890,Paul J. M. Havinga,0.892493983
+7891,Suzanne Martin,1.055272778
+7892,Maurice D. Mulvenna,1.055272778
+7893,Diana Hodgins,0.892311213
+7894,Tom O'Kane,0.97346271
+7895,John O'Donoghue,0.97346271
+7896,Joe Gallagher,0.97346271
+7897,Abdur Aftab,0.97346271
+7898,Aveline Casey,0.97346271
+7899,Garry Courtney,0.97346271
+7900,Annalisa Franco,0.934626053
+7901,Dario Maio,0.934626053
+7902,Davide Maltoni,0.934626053
+7903,Wolfgang Deiters,0.914793088
+7904,Oliver Koch,0.914793088
+7905,Thomas Königsmann,0.914793088
+7906,Sven Meister,0.914793088
+7907,Diane J. Cook,0.970590612
+7908,Lawrence B. Holder,0.970590612
+7909,Jaromir Dolezal,0.915657381
+7910,Václav Chudácek,0.915657381
+7911,Michal Huptych,0.915657381
+7912,Miroslav Bursa,0.915657381
+7913,Jan Havlík,0.915657381
+7914,Francesca I. Cavallaro,0.799091837
+7915,Ainara Garzo,0.799091837
+7916,Anthony Remazeilles,0.799091837
+7917,Gabriel Gaminde,0.799091837
+7918,Eric Wade,0.788142022
+7919,Avinash Rao Parnandi,0.788142022
+7920,Babak A. Farshchian,0.960741969
+7921,Kristine Holbø,0.960741969
+7922,Marius Mikalsen,0.960741969
+7923,Jarl Reitan,0.960741969
+7924,Martin Floeck,0.78271132
+7925,Lothar Litz,0.78271132
+7926,Annette Spellerberg,0.78271132
+7927,Mario Drobics,0.883888733
+7928,Angelika Dohr,0.883888733
+7929,Susanne Giesecke,0.883888733
+7930,Günter Schreier 0001,0.883888733
+7931,Katherine Wild,1.03133569
+7932,Linda Boise,1.03133569
+7933,Ingo Meyer,0.927196874
+7934,Lutz Kubitschke,0.927196874
+7935,Tatsuo Nakajima,0.922796941
+7936,Fahim Kawsar,0.922796941
+7937,Teresa Zayas-Cabán,1.129577083
+7938,Jenna L. Marquard,1.129577083
+7939,CheeFai Tan,0.837758116
+7940,Wei Chen 0015,0.837758116
+7941,Matthias Rauterberg,0.837758116
+7942,Frerk Müller,0.789552335
+7943,Myriam Lipprandt,0.789552335
+7944,Marco Eichelberg,0.789552335
+7945,Axel Helmer,0.789552335
+7946,Clemens Busch,0.789552335
+7947,Detlev Willemsen,0.789552335
+7948,Andreas Hein,0.789552335
+7949,Dana Pavel,0.87709202
+7950,Vic Callaghan,0.87709202
+7951,Anind K. Dey,0.87709202
+7952,Tsai-Ya Lai,0.935009958
+7953,Jenn-Hwan Tarng,0.935009958
+7954,William D. Kearns,0.892748966
+7955,James L. Fozard,0.892748966
+7956,Rami Puzis,1.01610842
+7957,Meytal Tubi,1.01610842
+7958,Yu-Ru Lin,0.912660538
+7959,Hari Sundaram,0.92363076
+7960,Aisling Kelliher,0.912660538
+7961,Anwitaman Datta,0.996320842
+7962,Sonja Buchegger,0.996320842
+7963,Le-Hung Vu,0.996320842
+7964,Thorsten Strufe,1.135508462
+7965,Krzysztof Rzadca,0.996320842
+7966,Eduardo B. Fernández,1.039595695
+7967,Carolina Marin,1.039595695
+7968,Maria M. Larrondo-Petrie,1.039595695
+7969,Jose Simoes,0.789886523
+7970,Thomas Magedanz,0.789886523
+7971,Masaki Aida,0.947523701
+7972,Hideyuki Koto,0.947523701
+7973,Lisa Singh,0.892259058
+7974,Elisa Jayne Bienenstock,0.892259058
+7975,Janet Mann,0.892259058
+7976,Muthucumaru Maheswaran,1.133817758
+7977,Bader Ali,1.133817758
+7978,Hatice Ozguven,1.133817758
+7979,Julien Lord,1.133817758
+7980,Janice Kwan-Wai Leung,0.87044239
+7981,Chun Hung Li,0.87044239
+7982,Munmun De Choudhury,0.766668115
+7983,Ajita John,0.766668115
+7984,Dorée Duncan Seligmann,0.766668115
+7985,Mingxin Zhang,0.987649198
+7986,Jason J. Jung,1.160059964
+7987,Kwang Sun Choi,1.160059964
+7988,Sung-Hyuk Park,1.160059964
+7989,P. Santhi Thilagam,0.999639089
+7990,Ronald R. Yager,1.211215356
+7991,Ing-Xiang Chen,1.294406768
+7992,Cheng-Zen Yang,1.294406768
+7993,Cecilia Sik-Lányi,1.059091544
+7994,Leucio Antonio Cutillo,0.842564644
+7995,Mark Manulis,0.842564644
+7996,Sergej Sizov,0.856153405
+7997,Steffen Staab,0.856153405
+7998,Thomas Franz,0.856153405
+7999,Touhid Bhuiyan,0.883766264
+8000,Audun Jøsang,0.883766264
+8001,Yue Xu,0.883766264
+8002,Susanta Mitra,0.743736234
+8003,Aditya Bagchi,0.743736234
+8004,Nathalie Henry Riche,1.10369692
+8005,Jean-Daniel Fekete,1.10369692
+8006,Katerina Slaninová,0.997933753
+8007,Jan Martinovic,0.997933753
+8008,Pavla Drázdilová,0.997933753
+8009,Gamila Obadi,0.997933753
+8010,Václav Snásel,0.997933753
+8011,Abraham Bagherjeiran,0.670759813
+8012,Rushi Bhatt,0.670759813
+8013,Rajesh Parekh,0.670759813
+8014,Vineet Chaoji,0.670759813
+8015,Nina D. Ziv,0.969361102
+8016,Kerry-Ann White,0.969361102
+8017,Lester Melendez,0.912812144
+8018,Ouri Wolfson,0.912812144
+8019,Malek Adjouadi,0.912812144
+8020,Naphtali Rishe,0.912812144
+8021,Tsuyoshi Murata,1.27257323
+8022,Bo Yang 0002,0.701566863
+8023,Dayou Liu,0.701566863
+8024,Jiming Liu 0001,0.701566863
+8025,Marcel Karnstedt,0.999885669
+8026,Tara Hennessy,0.999885669
+8027,Jeffrey Chan,0.999885669
+8028,Partha Basuchowdhuri,0.999885669
+8029,Conor Hayes,0.999885669
+8030,Keiji Yanai,0.768692705
+8031,Bingyu Qiu,0.768692705
+8032,Dil Muhammad Akbar Hussain,0.776058618
+8033,Antonio Hernando,0.94794687
+8034,Jesús Bobadilla,0.94794687
+8035,Francisco Serradilla,0.94794687
+8036,Gerhard Austaller,0.936361712
+8037,Fernando Lyardet,0.884757767
+8038,Dirk Schnelle,0.907221139
+8039,Rainer Malaka,0.821517574
+8040,Erwin Aitenbichler,1.092522082
+8041,Sebastian Ries,0.806763684
+8042,Tobias Straub,1.139749456
+8043,Andreas Heinemann,1.3668117
+8044,Andreas Hartl,0.956717296
+8045,Michael Weber 0001,0.887302514
+8046,Marc Hermann,0.887302514
+8047,Samir Raiyani,1.333862566
+8048,Matthias Winkler,0.99480058
+8049,Melanie Hartmann,0.873142354
+8050,Jochen H. Schiller,0.978160911
+8051,Daniel Oberle,0.938939954
+8052,Christof Bornhövd,0.938939954
+8053,Michael Altenhofen,0.938939954
+8054,Wolfgang Gerteis,1.014891634
+8055,Zoltán Nochta,0.864872746
+8056,Jürgen Anke,1.430086797
+8057,Bernhard Wolf,1.430086797
+8058,Gregor Hackenbroich,1.430086797
+8059,Hong Hai Do,1.430086797
+8060,Mario Neugebauer,1.430086797
+8061,Anja Klein 0001,1.430086797
+8062,Frankie James,0.908923777
+8063,Rama Gurram,1.286630325
+8064,Patrik Spieß,0.832804669
+8065,Jens Müller 0002,0.832804669
+8066,Matthias Jöst,0.906635892
+8067,Jussi Kangasharju,0.796699481
+8068,Volkmar Lotz,0.798023266
+8069,Luca Compagna,0.798023266
+8070,Konrad S. Wrona,0.798023266
+8071,Tobias Limberger,0.979961013
+8072,Burkhard Stiller,0.869379022
+8073,David Hausheer,0.869379022
+8074,Jan Gerke,0.869379022
+8075,Péter Rácz,0.869379022
+8076,Cristian Morariu,0.869379022
+8077,Martin Waldburger,0.869379022
+8078,Louenas Hamdi,1.430404085
+8079,Alistair Barros,0.964580308
+8080,Saburo Muroga,3.073370804
+8081,Akio Nakagawa,0.804422725
+8082,Alice C. Parker,1.290806389
+8083,Yosef Tirat-Gefen,1.290806389
+8084,Suhrid A. Wadekar,1.290806389
+8085,Samuel S. Martin,2.033160084
+8086,Thad Gabara,2.033160084
+8087,Kwok Ng,2.033160084
+8088,Vikram Iyengar,0.781941447
+8089,Elizabeth M. Rudnick,0.781941447
+8090,John D. Cressler,0.953439036
+8091,John W. Fattaruso,0.98027465
+8092,Louis A. Williams III,0.98027465
+8093,Bang-Sup Song,1.048014744
+8094,Geert A. De Veirman,0.947299725
+8095,Michiel Steyaert,0.963991832
+8096,Marc Borremans,0.963991832
+8097,Johan Janssens,0.963991832
+8098,Bram De Muer,0.963991832
+8099,Andrea Baschirotto,1.145657049
+8100,Philip G. Neudeck,1.023165854
+8101,Dimitri Kagaris,0.812868392
+8102,Peter J. Hesketh,0.935742203
+8103,Shin-ichi Minato,0.817137718
+8104,Thomas H. Lee,0.795999858
+8105,Maria del Mar Hershenson,0.795999858
+8106,Sunderarajan S. Mohan,0.795999858
+8107,Kirad Samavati,0.795999858
+8108,C. Patrick Yue,0.795999858
+8109,Spyros Tragoudas,1.323640373
+8110,Krishna Shenai,1.058498805
+8111,Erik A. McShane,1.049437829
+8112,Naofumi Takagi,1.130027795
+8113,Haruyuki Tago,0.825556276
+8114,Charles R. Baugh,1.088287288
+8115,Zainalabedin Navabi,0.872464351
+8116,Yasuhiro Katsumata,0.869554025
+8117,Tatsuya Ohguro,0.869554025
+8118,Kazumi Inoh,0.869554025
+8119,Eiji Morifuji,0.869554025
+8120,Takashi Yoshitomi,0.869554025
+8121,Hideki Kimijima,0.869554025
+8122,Hideaki Nii,0.869554025
+8123,Toyota Morimoto,0.869554025
+8124,Hisayo S. Momose,0.869554025
+8125,Kuniyoshi Yoshikawa,0.869554025
+8126,Hidemi Ishiuchi,0.869554025
+8127,Hiroshi Iwai,0.869554025
+8128,John Lockwood,0.897754353
+8129,Victor Boyadzhyan,0.930868496
+8130,John Choma Jr.,0.930868496
+8131,Ivan S. Kourtev,0.904987719
+8132,Eby G. Friedman,0.904987719
+8133,James H. Aylor,0.975000226
+8134,Robert H. Klenke,0.975000226
+8135,Steve M. Kang,1.044054773
+8136,Abhijit Dharchoudhury,1.044054773
+8137,David T. Blaauw,1.044054773
+8138,Stantanu Ganguly,1.044054773
+8139,Michel S. Nakhla,1.092742581
+8140,Ramachandra Achar,1.092742581
+8141,Flavio Lorenzelli,1.011128743
+8142,Kung Yao,1.011128743
+8143,Stephen I. Long,1.24689734
+8144,J. Gregory Rollins,1.029272314
+8145,Ko Yoshikawa,1.020924889
+8146,Chung-Yu Wu,0.812185944
+8147,Jen-Sheng Hwang,0.887099678
+8148,Wayne H. Wolf,0.770685117
+8149,David L. Barton,0.798505158
+8150,Donald B. Estreich,0.895864819
+8151,Daniel A. Connors,0.917021115
+8152,Wen-mei W. Hwu,0.917021115
+8153,David J. Comer,1.013575018
+8154,Donald T. Comer,1.013575018
+8155,Rick Shih-Jye Shen,1.698338997
+8156,Frank Ruei-Ling Lin,1.698338997
+8157,Amy Hsiu-Fen Chou,1.698338997
+8158,Evans Ching-Song Yang,1.698338997
+8159,Charles Ching-Hsiang Hsu,1.698338997
+8160,Nick Kanopoulos,1.108224155
+8161,Martin Margala,0.639236713
+8162,J. Bhasker,0.720777203
+8163,Massoud Pedram,0.959331676
+8164,Sorin Cristoloveanu,1.109868312
+8165,Allen M. Dewey,0.787529865
+8166,Moon-Jung Chung,0.787529865
+8167,Heechul Kim,0.787529865
+8168,Pankaj Khandelwal,0.875105452
+8169,Yuichi Nakamura,0.998869573
+8170,Kuo-Hsing Cheng,1.037959711
+8171,Donald Cottrell,0.999005858
+8172,Ashraf Lotfi,0.867747063
+8173,Yuh-Kuang Tseng,0.621367431
+8174,R. F. Wassenaar,0.720385235
+8175,Mohammed Ismail 0001,0.720385235
+8176,Chi-Hung Lin,0.720385235
+8177,Min-shueh Yuan,0.945021236
+8178,Chorng-Kuang Wang,0.945021236
+8179,Tanay Karnik,0.984783681
+8180,Jan V. Grahn,0.8581379
+8181,Mikael Östling,0.8581379
+8182,Chris Toumazou,1.319056549
+8183,Alison J. Payne,1.319056549
+8184,Harry W. Li,1.162372233
+8185,R. Jakob Baker,1.162372233
+8186,Donald C. Thelen,1.162372233
+8187,John M. Khoury,1.145241092
+8188,Charles E. Chang,1.332073683
+8189,Meera Venkataraman,1.332073683
+8190,Sumit Gupta,0.980771022
+8191,Rajesh K. Gupta 0001,0.980771022
+8192,Isik C. Kizilyalli,0.774726862
+8193,Karl Hess,0.774726862
+8194,Joseph W. Lyding,0.774726862
+8195,Kazuo Yano,0.974555412
+8196,Edgar Gómez Cruz,1.258144598
+8197,J. Patrick Williams,1.036297093
+8198,Hsin-Liang Chen,1.036297093
+8199,Boyd Davis,0.855945541
+8200,Peyton Mason,0.855945541
+8201,Mauri Collins,0.951373325
+8202,Zane Berge,0.951373325
+8203,Artemio Ramirez Jr.,1.101209527
+8204,Matthew S. Eastin,1.101209527
+8205,Jennifer Chakroff,1.101209527
+8206,Vincent Cicchirillo,1.101209527
+8207,Gabriel A. Giordano,0.93654647
+8208,Jason S. Stoner,0.93654647
+8209,Robyn L. Brouer,0.93654647
+8210,Joey F. George,1.002738819
+8211,Patricia G. Lange,1.131219132
+8212,Lesley S. J. Farmer,1.354262577
+8213,Jutta Weber,1.101799394
+8214,Joachim Kimmerle,0.83125735
+8215,Ulrike Cress,0.83125735
+8216,Michael Stefanone,1.019323937
+8217,John W. Mullennix,0.992408408
+8218,Steven E. Stern,0.992408408
+8219,Stacey L. Connaughton,0.833271871
+8220,Janice Krueger,0.836118283
+8221,Sarah Rofofsky Marcus,0.847726063
+8222,Jo Mackiewicz,1.023442104
+8223,Markus Wolf,0.851244123
+8224,Stephanie Bauer,0.851244123
+8225,Danny Hughes 0001,0.930512417
+8226,James Walkerdine,0.930512417
+8227,H. L. Lim,0.879253467
+8228,Fay Sudweeks,0.879253467
+8229,Kalev Leetaru,0.810036322
+8230,R. K. Koslowsky,1.204661058
+8231,Apryl Price,0.708284397
+8232,Rosanna Tarsiero,0.997662734
+8233,Rosanna E. Guadagno,0.984388592
+8234,Katrin Allmendinger,0.866241593
+8235,David Robins,1.1684071
+8236,Gerald S. Greenberg,0.932603706
+8237,Zeynep Cemalcilar,1.055386948
+8238,Sandra M. Harrison,0.943506669
+8239,Kent Marett,0.886615018
+8240,Michaël Opgenhaffen,1.162689343
+8241,Barrie Jo Price,0.870434343
+8242,Rotimi Taiwo,0.990135751
+8243,Rosalie J. Ocker,0.844304163
+8244,Jung-ran Park,0.855121231
+8245,Anna C. McFadden,1.102703267
+8246,Jamie Switzer,0.961072332
+8247,Susan R. Fussell,0.841956695
+8248,Qiping Zhang,0.841956695
+8249,Leslie D. Setlock,0.841956695
+8250,Angélica Rísquez,1.122251951
+8251,Eric T. Meyer,0.971914792
+8252,Suely Fragoso,1.162922839
+8253,Erin Bower,1.026797846
+8254,Karen Brodsky,1.026797846
+8255,Allison Level,0.914719127
+8256,Amy E. Hoseth,0.914719127
+8257,Uma Devi Doraiswamy,0.682739185
+8258,Per F. V. Hasle,0.876250326
+8259,Anne-Kathrine Kjær Christensen,0.876250326
+8260,Robert Jordan,0.802264254
+8261,Kit Hang Leung,1.024761248
+8262,J. Patrick Biddix,0.871222696
+8263,Bolanle Olaniran,1.121834997
+8264,Anita L. Blanchard,0.932037266
+8265,Stephen Thorpe,0.892240228
+8266,Wengao Gong,0.996164683
+8267,Vincent B. Y. Ooi,0.996164683
+8268,Shawn Apostel,0.896706674
+8269,Moe Folk,0.896706674
+8270,Cheryl Amundsen,1.147146221
+8271,Elahe Sohbat,1.147146221
+8272,Ashok Darisipudi,0.837190531
+8273,Sushil Kumar Sharma,0.837190531
+8274,Mirjam Weder,0.731481372
+8275,Bradley M. Okdie,0.923555847
+8276,Kevin Eric DePew,0.871518861
+8277,Sarah Stewart,0.968010074
+8278,Elisabeth Pankl,0.700491916
+8279,Jenna Ryan,0.700491916
+8280,Julie D. Woletz,1.07883784
+8281,Alison Ruth,0.897392942
+8282,Karl-Heinz Renner,0.792144769
+8283,Astrid Schütz,0.792144769
+8284,Deborah Vess,1.087505679
+8285,Mikkel Godsk,1.008978619
+8286,Anja Bechmann Petersen,1.008978619
+8287,Courtney Crummett,1.128138581
+8288,Anna Perrault,1.128138581
+8289,Joseph E. Burns,0.963849478
+8290,Dianna Laurent,0.963849478
+8291,Cheng-chao Su,1.104375987
+8292,Karen Garcia,1.104375987
+8293,Jonathan Cohn,0.950912515
+8294,Dimitris Kiritsis,0.919886517
+8295,Samir M. Iqbal,0.806269752
+8296,Rashid Bashir,0.806269752
+8297,B. John Oommen,0.842807044
+8298,Sudip Misra,0.842807044
+8299,Ning Xi 0001,0.991044126
+8300,King Wai Chiu Lai,0.991044126
+8301,Heping Chen,0.991044126
+8302,Alon Wolf,1.080214565
+8303,Moshe Shoham,1.080214565
+8304,Srini Ramaswamy,1.227687842
+8305,Hemant Joshi,1.227687842
+8306,William Richmond,0.964839265
+8307,T. Joseph Lui,1.06311982
+8308,Kazuyoshi Ishii,1.140029276
+8309,Kinnya Tamaki,1.140029276
+8310,Wootae Jeong,0.650971584
+8311,Richard D. Patton,1.034832911
+8312,Peter C. Patton,1.132136525
+8313,Xavier Delorme,0.792415713
+8314,Alexandre Dolgui,0.792415713
+8315,Mohamed Essafi,0.792415713
+8316,Laurent Linxe,0.792415713
+8317,Damien Poyard,0.792415713
+8318,Christian Dannegger,0.913909732
+8319,Keiichi Shirase,0.958134907
+8320,Susumu Fujii,0.958134907
+8321,Deming Chen,1.109639083
+8322,Aníbal Ollero,0.873178874
+8323,Ángel Rodriguez Castaño,0.873178874
+8324,Mark R. Lehto,1.221269956
+8325,Mary F. Lesch,1.221269956
+8326,William J. Horrey,1.221269956
+8327,Nicholas Kottenstette,1.034530721
+8328,Panos J. Antsaklis,1.034530721
+8329,Yukio Hasegawa,1.073730574
+8330,José A. Ceroni,0.95904479
+8331,Marwan A. Simaan,1.112391742
+8332,Gary R. Bertoline,0.635498216
+8333,Nathan W. Hartman,0.635498216
+8334,Nicoletta Adamo-Villani,0.635498216
+8335,Luis Basañez,1.236885524
+8336,Raúl Suárez,1.236885524
+8337,Christopher Bissell,1.194137826
+8338,H. Dieter Rombach,0.909954372
+8339,John D. Lee,0.779602396
+8340,Bobbie D. Seppelt,0.779602396
+8341,István Vajk,1.057530776
+8342,Jenö Hetthéssy,1.057530776
+8343,Ruth Bars,1.057530776
+8344,Anatoly Pashkevich,1.142749616
+8345,Juan Diego Velásquez,1.041103404
+8346,Xin W. Chen,1.076807929
+8347,Sang Won Yoon,0.978936319
+8348,Hoo Sang Ko,0.978936319
+8349,Yoshiharu Inaba,0.836777669
+8350,Shinsuke Sakakibara,0.836777669
+8351,Birgit Graf,0.818878406
+8352,Harald Staab,0.818878406
+8353,Timothy I. Salsbury,0.823247413
+8354,Cecilia R. Aragon,0.899713081
+8355,Alberto Isidori,0.833423099
+8356,Daniel J. Power,1.048808445
+8357,Ramesh Sharda,1.048808445
+8358,Francisco P. Maturana,0.895146569
+8359,Dan L. Carnahan,0.895146569
+8360,Kenwood H. Hall,0.895146569
+8361,Bijay K. Jayaswal,1.023597134
+8362,Tibor Vámos,1.160628204
+8363,Wing Bun Lee,0.87009301
+8364,Benny C. F. Cheung,0.87009301
+8365,S. K. Kwok,0.87009301
+8366,M. Alkan Donmez,1.018396439
+8367,Johannes A. Soons,1.018396439
+8368,Pat P. Banerjee,0.920199417
+8369,Clyde W. Holsapple,0.918336921
+8370,Sharath Sasidharan,0.918336921
+8371,Peter Terwiesch,1.000975548
+8372,Christopher Ganz,1.000975548
+8373,Satish C. Mohleji,0.858080293
+8374,Dean F. Lamiano,0.858080293
+8375,Sebastian V. Massimini,0.858080293
+8376,Yuko J. Nakanishi,0.918145679
+8377,Rodrigo J. Cruz Di Palma,0.911578892
+8378,Manuel Scavarda Basaldúa,0.911578892
+8379,Sirkka-Liisa Jämsä Jounela,0.88753921
+8380,Greg Baiden,0.88753921
+8381,Peter Kopacek,1.121223343
+8382,Edward W. Tunstel,1.100736535
+8383,Nick A. Ivanescu,0.804949024
+8384,Yael Edan,0.782962256
+8385,Shufeng Han,0.782962256
+8386,Naoshi Kondo,0.782962256
+8387,Brian Carlisle,0.897898527
+8388,Branko Sarh,0.970230756
+8389,James Buttrick,0.970230756
+8390,Clayton Munk,0.970230756
+8391,Richard Bossi,0.970230756
+8392,Daniel Castro-Lacouture,0.80292909
+8393,Darwin G. Caldwell,0.95064126
+8394,Steve Davis 0001,0.95064126
+8395,René J. Moreno Masey,0.95064126
+8396,John O. Gray,0.95064126
+8397,Mitsuo Gen,0.831449841
+8398,Lin Lin 0008,0.831449841
+8399,Daniel W. Repperger,0.850824938
+8400,Chandler A. Phillips,0.850824938
+8401,Florin Gheorghe Filip,1.057221249
+8402,Kauko Leiviskä,1.057221249
+8403,Parasuram Balasubramanian,0.99190337
+8404,Brandon Savage,0.850159371
+8405,Michael Kaplan,0.973560952
+8406,Chin-Yin Huang,0.912172542
+8407,Dana S. Nau,1.089382178
+8408,Robert S. Parker,0.867303635
+8409,Thomas F. Edgar,1.197734328
+8410,Juergen Hahn,1.197734328
+8411,Gyula Vastag,1.164270482
+8412,Moshe Yerushalmy,1.164270482
+8413,Jaewoo Chung,0.872059175
+8414,Jose M. A. Tanchoco,0.872059175
+8415,Jocelyne Troccaz,0.941756872
+8416,Edward F. Watson,0.807902673
+8417,Karyn Holmes,0.807902673
+8418,Tae-Eog Lee,1.104003844
+8419,Theodore J. Williams,0.979390196
+8420,Gérard Morel,1.007091989
+8421,Jean-François Pétin,1.007091989
+8422,Timothy L. Johnson,1.007091989
+8423,Friedrich Pinnekamp,1.132483388
+8424,Alessandro Pasetti,0.617057065
+8425,Walter Schaufelberger,0.617057065
+8426,Bozenna Pasik-Duncan,1.174802591
+8427,Matthew Verleger,1.174802591
+8428,Petr Horácek,0.869704221
+8429,Steven J. Landry,0.798768234
+8430,Rolf Isermann,0.994416228
+8431,Jackson He,1.010449946
+8432,Enrique Castro-Leon,1.010449946
