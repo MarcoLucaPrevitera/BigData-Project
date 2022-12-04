@@ -1,0 +1,114 @@
+id;url;date;isbn;citationScore;publisher;title;editor_array
+5067;https://doi.org/10.1145/2534860;2021-07-31;978-1-4503-2309-3;0.951121714;ACM Press and IEEE Computer Society Press;Computer Science Curricula 2013;empty
+5068;http://www.lemis.com/grog/Documentation/Lions/index.html;2019-12-30;1-57398-013-7;0.845034321;Peer-to-Peer Communications;Lions Commentary on UNIX 6th Edition, with Source Code;empty
+5069;https://doi.org/10.1007/0-387-23483-7;2019-06-27;978-0-387-23473-1;1.021621058;Springer;Encyclopedia of Cryptography and Security;5180
+5070;https://doi.org/10.1007/978-1-4419-5906-5;2017-05-16;978-1-4419-5905-8;1.141538073;Springer;Encyclopedia of Cryptography and Security, 2nd Ed.;5052, 5180
+5071;http://www.booksonline.iospress.nl/Content/View.aspx?piid=26497;2012-03-28;978-1-60750-836-6;1.122847973;IOS Press;Handbook of Ambient Assisted Living - Technology for Healthcare, Rehabilitation and Well-being;5182, 5187, 5186, 5185, 5181, 5184, 5183, 5188
+5072;https://doi.org/10.1007/978-1-4419-7142-5;2019-06-26;978-1-4419-7141-8;1.079876915;Springer;Handbook of Social Network Technologies and Applications;4881
+5073;https://doi.org/10.4018/978-1-59904-832-1;2017-06-09;9.78E+12;1.193493978;IGI Global;Handbook of Research on Ubiquitous Computing Technology for Real Time Enterprises;5190, 5189
+5074;https://doi.org/10.1201/9781420049671;2017-05-16;978-0-8493-8593-3;0.897840485;CRC Press;The VLSI Handbook.;5191
+5075;https://doi.org/10.4018/978-1-59904-863-5;2017-06-09;9.78E+12;0.937197608;IGI Global;Handbook of Research on Computer Mediated Communication (2 Volumes);5192, 5193
+5076;https://doi.org/10.1007/978-3-540-78831-7;2019-11-12;978-3-540-78830-0;0.817261517;Springer;Springer Handbook of Automation;5194
+5077;https://doi.org/10.1007/978-3-319-08234-9;2022-05-04;;0.891996606;Springer;Encyclopedia of Computer Graphics and Games.;5195
+5078;https://doi.org/10.1002/9780470050118;2017-03-13;;1.045848197;John Wiley  and  Sons, Inc.;Wiley Encyclopedia of Computer Science and Engineering;5196
+5079;https://doi.org/10.1007/978-1-4614-7320-6;2017-05-16;978-1-4614-7320-6;1.262523851;Springer;Encyclopedia of Computational Neuroscience;5198, 5197
+5080;;2011-11-25;978-1-4200-5977-9;0.679241176;Taylor  and  Francis;Encyclopedia of Software Engineering;5199
+5081;;2021-07-13;1-4200-4326-9;0.943775766;Taylor  and  Francis;Encyclopedia of Wireless and Mobile Communications;4881
+5082;https://doi.org/10.1081/E-EIA;2017-05-07;1-4200-6620-X;0.996373118;Taylor  and  Francis;Encyclopedia of Information Assurance;5200
+5083;https://doi.org/10.4018/978-1-60566-836-9;2017-05-16;9.78E+12;0.750573299;IGI Global;Handbook of Research on Computational Forensics, Digital Crime, and Investigation: Methods and Solutions;5201
+5084;https://doi.org/10.4018/978-1-59140-987-8;2017-05-16;9.78E+12;0.920936938;IGI Global;Encyclopedia of Information Ethics and Security;5202
+5085;;2014-06-10;978-1-4020-5586-7;0.723637488;Springer;Handbook of Spatial Logics;5203, 5204, 5205
+5086;https://doi.org/10.4018/978-1-59904-879-6;2020-10-26;9.78E+12;0.716812126;IGI Global;Handbook of Research on Digital Libraries: Design, Development, and Impact;5208, 5206, 5209, 5207
+5087;https://doi.org/10.1007/978-3-319-10575-8;2022-01-03;978-3-319-10574-1;0.953001086;Springer;Handbook of Model Checking.;5211, 5210, 5213, 5212
+5088;https://doi.org/10.1201/9781420035315;2017-05-16;978-1-58488-301-2;0.755697088;Chapman and Hall/CRC;Handbook of Discrete and Computational Geometry, Second Edition.;5214, 5215
+5089;https://doi.org/10.4018/978-1-59904-931-1;2017-05-16;9.78E+12;0.933334489;IGI Global;Encyclopedia of Knowledge Management, Second Edition;5216, 5217
+5090;https://doi.org/10.1007/978-3-642-04898-2;2018-11-14;978-3-642-04897-5;0.861438475;Springer;International Encyclopedia of Statistical Science;5218
+5091;http://www.springerlink.com/content/978-0-387-09822-7;2020-02-25;978-0-387-09822-7;1.01556396;Springer;Data Mining and Knowledge Discovery Handbook, 2nd ed.;5219, 5220
+5092;https://doi.org/10.4018/978-1-59904-849-9;2021-07-25;9.78E+12;0.968170855;IGI Global;Encyclopedia of Artificial Intelligence (3 Volumes);5221, 5222, 5223
+5093;https://www.crcpress.com/Handbook-of-Graph-Drawing-and-Visualization/Tamassia/9781584884125;2016-01-17;978-1-5848-8412-5;1.058116159;Chapman and Hall/CRC;Handbook on Graph Drawing and Visualization.;5224
+5094;https://doi.org/10.1201/9781420011746;2017-07-05;978-1-58488-678-5;0.925965794;Chapman and Hall/CRC;Handbook of Real-Time and Embedded Systems.;5227, 5226, 5225
+5095;https://doi.org/10.1201/9781420013153;2017-06-14;978-0-8493-3833-5;0.892807431;Auerbach Publications/CRC;The Handbook of Mobile Middleware.;5229, 5228
+5096;http://www.crcnetbase.com/isbn/978-1-4665-0116-4;2015-06-05;978-1-4665-0116-4;0.920013643;Chapman and Hall/CRC;Handbook of Energy-Aware and Green Computing - Two Volume Set.;5230, 5231
+5097;http://www.crcnetbase.com/isbn/978-1-4665-0408-0;2015-06-05;978-1-4665-0408-0;1.088489238;Chapman and Hall/CRC;Handbook of Mixed Membership Models and Their Applications.;5235, 5234, 5233, 5232
+5098;https://doi.org/10.1201/9780203504086;2017-05-16;978-0-8493-1971-6;0.822716234;CRC Press;Mobile Computing Handbook.;5237, 5236
+5099;https://doi.org/10.1201/9781420010749;2017-05-16;978-1-58488-550-4;0.828778165;Chapman and Hall/CRC;Handbook of Approximation Algorithms and Metaheuristics.;5238
+5100;https://doi.org/10.1201/b13055;2017-05-16;978-1-4398-4618-6;1.025223754;Chapman and Hall/CRC;Handbook of Finite State Based Models and Applications.;5239
+5101;https://doi.org/10.1201/b17360;2017-05-16;978-1-4665-1184-2;0.825508208;CRC Press;Handbook of Virtual Environments - Design, Implementation, and Applications, Second Edition.;5241, 5240
+5102;https://doi.org/10.1201/9781420013481;2020-10-26;978-0-8493-7242-1;0.809830091;Auerbach Publications;Handbook of Algorithms for Physical Design Automation.;5244, 5243, 5242
+5103;https://doi.org/10.1201/9781439833032;2017-05-16;978-0-8493-7495-1;0.938678164;Auerbach Publ./CRC Press;Information security management handbook, Sixth Edition.;5246, 5245
+5104;https://doi.org/10.1201/9781420035179;2020-10-26;978-1-58488-435-4;1.022421252;Chapman and Hall/CRC;Handbook of Data Structures and Applications.;5247, 5243
+5105;http://www.crcnetbase.com/isbn/978-1-58488-397-5;2015-06-03;978-1-58488-397-5;0.855907391;Chapman and Hall/CRC;Handbook of Scheduling - Algorithms, Models, and Performance Analysis.;5227
+5106;https://doi.org/10.1201/9781420059823;2017-05-16;978-1-4200-5981-6;1.045152494;Chapman and Hall/CRC;Handbook of Financial Cryptography and Security.;5248
+5107;https://doi.org/10.1201/9781420011296;2017-05-16;978-1-58488-623-5;1.02457418;Chapman and Hall/CRC;Handbook of Parallel Computing - Models, Algorithms and Applications.;5249, 5250
+5108;https://doi.org/10.1201/9781420010855;2017-05-16;978-1-58488-565-8;1.030410586;Chapman and Hall/CRC;Handbook of Dynamic System Modeling.;5251
+5109;https://doi.org/10.1201/b11631;2019-06-18;978-1-4398-5684-0;0.951500894;Chapman and Hall/CRC;Handbook on Soft Computing for Video Surveillance.;5253, 5254, 5252
+5110;https://doi.org/10.1201/9781420035094;2017-05-16;978-1-58488-465-1;0.906006615;Chapman and Hall/CRC;Handbook of Algorithms for Wireless Networking and Mobile Computing.;5255
+5111;https://doi.org/10.1201/9780203507223;2017-05-16;978-1-58488-381-4;1.072615852;Chapman and Hall/CRC;The Practical Handbook of Internet Computing.;5256
+5112;https://doi.org/10.1201/9781420034981;2017-09-25;978-1-58488-518-4;0.773322197;Chapman and Hall/CRC;Handbook of Elliptic and Hyperelliptic Curve Cryptography.;5258, 5257, 5262, 5259, 5260, 5261, 5263
+5113;https://doi.org/10.1201/9781420064995;2018-11-14;978-0-8058-6280-5;0.994318802;CRC Press;The Universal Access Handbook.;5264
+5114;https://doi.org/10.1201/9781439832905;2017-05-16;978-0-8493-0149-0;1.075965002;CRC Press;Handbook of Discrete and Combinatorial Mathematics.;5268, 5265, 5266, 5269, 5267
+5115;https://doi.org/10.1201/9781420035063;2017-05-16;978-1-58488-475-0;1.023819713;Chapman and Hall/CRC;Handbook of Bioinspired Algorithms and Applications.;5270, 5271
+5116;https://doi.org/10.1201/9781420038163;2017-05-16;978-0-8493-2824-4;0.934481671;CRC Press;Embedded Systems Handbook.;5272
+5117;https://doi.org/10.1007/978-0-387-78414-4;2017-05-16;978-0-387-74724-8;1.165919997;Springer;Encyclopedia of Multimedia, 2nd Ed.;4881
+5118;https://doi.org/10.1007/0-387-30038-4;2019-06-26;978-0-387-24395-5;1.120518883;Springer;Encyclopedia of Multimedia;4881
+5119;https://doi.org/10.1007/978-1-4614-6859-2;2017-06-14;978-1-4614-6858-5;1.006724527;Springer;Handbook of Signal Processing Systems;5275, 5276, 5274, 5273
+5120;https://doi.org/10.1007/978-3-319-63962-8;2019-02-14;978-3-319-63962-8;1.052272148;Springer;Encyclopedia of Big Data Technologies.;5277, 5271
+5121;https://doi.org/10.1007/978-0-85729-859-1;2019-08-06;978-0-85729-858-4;1.099177771;Springer;Handbook of Document Image Processing and Recognition;5279, 5278
+5122;https://doi.org/10.1007/978-1-4899-7687-1;2017-05-16;978-1-4899-7685-7;1.201763474;Springer;Encyclopedia of Machine Learning and Data Mining;5281, 5280
+5123;https://doi.org/10.1007/978-0-387-30164-8;2018-11-14;978-0-387-30768-8;0.845044481;Springer;Encyclopedia of Machine Learning;5280, 5281
+5124;https://doi.org/10.1007/978-3-319-17885-1;2020-04-03;978-3-319-17884-4;0.793209464;Springer;Encyclopedia of GIS.;5283, 5284, 5282
+5125;https://doi.org/10.1007/978-0-387-35973-1;2020-04-03;978-0-387-30858-6;1.112941137;Springer;Encyclopedia of GIS.;5283, 5282
+5126;https://doi.org/10.1007/978-0-387-36699-9;2017-05-16;978-0-387-36698-2;0.975902454;Springer;Encyclopedia of Remote Sensing;5285
+5127;https://doi.org/10.1007/978-3-319-07052-0;2017-05-16;978-3-319-07051-3;0.880898475;Springer;Handbook of Science and Technology Convergence;5286, 5287
+5128;https://doi.org/10.1007/978-3-540-79567-4;2019-10-19;978-3-540-79566-7;0.828061032;Springer;Handbook of Visual Display Technology;5289, 5288, 5290
+5129;https://doi.org/10.1007/978-0-387-48533-1;2020-12-07;978-0-387-48532-4;0.8695452;Springer;Handbook of Database Security - Applications and Trends;5291, 5052
+5130;http://www.crcnetbase.com/isbn/9781466571464;2015-03-13;978-1-4665-7145-7;1.154001512;CRC Press;Modeling and Simulation-Based Systems Engineering Handbook.;5294, 5293, 5292
+5131;https://doi.org/10.1007/978-3-319-60013-0;2021-08-17;978-3-319-60013-0;1.352267287;Springer International Publishing;Encyclopedia of Education and Information Technologies;5295
+5132;https://doi.org/10.1007/978-0-387-85820-3;2019-09-16;978-0-387-85819-7;0.931035292;Springer;Recommender Systems Handbook;5298, 5296, 5220, 5297
+5133;https://doi.org/10.1007/978-0-387-31439-6;2017-05-16;978-0-387-30771-8;0.946153443;Springer;Computer Vision, A Reference Guide;5299
+5134;https://doi.org/10.4018/978-1-59140-989-2;2017-05-16;9.78E+12;0.892819222;IGI Global;Encyclopedia of Portal Technologies and Applications (2 Volumes);5295
+5135;https://www.sciencedirect.com/science/bookseries/15746526/2;2021-07-31;978-0-444-52726-4;1.000292866;Elsevier;Handbook of Constraint Programming;5301, 5300, 5040
+5136;http://cgi.csc.liv.ac.uk/~michael/handbook.html;2021-07-31;978-0-444-51493-6;0.912099343;Elsevier;Handbook of Temporal Reasoning in Artificial Intelligence;5303, 5302, 5304
+5137;https://www.sciencedirect.com/science/bookseries/15746526/3;2021-07-31;978-0-444-52211-5;1.73810412;Elsevier;Handbook of Knowledge Representation;5305, 5307, 5306
+5138;https://doi.org/10.1007/978-94-017-7267-9;2019-08-06;978-94-017-7266-2;0.917793515;Springer;Handbook of Hardware/Software Codesign.;5309, 5308
+5139;https://doi.org/10.1007/978-3-540-30301-5;2019-07-29;978-3-540-23957-4;0.867092009;Springer;Springer Handbook of Robotics;5310, 5311
+5140;https://doi.org/10.1007/978-3-319-32552-1;2021-07-25;978-3-319-32550-7;0.859047078;Springer;Springer Handbook of Robotics;5310, 5311
+5141;;2011-11-25;978-0-387-74758-3;1.166219158;Springer;Encyclopedia of Optimization, Second Edition;5313, 5312
+5142;https://doi.org/10.4018/978-1-60566-010-3;2017-05-16;9.78E+12;1.018234584;IGI Global;Encyclopedia of Data Warehousing and Mining, Second Edition (4 Volumes);5314
+5143;https://doi.org/10.1007/978-3-642-02742-0;2019-05-14;978-3-642-02741-3;0.929723418;Springer;Network Performance Engineering - A Handbook on Convergent Multi-Service Networks and Next Generation Internet;5315
+5144;https://doi.org/10.1007/978-0-387-73003-5;2017-10-27;978-0-387-73002-8;0.74276877;Springer US;Encyclopedia of Biometrics;5317, 5316
+5145;https://doi.org/10.1007/978-1-4899-7488-4;2017-10-27;978-1-4899-7487-7;0.935794475;Springer US;Encyclopedia of Biometrics, Second Edition;5316, 5317
+5146;https://doi.org/10.1017/CBO9781107446984;2017-05-16;9.78E+12;0.75145658;Cambridge University Press;Handbook of Computational Social Choice;5322, 5320, 5318, 5321, 5319
+5147;https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology#book-description;2020-11-04;978-0-12-811432-2;0.770627121;Elsevier;Encyclopedia of Bioinformatics and Computational Biology - Volume 1;5323, 5325, 5324, 5326
+5148;https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology#book-description;2020-11-04;978-0-12-811432-2;0.940311754;Elsevier;Encyclopedia of Bioinformatics and Computational Biology - Volume 2;5326, 5323, 5324, 5325
+5149;https://www.sciencedirect.com/referencework/9780128114322/encyclopedia-of-bioinformatics-and-computational-biology#book-description;2020-11-04;978-0-12-811432-2;0.956294547;Elsevier;Encyclopedia of Bioinformatics and Computational Biology - Volume 3;5323, 5324, 5326, 5325
+5150;https://doi.org/10.1007/978-3-319-07124-4;2018-11-05;978-3-319-07123-7;0.630148628;Springer;Handbook of Heuristics.;5328, 5327, 5313
+5151;https://doi.org/10.1007/978-1-4939-2092-1;2017-09-16;978-1-4939-2091-4;0.904687301;Springer;Handbook on Data Centers;5329, 5271
+5152;https://doi.org/10.1007/978-1-4939-0790-8;2017-05-16;978-1-4939-0789-2;1.128608876;Springer;Handbook of Mathematical Methods in Imaging;5330
+5153;https://doi.org/10.1007/978-3-662-43505-2;2019-12-27;978-3-662-43504-5;1.001062406;Springer;Springer Handbook of Computational Intelligence;5331, 5332
+5154;https://doi.org/10.1007/978-3-319-95504-9;2020-12-29;978-3-319-95503-2;0.948267936;Springer;Handbook of Dynamic Data Driven Applications Systems.;5334, 5335, 5333
+5155;https://doi.org/10.1007/978-1-4899-7637-6;2020-06-15;978-1-4899-7636-9;0.986390819;Springer;Recommender Systems Handbook;5220, 5296, 5297
+5156;https://doi.org/10.1007/978-3-540-92913-0;2018-11-14;978-3-540-92912-3;0.973233371;Springer;Handbook of Semantic Web Technologies;5336, 5337, 5033
+5157;https://doi.org/10.1007/978-1-4614-8806-4;2021-06-01;978-1-4614-8805-7;0.689569406;Springer;Handbook of Human Computation;5338
+5158;https://doi.org/10.1007/978-3-319-98161-1;2018-11-05;978-3-319-98160-4;0.933079062;Springer;Handbook of Mobile Data Privacy.;5340, 5339
+5159;https://doi.org/10.1007/978-3-662-45279-0;2022-03-16;978-3-662-45278-3;1.068000559;Springer;Handbuch Industrie 4.0 Bd.1, Produktion.;5341, 5342, 5343
+5160;https://doi.org/10.1007/978-3-662-53254-6;2022-03-16;978-3-662-53253-9;0.847028297;Springer;Handbuch Industrie 4.0 Bd.4, Allgemeine Grundlagen.;5342, 5343, 5341
+5161;https://doi.org/10.1007/978-3-662-53251-5;2022-03-16;978-3-662-53250-8;0.658189615;Springer;Handbuch Industrie 4.0 Bd.3, Logistik.;5342, 5343, 5341
+5162;https://doi.org/10.1007/978-3-662-53248-5;2022-03-16;978-3-662-53247-8;1.121372192;Springer;Handbuch Industrie 4.0 Bd.2, Automatisierung.;5341, 5342, 5343
+5163;https://doi.org/10.1007/978-1-4471-5102-9;2017-05-16;978-1-4471-5102-9;0.867928105;Springer;Encyclopedia of Systems and Control;5345, 5344
+5164;https://www.sciencedirect.com/referencework/9780122272400/encyclopedia-of-information-systems;2020-04-17;978-0-12-227240-0;1.151215272;Academic Press;Encyclopedia of Information Systems;5346
+5165;;2011-11-25;978-3-540-76393-2;0.92966975;Springer;Taschenbuch der Algorithmen;5348, 5350, 2363, 5347, 5349, 5351, 5352
+5166;https://doi.org/10.1007/978-0-387-30162-4;2019-06-27;978-0-387-30770-1;0.870947988;Springer;Encyclopedia of Algorithms - 2008 Edition;5353
+5167;https://doi.org/10.1007/978-1-4939-2864-4;2019-06-27;978-1-4939-2863-7;1.209643848;Springer;Encyclopedia of Algorithms - 2016 Edition;5353
+5168;https://doi.org/10.1007/978-3-540-92910-9;2021-04-09;978-3-540-92909-3;0.813887866;Springer;Handbook of Natural Computing;5355, 5356, 5354
+5169;http://www.crcnetbase.com/isbn/9781420085938;2015-02-09;978-1-4200-8592-1;0.911116332;Chapman and Hall/CRC;Handbook of Natural Language Processing, Second Edition.;5357, 5358
+5170;https://doi.org/10.1007/978-3-642-04117-4;2021-10-14;978-3-642-04116-7;0.869028352;Springer;Handbook of Information and Communication Security;5359, 5360
+5171;;2011-11-25;978-0-387-75888-6;1.086618941;Springer;Encyclopedia of Complexity and Systems Science;5361
+5172;https://doi.org/10.1007/978-1-4614-6170-8;2017-05-16;978-1-4614-6169-2;1.143952452;Springer;Encyclopedia of Social Network Analysis and Mining;5363, 5362
+5173;https://www.springer.com/de/book/9781493971305;2022-05-04;;0.976269166;Springer;Encyclopedia of Social Network Analysis and Mining, 2nd Edition;5363, 5362
+5174;https://doi.org/10.1007/978-0-387-39940-9;2019-06-02;978-0-387-35544-3;0.893836829;Springer US;Encyclopedia of Database Systems;5364, 2017
+5175;https://doi.org/10.1007/978-1-4614-8265-9;2019-02-14;978-1-4614-8266-6;1.024777699;Springer;Encyclopedia of Database Systems, Second Edition;2017, 5364
+5176;https://doi.org/10.1007/978-3-642-59126-6;2018-11-25;978-3-642-63859-6;1.017834676;Springer;Handbook of Formal Languages, Volume 3: Beyond Words.;5354, 5365
+5177;https://doi.org/10.1007/978-3-662-07675-0;2018-11-25;978-3-642-08230-6;0.881332113;Springer;Handbook of Formal Languages, Volume 2. Linear Modeling: Background and Application.;5354, 5365
+5178;https://doi.org/10.1007/978-3-642-59136-5;2020-05-30;978-3-642-63863-3;1.10905894;Springer;Handbook of Formal Languages, Volume 1: Word, Language, Grammar.;5354, 5365
+5179;https://doi.org/10.1007/978-0-387-09766-4;2017-05-16;978-0-387-09765-7;0.928750897;Springer;Encyclopedia of Parallel Computing;5366
