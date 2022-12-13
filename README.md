@@ -59,3 +59,8 @@
 - Deliver will be on 15th of November 2022 (Delivered)
 
 ## Presentation on 13rd of December 2022
+- Introduction
+- Assumptions
+- Neo4j (intro + queries)
+- MongoDB (intro + queries)
+- Spark (intro + queries)
