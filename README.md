@@ -45,6 +45,17 @@
 
 - Deliver will be on 23rd of November 2022 (Delivered)
 
-## Delivery 3 - 
+## Delivery 3 - Spark
+- The delivery should contain
+  - A description of the structure of your dataset in pyspark
+  - Use at least 2k - 3k tuples
+  - The script used to transform the data in the pyspark format WITH
+  COMMENTS, if needed
+  - The final script to perform all the operations WITH COMMENTS on every
+  query/important operation performed.
+  - A screenshot of the query or its text with its explanation (for each query)
+  - A screenshot of the result of the query (for each query)
 
-### Presentation on 13th of December 2022
+- Deliver will be on 15th of November 2022 (Delivered)
+
+## Presentation on 13rd of December 2022
