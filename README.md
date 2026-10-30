@@ -1,66 +1,47 @@
-# SMBUD project -- 2022 -- prof. Marco Brambilla
+# SMBUD Project – Big Data & NoSQL (2022)
 
-## Delivery 1 - Neo4J
-- Description of the problem
-- Assumptions
-- Identified Entities and Relationships
-- ER Diagram
-- Dataset Description (Type/Name/Description of the Attributes, Size, etc.)
-- describe the difference between the ER diagram and the Neo4j database (provide an instance of your Neo4j database with a few nodes to make us understand the general structure and describe the attributes you considered, etc.)
-- Data Upload (Potential pre-processing, upload process, etc.)
-- Graph Diagram
-  - Nodes (Name, Descriptions, Attributes, Entities connected to, etc.)
-  - Links (Name, Descriptions, Attributes, etc.)
-  - Picture of the Diagram with a Description
-  - Queries (Cypher)
-    - For each query, report a readable picture/table with (a part) of the result, and a description of how the query works
-- Conclusion
-- Deliver will be on 2nd of November 2022 (Delivered)
+Implementation of data storage, modeling, querying, and processing solutions using **Neo4j, MongoDB, and Apache Spark**.
 
+Developed as part of the Systems and Methods for Big Data (SMBUD) course at Politecnico di Milano.
 
+## Tech Stack
 
-## Delivery 2 - MongoDB
-- MongoDB implementation of the collection
-- Data upload (importing)
-- Data queries
+- **Neo4j & Cypher** – Graph database and relationship modeling.
+- **MongoDB** – NoSQL document database.
+- **PySpark** – Distributed data processing.
+- **Python** – Data transformation and processing.
 
+## Architecture & Implementation
 
-- DATA STRUCTURE: Full description of document structure and content
-  - Title, Abstract, Authors (with affiliations, email, bio)
-  - Metadata (keywords)
-  - Publication details (journal, volume, number, date, pages)
-  - Sections: title, text (by paragraph), subsections, figures (image URL
-  and caption)
-  - Bibliography (set of refs.)
+### 1. Neo4j – Graph Database
 
-- The delivery should contain
-  - Description of the structure of a document
-  - If you already described the attribute in the first delivery, feel free to
-  copy-paste and update them (e.g., their type, description, etc.) and
-  integrate the new ones
-  - Example(s) of document(s) and Description
-  - Data Upload and Transformation
-  - Potential pre-processing, upload process, etc
-  - Queries
+- Designed the conceptual data model (ER diagram).
+- Mapped entities and relationships to graph nodes and edges.
+- Implemented graph structures and property definitions.
+- Developed Cypher queries for graph traversal and data retrieval.
+- Processed and imported the source dataset into Neo4j.
 
-- Deliver will be on 23rd of November 2022 (Delivered)
+### 2. MongoDB – Document Database
 
-## Delivery 3 - Spark
-- The delivery should contain
-  - A description of the structure of your dataset in pyspark
-  - Use at least 2k - 3k tuples
-  - The script used to transform the data in the pyspark format WITH
-  COMMENTS, if needed
-  - The final script to perform all the operations WITH COMMENTS on every
-  query/important operation performed.
-  - A screenshot of the query or its text with its explanation (for each query)
-  - A screenshot of the result of the query (for each query)
+- Designed a document-oriented data schema.
+- Implemented nested documents and collections.
+- Modeled publication data, including authors, affiliations, metadata, sections, figures, and references.
+- Developed data preprocessing and transformation procedures.
+- Imported the dataset and implemented MongoDB queries.
 
-- Deliver will be on 15th of November 2022 (Delivered)
+### 3. Apache Spark – Distributed Processing
 
-## Project presentation on 13rd of December 2022
-- Introduction
-- Assumptions
-- Neo4j (intro + queries)
-- MongoDB (intro + queries)
-- Spark (intro + queries)
+- Implemented data transformations using PySpark.
+- Converted the source dataset into a Spark-compatible structure.
+- Developed and executed data queries and analytical operations.
+- Documented transformations and query results.
+
+## Key Technical Areas
+
+- Graph data modeling and traversal.
+- NoSQL database design.
+- Document schema design and nested data structures.
+- Data ingestion and transformation.
+- Distributed data processing.
+- Cypher and MongoDB query development.
+- Python-based data engineering.
